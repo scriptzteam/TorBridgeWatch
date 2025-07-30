@@ -6,27 +6,28 @@ echo '|---|---|---|---|---|---|---|---|---|---|---|---|---|---|' >> Readme.md
 curl -s "https://onionoo.torproject.org/details" | jq -r '
   .bridges[] |
   [
-    .nickname,
-    .contact,
-    .hashed_fingerprint,
-    (.running|tostring),
-    (.flags | join(", ")),
-    .last_seen,
-    .first_seen,
-    .last_restarted,
-    (.advertised_bandwidth | tostring),
-    .platform,
-    .version,
-    .version_status,
-    (.recommended_version | tostring),
+    (.nickname // "N/A"),
+    (.contact // "N/A"),
+    (.hashed_fingerprint // "N/A"),
+    (.running | tostring),
+    ((.flags // []) | join(", ")),
+    (.last_seen // "N/A"),
+    (.first_seen // "N/A"),
+    (.last_restarted // "N/A"),
+    ((.advertised_bandwidth // 0) | tostring),
+    (.platform // "N/A"),
+    (.version // "N/A"),
+    (.version_status // "N/A"),
+    ((.recommended_version // false) | tostring),
     (.bridgedb_distributor // "N/A"),
-    (.or_addresses | join(", ")),
-    .transports,
-    .blocklist
+    ((.or_addresses // []) | join(", ")),
+    ((.transports // []) | join(", ")),
+    ((.blocklist // []) | join(", "))
   ] |
   map(
-    # Escape pipes and backslashes for Markdown compatibility
-    gsub("\\|"; "\\|") | gsub("\\\\"; "\\\\")
+    tostring |
+    gsub("\\|"; "\\|") |
+    gsub("\\\\"; "\\\\")
   ) |
   join(" | ") |
   "|" + . + "|"
