@@ -1,5 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Unnamed | N/A | 0004F8AEA55FE852194674C8554D68CC5E7A5BBA | true | Running, V2Dir, Valid | 2025-07-30 11:48:15 | 2025-07-25 02:48:05 | 2025-07-30 00:03:05 | 2582528 | Tor 0.4.8.13 on Linux | 0.4.8.13 | recommended | true | email | 10.33.209.153:62312 |  | |
 |ams1 | gus@riseup.net | 0009FD594D4F125E3300826ADADE11964C925DD5 | true | Running, V2Dir, Valid | 2025-07-30 11:48:15 | 2025-07-25 02:48:05 | 2025-07-29 13:10:07 | 4644864 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | https | 10.61.182.102:49830 | webtunnel | |
 |pacifico | ultramar@acuare.la | 001B4642A32171AC0360DC0C1FA2F1AE130EE99F | true | Running, V2Dir, Valid | 2025-07-30 11:48:15 | 2025-07-25 02:48:05 | 2025-07-18 11:05:37 | 476156 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | https | 10.186.219.211:49705 | webtunnel | |
