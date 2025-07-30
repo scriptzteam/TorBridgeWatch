@@ -32,3 +32,15 @@ curl -s "https://onionoo.torproject.org/details" | jq -r '
   join(" | ") |
   "|" + . + "|"
 ' >> Readme.md
+
+curl -s "https://onionoo.torproject.org/details" | jq -r '
+  .bridges[] |
+  [
+    (.nickname // "N/A"),
+    (.contact // "N/A"),
+    (.hashed_fingerprint // "N/A"),
+    (.bridgedb_distributor // "N/A"),
+    ((.transports // []) | join(", ")),
+    ((.blocklist // []) | join(", "))
+  ] | join(" | ")
+' > minimal.txt
