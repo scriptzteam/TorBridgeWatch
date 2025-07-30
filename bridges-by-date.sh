@@ -2,8 +2,8 @@
 
 mkdir -p "$(date +%Y)/$(date +%m)/$(date +%d)"
 
-echo '| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |' > data/bridges-added-by-date"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
-echo '|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|' >> data/bridges-added-by-date"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
+echo '| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |' > data/bridges-added-by-date/"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
+echo '|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|' >> data/bridges-added-by-date/"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
 
 TODAY=$(date +%F) # gets YYYY-MM-DD
 
