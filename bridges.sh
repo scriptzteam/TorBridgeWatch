@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo '| Nickname | Hashed Fingerprint | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses |'
-echo '|---|---|---|---|---|---|---|---|---|---|---|---|---|---|'
+echo '| Nickname | Hashed Fingerprint | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses |' > Readme.md
+echo '|---|---|---|---|---|---|---|---|---|---|---|---|---|---|' >> Readme.md
 
 curl -s "https://onionoo.torproject.org/details" | jq -r '
   .bridges[] |
@@ -27,4 +27,4 @@ curl -s "https://onionoo.torproject.org/details" | jq -r '
   ) |
   join(" | ") |
   "|" + . + "|"
-' > Readme.md
+' >> Readme.md
