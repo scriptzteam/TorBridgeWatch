@@ -24,7 +24,7 @@ jobs:
           git status
           if git status --porcelain | grep -q '^?? \|^A  \|^M  '; then
             echo "Changes detected, committing..."
-            git commit -m "Update bogon lists [skip ci]"
+            git commit -m "Update"
             git push
           else
             echo "No changes to commit"
