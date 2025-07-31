@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ioaioa | <olokerunningtor at protonmail dot com> | 120C8ED7BDA04729AA0A6B9215B5A920DB88C6C3 | false | V2Dir, Valid | 2025-07-31 01:48:16 | 2025-07-31 01:48:16 | 2025-07-31 01:38:11 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.18.85.116:56500 | webtunnel | |
+|Unnamed | N/A | 367A41DF267CBE19ADC1ACFC3E2BB01D30D72B53 | true | Running, V2Dir, Valid | 2025-07-31 01:48:16 | 2025-07-31 00:48:16 | 2025-07-31 00:13:27 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.23.157.31:63057 |  | |
