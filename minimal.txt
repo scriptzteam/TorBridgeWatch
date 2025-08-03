@@ -210,7 +210,7 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | settings | webtunnel | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
+Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -378,7 +378,6 @@ bonkybridge4 | m@bianchi.dev | 22F80A36047FA72F802CEF2CBA58D8B4AFB9B8F9 | reserv
 hell2heaven4uk | <haute-dubious.0q AT icloud DOT com> | 22FEE0207EE8FE9C098490ED23E090E7107CDBFE | settings | obfs4 | 
 WebTunnelBr | random@email.com | 231E484B4E541557C08ADAF2D20F4CDF7BBEDA6E | settings | webtunnel | 
 chicanerygremlin | chicanerygremlin@protonmail.com | 232D11771E30F72BF57D65DA4473285DE4207443 | N/A | obfs4 | 
-DockerObfs4Bridge | torproject.heroics014@passmail.net | 23353BFEFFD90EEA868FBE086314EAB050309ADF | N/A | obfs4 | 
 qqqqqqqmmmmmm | bangingyourmom@gmail.com | 233E92F495023490676108117729B2EC37B20C3F | https | obfs4 | 
 ParadiseBridge3 | Dave Null <dave@null.net> | 238EB53D363F5CA15DABE1F48966A64761A8A021 | https |  | 
 Sr2Bridge4501 | this used to be sanitised and I did not write the code to populate it yet | 23A2B20D5D4E69DFE8D1412CA86777D24CB54491 | none | obfs4 | 
@@ -518,6 +517,7 @@ merwedebrug | 2048R/B640BF1A Tor Relay <tor AT sec dot nl> | 2DFD823434FF3EC1717
 TriplebitBB | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2E188D2C74A0C508EB3F6D8179BCEDAA2DF1F35A | telegram | obfs4 | 
 kuangbiao | kuangbiao.musmo.com | 2E5FB40589192E531D4C5ABC88991BCAABAB4070 | moat | obfs4 | 
 fauconpelerin | 161ta@riseup.net | 2E734C2B496492CB668DC808F4390BC4C03705EC | settings | obfs4 | 
+voidTunnel | <bridge@zhan.science> | 2E977BF1777DE230B478E67B4D00F8C28217EB98 | N/A | webtunnel | 
 HelpFromPl | marcelspiski@gmail.com | 2ECF19C176631B65B6D5E7EE97B9A93F6EE9D3D9 | N/A | obfs4 | 
 Heisenberg4 | Heisenberg@example.com | 2ECF24822DB304CD43A0AEA5FAFC0389CDB75D18 | moat | obfs4 | 
 blast0 | N/A | 2ED1C3BA3CC10891784FED1645F91D9232B93EA3 | N/A |  | 
@@ -2137,6 +2137,7 @@ gnampf4i20 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:u
 imagerilycoastline | imagerily@gmail.com | C5CDCC805FAAD4EF36B8D5F0BDB4858D85C07670 | none | obfs4 | 
 NetDevPX | <tor@netdev.cloud> | C5D10CBA3355FF388C60D52991611F0CDB6B64DB | settings | obfs4 | 
 Druss | bridge.y6zhd@simplelogin.co | C5D57FB398C10ABE1631DD53495CE770EFD90A3A | moat | obfs4 | 
+MyWatchBegins | mywatchbegins@atomicmail.io | C61361F407CFBCA6B80FF64BB3B50C7AF8988997 | N/A | obfs4 | 
 apps2srv | app2srv-tor@syring.name | C619AF9BFAE210263E52ECE886697EA88BE2227D | settings | obfs3, obfs4 | 
 yourname1 | N/A | C61B3D8E5AFED211E7090070BC062F8A66865E4E | settings |  | 
 nafplio | torbridge_nafplio AT manchester DOT gr | C662533021372CEFD8EF8DDF66F53CDCA8FB80FF | email | obfs4 | 
