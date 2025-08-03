@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|lemniscate | stridentballard@morke.org | 4CA8159984E8253A547B7A79B4EF0BB625632C78 | true | Running, V2Dir, Valid | 2025-08-03 01:48:18 | 2025-08-03 01:48:18 | 2025-08-03 01:27:34 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.106.183.71:63305 | obfs4 | |
+|lemniscate | stridentballard@morke.org | 4CA8159984E8253A547B7A79B4EF0BB625632C78 | true | Running, V2Dir, Valid | 2025-08-03 02:48:19 | 2025-08-03 01:48:18 | 2025-08-03 01:27:34 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.106.183.71:63305 | obfs4 | |
