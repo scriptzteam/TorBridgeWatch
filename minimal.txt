@@ -211,7 +211,7 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | settings | webtunnel | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
+Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -622,6 +622,7 @@ nxocean2 | info@nxocean.com | 37036C25E0D59081FBDDE607A15AA09CC0E5535C | https |
 n4090f753 | n4090f7531@gmail.com | 372C3B70CC3D4DFF0E303FF6E8DA82AB72D2A826 | telegram | obfs4 | 
 LOLA | bridges@relayon.org | 3732DDFC79CF275655DAE1940214A53FD9BB5A0A | telegram | obfs4 | 
 helloandgtforkn728 | changeme@gmail.com | 3769F17DDFA92454AC09C93D503CD3D1F103F89C | telegram | obfs4 | 
+ki | N/A | 376D24A3E04B2BF3F53F806D723549B8C2DFB0C6 | N/A |  | 
 Bridge2M | torrelaysaregreat@gmail.com xmr:84czj1u2Q4dJ7bzf41TyDFS1i1GPKX5DQGgqZFg85LFge7LLUpCvEMyfjDfAnsZv291gtyMqUsTmxZojB7cRVckyUuih9ar | 37B998150F17E316AAFDEC05EF8878B70F9F07F4 | moat | obfs4 | 
 DockerObfs4Bridge | class-golf-valid@duck.com | 37BA9421D80F263CFBEEC52CA3ECEBA718882253 | none | obfs4 | 
 DockerObfs4Bridge | devnull@void.com | 37BEEDA5D5EA136174A9E57105FEF35E0BFCE58C | email | obfs4 | 
@@ -924,7 +925,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey4 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1688,7 +1689,6 @@ ki | N/A | 9E3F18B0EE152195A7F01B6703C3543E7B2CF68B | N/A |  |
 TriplebitBO | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 9E479A57D247C1B22DF764F38ED032D9C2D7F117 | telegram | webtunnel | 
 An45t4si4 | <u9xea3ewOQDs@i2pmail.org> | 9E57782577442E220EDA1BC0D491405C4F59C23A | https | webtunnel | 
 vermonixa01 | vermonixa@[rem]proton.me | 9E62C78D90F346D5AB4B1AC3FF612F9A75FC9CE8 | moat | obfs4 | 
-onepayxx | 0x7FFFFFFF tor@default.service | 9E813AFCAC5A6EEADF50BEA167D904348DB05D97 | N/A | obfs4 | 
 KanGouLya | kaly@kangoulya.org | 9E97A886417C87370AAC06947EC6A472188DAE3C | reserved |  | 
 Regrowth | tor@lahfa.xyz | 9EA673B2275BC15D1DBE7B061CCB562F0504FDB2 | moat | obfs4 | 
 RVBridge4913 | 0x414A64A2 Aaron M. Ucko <amu at alum dot mit dot edu> | 9EADF0B220A4B0E6FDA5E4975F9BE25D206E7804 | settings | obfs4 | 
