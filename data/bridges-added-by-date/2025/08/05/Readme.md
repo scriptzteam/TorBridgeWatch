@@ -1,4 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|boerni | boerni.tor@proton.me | 309AD6EE049B53A17E0DD1EADB12D0522BED7A40 | true | Running, V2Dir, Valid | 2025-08-05 04:18:21 | 2025-08-05 03:18:21 | 2025-08-05 03:06:19 | 0 | Tor 0.4.8.12 on Linux | 0.4.8.12 | recommended | true | N/A | 10.68.69.156:62420 |  | |
-|Unnamed | N/A | BD19AB0ED61E5A0D6F34AF39ABF8A5D7872FDEDF | true | Running, V2Dir, Valid | 2025-08-05 04:18:21 | 2025-08-05 04:18:21 | 2025-08-05 04:03:58 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | 10.177.209.195:55137 | obfs4 | |
+|boerni | boerni.tor@proton.me | 309AD6EE049B53A17E0DD1EADB12D0522BED7A40 | true | Running, V2Dir, Valid | 2025-08-05 05:18:21 | 2025-08-05 03:18:21 | 2025-08-05 03:06:19 | 0 | Tor 0.4.8.12 on Linux | 0.4.8.12 | recommended | true | N/A | 10.68.69.156:62420 |  | |
+|Unnamed | N/A | BD19AB0ED61E5A0D6F34AF39ABF8A5D7872FDEDF | true | Running, V2Dir, Valid | 2025-08-05 05:18:21 | 2025-08-05 04:18:21 | 2025-08-05 04:03:58 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | 10.177.209.195:55137 | obfs4 | |
