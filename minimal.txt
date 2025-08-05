@@ -213,7 +213,7 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | settings | webtunnel | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
+Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -402,7 +402,6 @@ NeverMindThat | ronen.rozner@gmail.com | 251CF98E39C0EBE301EEF375740B7D534760BB5
 bakunin1848 | bakunin1848_fs@protonmail.com | 2520906E361DA95430CEB595E667826FBC9425B4 | https | webtunnel | 
 TunnelToFreedomX | admin@tor.utilizer.de | 2530A4A96CDD6A8D1C17FC4A05DDFBC5DF666582 | https | webtunnel | 
 bauruine | abuse@tuxli.org | 2555DFDD0773163F339F849F15BD0A7D45C50894 | settings | webtunnel | 
-relayeredecho | kibbleandbits@protonmail.com | 2590FE9BC4B3C93E0DD8273520D81000F53D5802 | settings | obfs4 | 
 Superguppy | <sander@superguppy.net> | 259570AF70EB49EFB9D3706B9A28B01615377806 | moat | obfs4 | 
 AgileSurfTunnel | relays.6bnqm@passinbox.com | 25A6360C1FF4640B54D2A54A683F8A64F04AF5C1 | https | webtunnel | 
 arubaOne | N/A | 25D36AADFC6F60761B3DB780813E97DF599FD9DE | https | obfs4 | 
@@ -931,7 +930,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey4 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1679,6 +1678,7 @@ ZwiebelKeller1 | defbull(at)gmx(dot)de ZwiebelKeller1 DD | 9CBDBCDDE4BF09F71228F
 xfilerTorR | Manu Ciao ciccettino@tiscali.it | 9CCB5427DE6246E3639AA7875D2CB0BADD2E67D3 | settings | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 9CDE8C7FFB13379ED5D9FACEFEE1423D77C42366 | N/A | obfs4 | 
 Unnamed | N/A | 9CE4328365D02D9AD0720E66D8B4B3102EAC4DBA | N/A | obfs4 | 
+SussusAmogus | tampetus@gmail.com | 9D2C88147F60979B6E80347DEE3AB02CDDB81AD4 | N/A | obfs4 | 
 Unnamed | none | 9D350F263749434EB9D83F1A6D33C657C2E173DF | none | obfs4 | 
 crackychanDOTorg5 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (5) | 9D3568E8CD7C6F0BC0232F8C3822E8147AF85485 | lox | obfs4 | 
 TH7nXuV86QKY6C9GhD | ebanarusnia@onionmail.info | 9D4E7A21D1ABD168BABE497655B35747AFA194D4 | settings | obfs4 | 
