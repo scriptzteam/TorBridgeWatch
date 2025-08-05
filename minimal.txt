@@ -213,7 +213,7 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | settings | webtunnel | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
+Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -930,7 +930,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey5 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1478,7 +1478,6 @@ derfinsternis | no-reply@noaddress.com | 8B6F57F9AC5A5268EF7561C5C291ECD37F0E99E
 Jvod2 | AD376D92C096380C <noble dot flame 2594 AT fastmail dot com> | 8B80B05D6F1D1A9DC5F36B66B838D8A87F270EEC | email |  | 
 sa5gat | Gains73-Lung4_Pork75@xobnur.uk | 8B842F9032BD8E29507805E8CD42C9DE8F4D67BA | https | obfs4 | 
 Unnamed | N/A | 8B9D74FCF51027AAC06AFFC9CF7A65823EC4C068 | none |  | 
-dickcheney | yeehaw@heehaw.space | 8BA51659E2795A11259EF1C4E44EBEF7C0BE3501 | N/A | obfs4 | 
 bauruine | abuse@tuxli.org | 8BAD47646017EFA0DA4116792EF61132A7F9C616 | email | obfs4 | 
 AccessNow006Bridge | AccessNow.org <servers  accessnow.org> | 8BB8FABFE874884BAFBEA85E3A5B5DA2BAAD13B3 | https | obfs4 | 
 LOLA | bridges@relayon.org | 8BD7FF5C63E0044E1102AABD2BE546E65E18F5E0 | telegram | obfs4 | 
@@ -1875,6 +1874,7 @@ rondieBridge12 | tor@rondie.nl | ACFFED45BAAAA6BF78BE148F9F0A80E25BA4393E | http
 UpWCD9dE | <hindy@lovetux.net> | AD001A5A1C5762B07D8E3EF35A3EB30FFC0E3E9B | email |  | 
 DockerObfs4Bridge | Quartet2201@proton.me | AD0FDD661EF2888A20AB9600872D3C9FFFAC2561 | N/A | obfs4 | 
 DockerObfs4Bridge | admin@gsn.im | AD31E047CAB032A0CADD6B6DF3E2C4D727C0383F | moat | obfs4 | 
+TheYiffingProtogen | relay@kraither.gay | AD50079D4EAF5E1C559026D45F98B22C60CA9CBF | N/A | obfs4 | 
 DockerObfs4Bridge | jason.larion@gmail.com | AD53196E383C793FD3D634F73D0D1CD3F7E3D84B | N/A | obfs4 | 
 DockerObfs4Bridge | n.a.buchholz@gmail.com | AD53F8787947F3FD4198A79E703D9E271CB104FB | https | obfs4 | 
 QWERTY2manhelps | qwerty2man@hlpsy.uid | AD5EFA74396B205E4F7CE48EB7CBCB9EB34082EF | moat | obfs4 | 
@@ -2085,6 +2085,7 @@ WTBr1zT3oEif4O | ididntedittheconfig@gmail.com | C0104632CD212FC4E945B9438216FBE
 Unnamed | ruv2j6an at proton dot me | C01FB9172359B7F15FCEB3A53ECD3E1F4E5CB8F3 | settings | obfs4 | 
 Cheeseburger | N/A | C051F9FDA1697275245F4497661B4FE3657F6500 | settings | obfs4 | 
 ARCON | bridges@relayon.org | C057E105237FBC3C9E61F0141171A700CD6A62AA | settings | obfs4 | 
+MistrySiddh | hello@mistrysiddh.com | C058CD493B9A12BAC2DA3D24BB1EFF4BD818E027 | N/A | obfs4 | 
 glittershy | TOR Administrator <tor AT glittershy dot net> | C071390965D97BE9B24F6EAF7BC11D2405CC5A3D | https | obfs4 | 
 nocensorship | Random Person nobody@tor.org | C08085748D8801785B61A7627819A02E21CBCF4E | https |  | 
 Obfs4Bridge | email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 | C0BBB1DF6EAE4FC266E8EB42198410F0FCF5D18B | settings | obfs4 | 
