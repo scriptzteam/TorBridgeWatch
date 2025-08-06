@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|boerni | boerni.tor@proton.me | 7C709DBEE9B54B34AD19AB514C80266BD80975FE | true | Running, V2Dir, Valid | 2025-08-06 01:48:22 | 2025-08-06 00:48:22 | 2025-08-06 00:34:37 | 0 | Tor 0.4.8.12 on Linux | 0.4.8.12 | recommended | true | N/A | 10.53.204.244:64420 |  | |
+|boerni | boerni.tor@proton.me | B1A7E858B5D40F74C834EE34FC4A7A2B1FF5F354 | false | V2Dir, Valid | 2025-08-06 01:48:22 | 2025-08-06 00:48:22 | 2025-08-06 00:21:27 | 0 | Tor 0.4.8.12 on Linux | 0.4.8.12 | recommended | true | N/A | 10.165.208.59:64219 |  | |
