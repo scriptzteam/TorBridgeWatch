@@ -195,6 +195,7 @@ Unnamed | your-email@example.com | 133C03DA1D9B8C509CAA92A5E95845E4FF699D41 | N/
 hobobridge | hobosoft.production@gmail.com | 133D07D3D09FF8000D50AE0E8308C97B62C77E53 | moat | obfs4 | 
 Beluga | <tor-relays@lists.torproject.org> | 1376BE6844724A345D8F36881DFB54E913A57841 | telegram | webtunnel | 
 Haddess71 | support @ duscha [.] dev | 1379DFCE52880EEED646FAEB115E09196B73C6BB | email | obfs4 | 
+anonymous | example@gmail.com | 1380CEFB26E1C46CF266F5F3E97D6BB547C7CB60 | N/A |  | 
 Lallaf | <christoph@links-nett.ch> | 1397A1D3415F74FBFEC613A7FAC23CD32D4DE6B8 | https | obfs4 | ru
 zeta | BTO <tor AT fron dot io> | 139EDB57EBAAA6C7D3BE0DDEFF09E9788FC0F898 | email |  | 
 DockerObfs4Bridge | user_None@gmail.com | 13BD763D7ECF994F8FA9DF97514CC81FB11BB2A5 | N/A | obfs4 | 
@@ -774,7 +775,6 @@ Mano | gus@riseup.net | 43CEC9C234A9D0A5610B45F7693A2235EE787A46 | settings | ob
 3nity | <-1076176842-pm-me-> | 43D122C4C898E533C54FAE07481D49B5EE7F969E | moat | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 43D93B4F0F39EFC2F7BCD90FCE79D7539A1A9458 | N/A | obfs4 | 
 Unnamed | N/A | 441610E4704B00C3BEEFC0FE1544D8115F316AC4 | moat | obfs4 | distributed=true
-Unnamed | contact+torbridge<<AT>>stropharia.fr | 442105A76C4D5D9ED28ACFAF4008D09C758B1969 | N/A | webtunnel | 
 KATRIN | bridges@relayon.org | 444AC8D675D16B3A433EFB9402EF586D462A12E7 | telegram | obfs4 | 
 0815any | <warau.benedikt@gmail.com> | 4457E292B302DDFBAF61A3826196423F4C9487AA | email | obfs4 | 
 zitronebr | torrelay at limoneneis dot de | 445EA5D294222A778C29491AC5D80802A346D815 | https | webtunnel | 
@@ -959,7 +959,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey5 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1253,6 +1253,7 @@ UnredactedWT4AMS | admin[@]unredacted.org | 718033B1AD5FFEAAFAC123CD40A7461BFFD0
 rasputin | rasputin-film@freenet.de | 71D2818D4068E4DECC26719F37EA53892D0E9E9B | settings | obfs4 | distributed=true
 Unnamed | N/A | 71EA80F9BC7584F275B3DD4FB56CC225FE79C09E | telegram | obfs4 | 
 BridgePePaNetCZ | admin@pepanet.cz | 71EC8AE7432E2A162A13418F00422DDCAFC44658 | settings | obfs4 | 
+vasyalee | <vasyalee AT yahoo dot com> | 71F8748C6044C7CF64A4ADFBEDF096A6C2BCAAA9 | email |  | 
 ElGusto | sLKf58nnESYXmNZG@proton.me | 721661CEA1BDBD764E801E99E23511378DFECB3D | N/A | obfs4 | 
 bridge3 | v.nivlac@posteo.de | 723F7782C19E61035BE665F9D8790B2D41C19560 | telegram | obfs4 | 
 Exegol | email:tor[]elzpiraten.de url:https://elzpiraten.de proof:uri-rsa ciissversion:2 | 729978ABF73583D2EE128723F5445C412C590947 | https | obfs4 | 
@@ -2572,7 +2573,7 @@ adie84h3d | <gloawu@protonmail.com> | E70921390F81C05DED21B3C082A1F85AE18332EB |
 biglittle0 | simonstrutt@strutt.org.uk | E78EE0EE4D141CCDCD32BCAA446658E8893C2764 | moat | obfs4 | 
 Unnamed | 4096R/829984DB Pavol Luptak <wilder@trip.sk> | E7D84ABE3BDFF687E030DD15BB092DA783FDDBF8 | email | obfs4 | 
 boerni | boerni.tor@proton.me | E7DB79DBF14D4534D0A9B288AAFA013478705F4D | N/A |  | 
-littlenode | singlenode at quantentunnel dot de | E7DEE1B8B191EA6A7DAC410729DEB8BF2CD2E22C | email |  | ru
+littlenode | singlenode at quantentunnel dot de | E7DEE1B8B191EA6A7DAC410729DEB8BF2CD2E22C | email | obfs4 | ru
 hal9000 | bofh@bsafh.de | E7FC19636F5B8DD839C5984E4405E6C8F7E145EC | N/A |  | 
 TriplebitAU | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | E800432F7E2CC8AAA064E5EC55473C8938962B9F | N/A | webtunnel | 
 PlapperlenaH | peca-relay@mailfence.com | E80088962F97FE190D734D67E0C656C2A6EADEE7 | N/A | webtunnel | 

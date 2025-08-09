@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DockerObfs4Bridge | LeanTeam@onionmail.org | ED6F8CDAA9F69D848A5A9F2AF874EAADACFB09AE | true | Running, V2Dir, Valid | 2025-08-09 07:48:25 | 2025-08-09 02:18:25 | 2025-08-09 02:14:12 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.128.86.69:49508 | obfs4 | |
+|anonymous | example@gmail.com | 1380CEFB26E1C46CF266F5F3E97D6BB547C7CB60 | false | V2Dir, Valid | 2025-08-09 08:48:25 | 2025-08-09 08:18:25 | 2025-08-09 07:49:13 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.193.149.203:49284 |  | |
+|DockerObfs4Bridge | LeanTeam@onionmail.org | ED6F8CDAA9F69D848A5A9F2AF874EAADACFB09AE | true | Running, V2Dir, Valid | 2025-08-09 08:48:25 | 2025-08-09 02:18:25 | 2025-08-09 02:14:12 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.128.86.69:49508 | obfs4 | |
