@@ -1,6 +1,5 @@
 Unnamed | N/A | 0004F8AEA55FE852194674C8554D68CC5E7A5BBA | email |  | 
 ams1 | gus@riseup.net | 0009FD594D4F125E3300826ADADE11964C925DD5 | https | webtunnel | 
-pacifico | ultramar@acuare.la | 001B4642A32171AC0360DC0C1FA2F1AE130EE99F | https | webtunnel | 
 DockerObfs4Bridge | alberto@casetta.co.uk | 009CDA476053B5DF4441211CB25F9B2190BB0128 | settings | obfs4 | 
 TriplebitSnowflake2 | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 00B2069390A9D67F9F23581E2B99F59FCA08D96B | N/A | snowflake | 
 ForPrivacyNETbr40 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 00E1AE6CB75E47E363E6AEF9F67A49C0E854FDE7 | https | obfs4 | 
@@ -649,6 +648,7 @@ DockerObfs4Bridge | devnull@void.com | 37BEEDA5D5EA136174A9E57105FEF35E0BFCE58C 
 Tarek | address@email.com | 37C3B16F6907ADC630FCBE135384E70D0B77C48F | settings | obfs4 | 
 ForPrivacyNETbr12 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 37D1A0AC7AA6170AC058BCEBDD7A6272A4F4C136 | telegram | obfs4 | 
 gnampf4i13 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | 37D81E02D078A375E2365A429466A0ACBCA659A9 | https | obfs4 | 
+nightfox | tor-relay@chiko1337.dev | 37E5281157ADEFF3296BA60635600B99ABBC7BA8 | N/A | obfs4 | 
 rmdck | <tor AT rmdck dot fr> | 380AEC21AC96BF6DE0E4296F7FC0C4376F50EA5F | N/A |  | 
 susenginx | jke-webtunnel[at]tutamail[dot]com | 380C82819BAC1DD2DB9B4D8AE9F07D6A6BA34678 | none | webtunnel | 
 ARCON | bridges@relayon.org | 38288987904D32811BB856D2ACA7B9A8784F75BD | https | obfs4 | 
@@ -953,7 +953,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey4 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1778,6 +1778,7 @@ bauruine | abuse@tuxli.org | A069F6CBCC182BFF07B1D65190B53FD564F2978E | https | 
 dxxweb | Random Person <info AT dxx eu> | A071D47AE35D7B5F457C6DBC3650AFCD5DDD30D4 | N/A |  | 
 nullfwt3124 | email:info[]null-f.org url:https://null-f.org proof:uri-rsa abuse:abuse[]null-f.org ciissversion:2 | A09E2101B9DA24320E52D688C6A21CF103900BAA | https | webtunnel | 
 sharesize | kb-relay@pm.me | A0BB1E8F6F19DFE45D4A46FDBC5C30EFA6DFD146 | N/A | obfs4 | 
+nightfox | tor-relay@chiko1337.dev | A0DD2B40B16D9DD5146DDE006E315E2B4A663956 | N/A | obfs4 | 
 ForPrivacyNETbr64 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | A0FC22422223519C581EBFEA848DBCAA44B194D9 | moat | obfs4 | 
 PiccadillyBridge | cost-82993@mypacks.net | A0FE861E84174E03EE5B2692494395264120C4A8 | settings | obfs4 | 
 WebTunnelBr | N/A | A0FED6FAB1339452BBB91778C4B646BE06724563 | settings | webtunnel | 
@@ -2010,6 +2011,7 @@ NTH1B6 | N/A | B4E379664253CE160BE626C86FE602350F363A66 | settings |  |
 Unnamed | N/A | B4EF4640A86CB9516888B81E26428C6C58382B11 | telegram | obfs4 | 
 bridge | bridge@unknown.domain | B4F2D5582DFDF7138B048E6B3F7225FB30AF4619 | N/A | obfs4 | 
 lfg09 | gus@riseup.net | B5008C64BA7B18C3284E74AA57323B27B1E19432 | telegram | obfs4 | 
+DockerObfs4Bridge | antonmuentz@gmail.com | B50DAC7D58A3E4D3D0A8DA7F362217CC332965D5 | N/A | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | B523C290FEE13278E4EE8C3641AD86BE4B01BE8E | N/A | obfs4 | 
 LOLA | bridges@relayon.org | B5AAA0AC48974FDF6E96E389667D56250B9E5355 | https | obfs4 | 
 boerni | boerni.tor@proton.me | B5D9534CED14DD7909C833911411F9CD47DC4A79 | N/A |  | 
@@ -2443,6 +2445,7 @@ ARCON | bridges@relayon.org | DA5FA5132258793EDBB2DD8CDC099078A8B3131D | moat | 
 ForPrivacyNETbr34 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DA613CCE03ED71ABC0499A8D9632DFE8C9C2A926 | moat | obfs4 | 
 AccessNow004Bridge | AccessNow.org <servers  accessnow.org> | DA692E507E57994A4AA2E91467C23F3D21D88FD5 | settings | obfs4 | 
 KATRIN | bridges@relayon.org | DA70A87CA34CE5287D231211EEB36518D6F09B96 | settings | obfs4 | 
+nightfox | tor-relay@chiko1337.dev | DA8D48715BF55B368BF1142A879EEB7E7BC5F34F | N/A | obfs4 | 
 mywaifubest | poiasdpoiasd@live.com | DABA58F32EDC6C825CE7ED7E4977F05F84C08F23 | https | obfs4 | 
 CCCRelay01 | celticcybercrew@protonmail.com | DAE5E6B37B447435EE0BF31A93B20A6C64992D79 | email | obfs4 | 
 DockerObfs4Bridge | nf0o1nvu@anonaddy.me | DB08F3A1E058C742ABBF76885E9906D7D203C3C0 | moat | obfs4 | 
@@ -2756,6 +2759,7 @@ ZombCompTorBridge01 | <ZombieComputers@Outlook.Com> | F843B4434B14C277B1A6DDB94C
 NTH1B2 | N/A | F84DDD79B3C78CDB6D0C1359FD42CEDB0A188C76 | settings |  | 
 BlueCopperDevTin | root@guardianproject.info | F85AFB627028CE005C956345A6C5EA42E39BE41A | N/A | obfs4 | 
 OverTroubledWaters2 | N/A | F860C33F10D4D94AA0DEDF3579CC71ECC54CFB97 | settings | obfs4 | 
+nightfox | tor-relay@chiko1337.dev | F87938D982E94EE6064B8B15E06AF406AAFB27FC | N/A |  | 
 KATRIN | bridges@relayon.org | F8805592CCCC0BE3A2B2A79C0DEB228E8699DDC9 | https | obfs4 | 
 TriplebitAY | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | F8AF448B5038387EF3E9AF6057D9A4A264495D1F | settings | obfs4 | 
 KATRIN | bridges@relayon.org | F8C76ECF85174344031681EB2E2300ED37A63319 | settings | obfs4 | 
