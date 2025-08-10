@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|odinV | 0x13B23D80 Slosh <slosh PLUS tor AT voorka DOT mp> | 7D20AF6A4D9035C8504532E363794B0575ADC1BC | true | Running, V2Dir, Valid | 2025-08-10 01:48:26 | 2025-08-10 00:18:25 | 2025-08-10 00:13:49 | 76800 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.29.76.233:61122 |  | ru|
+|Unnamed | N/A | 94CEB153F5B20D513D2C5A6B6ABB0C40A763C8E4 | true | Running, V2Dir, Valid | 2025-08-10 01:48:26 | 2025-08-10 01:48:26 | 2025-08-10 01:17:33 | 71680 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.76.156.162:64388 | obfs3, obfs4 | |
