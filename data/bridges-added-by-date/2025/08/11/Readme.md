@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Unnamed | N/A | 5CFC87B06197581FABC174E06A636A1488A57E77 | false | Valid | 2025-08-11 01:48:27 | 2025-08-11 00:48:27 | 2025-08-11 00:29:10 | 665600 | Tor 0.4.8.16 on Windows 8 [or later] | 0.4.8.16 | recommended | true | N/A | 10.241.170.65:49596, [fd9f:2e19:3bcf::85:9b8c]:49596 |  | |
+|Unnamed | N/A | 5CFC87B06197581FABC174E06A636A1488A57E77 | false | Valid | 2025-08-11 02:48:27 | 2025-08-11 00:48:27 | 2025-08-11 00:29:10 | 665600 | Tor 0.4.8.16 on Windows 8 [or later] | 0.4.8.16 | recommended | true | N/A | 10.241.170.65:49596, [fd9f:2e19:3bcf::85:9b8c]:49596 |  | |
+|Opus | Opus  <tor@tor.org> | F790ACD0D3045A2481F315BEEC16A2C0F8F60BE7 | true | Running, Valid | 2025-08-11 02:48:27 | 2025-08-11 02:18:27 | 2025-08-11 02:02:57 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.186.223.93:59891 |  | |

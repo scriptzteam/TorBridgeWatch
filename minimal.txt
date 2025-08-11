@@ -952,7 +952,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey4 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -2267,7 +2267,7 @@ perang | perang@mailbox.org | CC1CF49D22BFA5829CD50F1C7D7189B573182170 | N/A | o
 DockerObfs4Bridge | torops@cccfr.de | CC56955B4ED3A512FADF4158C7EE46560301F039 | moat | obfs4 | 
 Unnamed | N/A | CC56C5203952B18F61A09A21AC71A573EC320D41 | N/A | obfs3, obfs4 | 
 Unnamed | N/A | CC58231C86142DBC1E0CC7036BADB65308477BC6 | settings | obfs4 | 
-BrookRameev | brookrameev@pm.me | CC5A519BF368DFB218323EA5A2E077135075F65F | settings | obfs4 | 
+BrookRameev | brookrameev@pm.me | CC5A519BF368DFB218323EA5A2E077135075F65F | settings |  | 
 TorBridge2 | rafael.stuartmusic@gmail.com | CC5B01FEFA23A52A916EF18303723317DBE30ED6 | N/A | obfs4 | 
 Labrelay | 150.43.248.241@email.com | CC5DAD701F0749730C38FEFA3C0318274CA41A6E | N/A | obfs4 | 
 WTBriNxS99XqfM | edonrot.0qfe9@dralias.com | CC66FD90CD4327AD4F5C9DF1DFD7AA0D5E61F53D | https | webtunnel | 
@@ -2719,7 +2719,7 @@ MyWatchBegins | mywatchbegins@atomicmail.io | F4B3A6A21F8E363AA328A2218A0F033128
 Beluga | <tor-relays@lists.torproject.org> | F4B3CE1375C152B830DD57662B4D93A7BA9D5FC0 | telegram | webtunnel | 
 clover | Matt Nordhoff <6ca584da-2bfd-4f9e-8a6c-a499269b0bfe@mn0.us> | F4DDCF082CFF1140A11F9342433661CA00C116CC | email | obfs4 | 
 NOTL | parkinglotlust@gmail.com | F4EB974243B0237D633F9C82E02D5CDC1BB15058 | moat | obfs4 | 
-Kulubbuk | N/A | F4FE451BBCC2F4E651E03E312556CDD8DAD49DA1 | lox |  | 
+Kulubbuk | N/A | F4FE451BBCC2F4E651E03E312556CDD8DAD49DA1 | lox | obfs4 | 
 Sr2Bridge4514 | hello from onionland | F52FF6651B9FDD9BE1FACD4019785BF2130C507C | none | obfs4 | 
 Klabauterbach4 | peca-relay@mailfence.com | F572531E88120DDED7E6AC6F3E80E9DD866F6714 | settings | obfs4 | 
 ki | N/A | F57DA39A66D8A3DEFF441015A451A937168B8E8F | N/A |  | 
@@ -2728,7 +2728,6 @@ DockerObfs4Bridge | jrgl0604@yahoo.com.tw | F5B75AFAFB0BAC567A77CE368E177291CC3B
 torbridgenewyork | <pobbwsjx@duck.com> | F5DA58E44AC7816966F2E0FE72BCAF0C4E531810 | N/A | obfs4 | 
 WebHorizonRentNO | anon-p2p-services.pe7an@slmail.me | F627EAD26D922151CC1F308FD32C16F75D44134C | moat | obfs4 | 
 NetDevPX | <tor@netdev.cloud> | F6296B7EAFA0D1CDCDBF9BD715847368EF6BF565 | telegram | obfs4 | 
-WTBrrBxPIop0Vv | admin@tired.social | F6499A97B5F9546AAFB0587C049445BDC3E20696 | settings | webtunnel | 
 linuxenbyWebTunnel3 | linuxenby[at]protonmail[dot]com XMR: 83XuMrHLbrn18f4VhvYY6EWpFipiG4zxtg6VN3QCtWvzZFJL8M68snLPj1F4T2TPgNAfjMtjHfg3JXBz9x7ECaNWLyetdEc | F68ABDA705EC91CDF9250CA7F2A608BE8B9254F3 | settings | webtunnel | 
 DockerObfs4Bridge | tor-bridge7786@proton.me | F699DC126A549D5301DB15994B685DB1CC8DD997 | settings | obfs4 | 
 pacifico | ultramar@acuare.la | F69E1AFF03D848ABD6B8DD7ABE0696CA93A5D8B7 | N/A | webtunnel | 
@@ -2742,6 +2741,7 @@ ForPrivacyNETbr24 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 labxyz | matthew.labuda@proton.me | F7724E13F0F5504DBDE88C9A79EFE3881887CEF7 | https | obfs4 | 
 ARCON | bridges@relayon.org | F7764DF471A27274DB1B103AFAE744CFCDA8AA51 | settings | obfs4 | 
 Trex | 0xFFFFFFFF  Trex the Daemon <nobody AT example dot com> | F7849B00644D4D85B2A1B0A4B6D0680E321F8C9E | https |  | ru
+Opus | Opus  <tor@tor.org> | F790ACD0D3045A2481F315BEEC16A2C0F8F60BE7 | N/A |  | 
 skankhunt42 | admin@skankhunt42.pw | F7976D3E65F7CA1946F30AF872DB8D90712A806F | https | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | F79E0A617B843D6811F783144D18617B8E2F8422 | N/A | obfs4 | 
 tomlig | <tomlig@yandex.ru> | F79FA94575F0AAADA6F89C5CDE5070092D630C83 | telegram | obfs4 | 
