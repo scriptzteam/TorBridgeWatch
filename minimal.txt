@@ -56,6 +56,7 @@ Heisenberg1 | Heisenberg@example.com | 0653AD30C3E2A39C0357394A9339907AA1E74554 
 GruncleStan1586 | 0x18FFB9259E11C3BC69ABC8857E65272B32D3C971 f19.4jbg3@gmail.com | 065EA370142CFFCB51FC93412D6C1552B4BFBFB2 | moat | obfs4 | 
 DockerObfs4Bridge | tor-operator@dcsl.dk | 0663F3E7008870FFFB498D7089681484406768AD | moat | obfs4 | 
 EnigmaBridge | rctb252092@mail2tor.com | 0693859283B4F83257D6888715B9BE586B5FADD3 | https | obfs4 | 
+Unnamed | N/A | 06A8C40AE76302EFB228829D256FFE9367A62654 | N/A |  | 
 boerni | boerni.tor@proton.me | 06BBDF0CF75DCDCBABA73ACBB9357BDD305FCA86 | N/A |  | 
 ThePowerOfLove | herta@riseup.net | 06D90CA07E453C953036C3C2EC63996277ACB846 | settings | obfs4 | 
 UckfayRumptay | <uckfayrumptay76@pm.me> | 06EB6AB0D30535FEF3E5C8C75F45788CCAA0727B | settings | obfs4 | 
@@ -63,6 +64,7 @@ Phantasm | N/A | 070B6F3475921E0E1A17ABE82F153965C1FF11D5 | settings |  |
 boerni | boerni.tor@proton.me | 0716EED79084E675ABED42AE675EE2CC589933A9 | N/A |  | 
 WTBrKIMZDqPdvL | rt5zlkcx@anonaddy.me | 0727BAC850EC47610850D689485597DA23AD3644 | https | webtunnel | 
 STYX | N/A | 073D476E2C7B169B1C1D440D2E83C86EAB6DB51D | settings |  | 
+badgerfighter | badgerfighter@proton.me | 0751E0CB30BD6B475E6937D8CC04D715F056449E | N/A | obfs4 | 
 gnampf4i11 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | 075F9DCFDD0B32CB1971499CEAF55490243DDC7B | telegram | obfs4 | 
 BensDockerBridgeDE | bensraspirelayde@gmail.com | 0786BE0460894F8DCAAF1E5DF84C215F378368E9 | telegram | obfs4 | 
 ATorribleBridge | postmaster@miroubot.fr.eu.org | 078B37A58EF118DE331A8BCAC8CAD75F45C7BE93 | moat | obfs4 | 
@@ -642,7 +644,6 @@ bauruine | abuse@tuxli.org | 36FFB654D4D22F2B0790520716847E85DEE43EC9 | https | 
 n4090f753 | n4090f7531@gmail.com | 372C3B70CC3D4DFF0E303FF6E8DA82AB72D2A826 | telegram | obfs4 | 
 LOLA | bridges@relayon.org | 3732DDFC79CF275655DAE1940214A53FD9BB5A0A | telegram | obfs4 | 
 helloandgtforkn728 | changeme@gmail.com | 3769F17DDFA92454AC09C93D503CD3D1F103F89C | telegram | obfs4 | 
-ki | N/A | 376D24A3E04B2BF3F53F806D723549B8C2DFB0C6 | N/A |  | 
 Bridge2M | torrelaysaregreat@gmail.com xmr:84czj1u2Q4dJ7bzf41TyDFS1i1GPKX5DQGgqZFg85LFge7LLUpCvEMyfjDfAnsZv291gtyMqUsTmxZojB7cRVckyUuih9ar | 37B998150F17E316AAFDEC05EF8878B70F9F07F4 | moat | obfs4 | 
 DockerObfs4Bridge | class-golf-valid@duck.com | 37BA9421D80F263CFBEEC52CA3ECEBA718882253 | none | obfs4 | 
 DockerObfs4Bridge | devnull@void.com | 37BEEDA5D5EA136174A9E57105FEF35E0BFCE58C | email | obfs4 | 
@@ -1776,7 +1777,6 @@ DockerObfs4Bridge | niccokunzmann@rambler.ru | A0555425139654DE304B31058EA6C6E1F
 bauruine | abuse@tuxli.org | A069F6CBCC182BFF07B1D65190B53FD564F2978E | https | webtunnel | 
 dxxweb | Random Person <info AT dxx eu> | A071D47AE35D7B5F457C6DBC3650AFCD5DDD30D4 | N/A |  | 
 nullfwt3124 | email:info[]null-f.org url:https://null-f.org proof:uri-rsa abuse:abuse[]null-f.org ciissversion:2 | A09E2101B9DA24320E52D688C6A21CF103900BAA | https | webtunnel | 
-sharesize | kb-relay@pm.me | A0BB1E8F6F19DFE45D4A46FDBC5C30EFA6DFD146 | N/A | obfs4 | 
 nightfox | tor-relay@chiko1337.dev | A0DD2B40B16D9DD5146DDE006E315E2B4A663956 | N/A | obfs4 | 
 ForPrivacyNETbr64 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | A0FC22422223519C581EBFEA848DBCAA44B194D9 | moat | obfs4 | 
 PiccadillyBridge | cost-82993@mypacks.net | A0FE861E84174E03EE5B2692494395264120C4A8 | settings | obfs4 | 
@@ -2768,7 +2768,6 @@ MAOI | bridges@relayon.org | F99118E66117BA40EE603450EB2AD42FC4AA88F9 | settings
 Unnamed | PJ <pj+keyword+tor.771d1b@place.org> | F992F21E450433B686BB6768099723965CA0216A | settings |  | 
 UnshakledWtb002 | support@unshakled.org | F9AA6844EAB9D6B5F80C730C0BFBD067CC359205 | https | webtunnel | 
 BlueCopperDevTin | root@guardianproject.info | F9D1FCE5E755DF01D358A8A5EBFD4DB520B73E7F | N/A | obfs4 | 
-proc | eab@igv.cc | F9EE3F122BF142911AE51C9AD6F5D28D995551BE | none | obfs4 | 
 ILP | 97CE2D9EEDBBF66C71A542A039FE8C4725E9195E ILP <ilplais@protonmail.com> | F9F672D9DDB3B786CDF0EC664F5DAEA4E8E2B861 | moat | obfs4 | 
 GoldenMandarin2 | crayon-jam-salami@duck.com | F9F7CA77E0A5339D480758AEA8C083C1277DE5AE | settings | obfs4 | 
 DockerObfs4Bridge | noone@nowhere.com | FA05FE00AAD560C6D35519A93977EBEC25830910 | N/A | obfs4 | ru
