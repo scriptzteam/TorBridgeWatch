@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|PickANickname2139 | ajoe04@gmail.com | F6F878F395479AECA28188C0A28ACC6B9015C502 | true | Running, V2Dir, Valid | 2025-08-13 10:48:29 | 2025-08-13 08:48:29 | 2025-08-13 08:22:38 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.87.221.121:53756 | obfs4 | |
+|Omni | omni@nwrk.co.uk | F2B8AB7F984B8BB874F00A77ABB2F60A5FC41B30 | true | Running, V2Dir, Valid | 2025-08-13 11:48:29 | 2025-08-13 11:18:29 | 2025-08-13 11:04:39 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.131.116.74:64156 | obfs4 | |
+|PickANickname2139 | ajoe04@gmail.com | F6F878F395479AECA28188C0A28ACC6B9015C502 | false | V2Dir, Valid | 2025-08-13 11:48:29 | 2025-08-13 08:48:29 | 2025-08-13 08:22:38 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.87.221.121:53756 | obfs4 | |
