@@ -219,7 +219,7 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | settings | webtunnel | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
+Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -597,7 +597,6 @@ BlueCopperDevTin | root@guardianproject.info | 334EDC145DB63654B5000FC46914598EE
 Sr2Bridge4494 | hello from onionland | 3358187965C772C6CA275F866216000D473405FC | none | obfs4 | 
 MyPrivateBridge | nobody@nowhere.tld | 33787C722E9314E5D407ADB253020594E4B4AC25 | none | obfs4 | 
 lordskh | N/A | 337B7220381F50AF8DA1EE44008D3B4F3B0DAEE0 | settings | obfs4 | distributed=false
-Unnamed | eatme@bitemy.org | 3392095E38D55893108B2627643EE259BC13EBA8 | settings |  | 
 marathon | address@email.com | 3395CB132022FCD5549F781F0134ED5EE36ECE02 | settings | obfs4 | 
 WormholeXTreme | <address@email.invalid> | 33A037B6697909A591313B473675F7F3F4636720 | settings | webtunnel | 
 AppleDumplin | torproject.muk30@slmail.me | 33A197A3D3B3577C401443449484251B3D92DFA5 | N/A | obfs4 | 
@@ -1597,7 +1596,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 OddlyFunnySlug | testing | 922650D27357BE307B3B322A5ABC3E9585AF776F | settings | webtunnel | 
@@ -2768,6 +2767,7 @@ MAOI | bridges@relayon.org | F99118E66117BA40EE603450EB2AD42FC4AA88F9 | settings
 Unnamed | PJ <pj+keyword+tor.771d1b@place.org> | F992F21E450433B686BB6768099723965CA0216A | settings |  | 
 UnshakledWtb002 | support@unshakled.org | F9AA6844EAB9D6B5F80C730C0BFBD067CC359205 | https | webtunnel | 
 BlueCopperDevTin | root@guardianproject.info | F9D1FCE5E755DF01D358A8A5EBFD4DB520B73E7F | N/A | obfs4 | 
+proc | eab@igv.cc | F9EE3F122BF142911AE51C9AD6F5D28D995551BE | none | obfs4 | 
 ILP | 97CE2D9EEDBBF66C71A542A039FE8C4725E9195E ILP <ilplais@protonmail.com> | F9F672D9DDB3B786CDF0EC664F5DAEA4E8E2B861 | moat | obfs4 | 
 GoldenMandarin2 | crayon-jam-salami@duck.com | F9F7CA77E0A5339D480758AEA8C083C1277DE5AE | settings | obfs4 | 
 DockerObfs4Bridge | noone@nowhere.com | FA05FE00AAD560C6D35519A93977EBEC25830910 | N/A | obfs4 | ru
