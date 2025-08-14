@@ -219,7 +219,7 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | settings | webtunnel | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
+Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -441,7 +441,6 @@ Deam0n | deam0npt@gmail.com | 27BD9C68194F4FB4CB844DB24510991AB9429507 | email |
 ki | N/A | 27CC7B0E0CCA3B58EB2E72BCF6FA8BD35A9F90E9 | N/A |  | 
 DockerObfs4Bridge | youchangcyber@gmail.com | 27EFC1E1683397F14F0CDDC0837AB7B5977B91B3 | settings | obfs4 | 
 parousiamania | N/A | 28004030A8FB4DD3A5FB059FE05B8AB0072C04FE | moat | obfs4 | 
-r1 | <admin@torrelay.in> | 2804DCEDE175792465708B4C9AA5C654DF72FD81 | settings |  | 
 KATRIN | bridges@relayon.org | 284670B74AC18BE4A60FE0D22C75E286E7C42C91 | settings | obfs4 | 
 Unnamed | N/A | 286D90DBB47F4EADA9E11C217AC1F68A16D2DBE2 | email |  | 
 DockerObfs4Bridge | you@example.com | 2871DF1078E78EBF018F8023CA254103D7A72423 | telegram | obfs4 | 
@@ -948,7 +947,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey10 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -981,7 +980,6 @@ Unnamed | <contact AT moe DOT ph> | 5736E5F3E04A7B9A5F730185B7ADF6F5185A79A7 | s
 ki | N/A | 5740CF4166619F6238DED3610F48A7FE6DC756FF | N/A |  | 
 moar1 | bridge-96122-moar1@cyberpostkarte.de | 57807DF69BDE569FC85E984756B2239C59B9401C | https |  | 
 ReapFreedom | jock009jock@gmail.com | 5789C4792031088045AE2C8760876C9DC383B7A3 | settings | obfs4 | 
-boerni | boerni.tor@proton.me | 57B03946EA508AEE047648FB9393A18F13026D18 | N/A |  | 
 TestWebTunnel | <test-webtunnel@email.com> | 57DD2A70DFF0CF53EB8500DDC6247BAF66A72C28 | N/A | webtunnel | 
 DockerObfs4Bridge | codingdodo@protonmail.com | 57F2FB750CFE5AC396EFCB50D223AC124D953ACC | moat | obfs4 | 
 DockerObfs4Bridge | overcoded@protonmail.com | 580497D5A7E5E33A0F6FF2B9F6E4AEFB788B8DC7 | moat | obfs4 | 
@@ -1595,7 +1593,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 OddlyFunnySlug | testing | 922650D27357BE307B3B322A5ABC3E9585AF776F | settings | webtunnel | 
