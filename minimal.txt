@@ -337,7 +337,6 @@ ARCON | bridges@relayon.org | 1EBAFC489FD04CC050213DBDF00BB0D9D90C3EB3 | moat | 
 onion987654321onion | hanscees@hanscees.com | 1EC80ED477A9A156D5339C96450CEA45F74D3328 | settings | obfs4 | ru
 NotriddleWebTunnel | <notriddle@protonmail.com> | 1ECC56FF4669B72E0B368D485E6FB4AB3760C5CE | settings | webtunnel | 
 toropi | torbridge <torbridge(dot)3ff08(at)aleeas(dot)com> | 1ED203307CA88E07D7EAE16F70CC4627BBBB8051 | settings | obfs4 | 
-ki | N/A | 1ED68C59B961B253963090203780F3C6695E8D58 | N/A |  | 
 UtzerBridge | see https://www.artikel5ev.de/torcontact/ | 1EDDAD56EAEE533335F72E435F8D962C2419AD03 | settings |  | 
 Bridge | tor@ybti.net | 1F1974BB49E73356DA9E2B689E22891408655E25 | settings | webtunnel | 
 ElephantBridgeES1 | Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] | 1F1ED04824187BC0A2782DC7CBF7FEC7236EE8B8 | email | obfs4 | ru
@@ -975,7 +974,7 @@ Keimzeit | D562F2BF4E3702A723DEDB3D3D103B6BDF0274B6 | 5883FA65A79854FD5A118DBA21
 ForPrivacyNETbr25 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 588643A777218E08D44BBD5BB6100172BC95C42F | https | obfs4 | 
 DockerObfs4Bridge | ston3s77@gmail.com | 5886FD7D5FD6A87DCCC547ABFC85517A411FBDA2 | N/A | obfs4 | 
 PR0PH3CY | root@linuxbytes.net | 58982E285F4392E371A7E7EFDDB56BB62A05CE99 | telegram | obfs4 | 
-FckAuth | tor@rayneau.fr | 58B1116844BC62484A0253DAB09118B05D853802 | email | webtunnel | 
+FckAuth | tor@rayneau.fr | 58B1116844BC62484A0253DAB09118B05D853802 | email | obfs4, webtunnel | 
 ieditedtheconfig | Random Person nobody@tor.org | 58BD5734840D7D8AEF9841CCE981D50974DC378F | settings |  | 
 hallotg | N/A | 58C83119FE81BD7278A710E3DE8BADB8E2588706 | telegram | obfs4 | 
 Lon1 | gus@riseup.net | 58E39D7C0564C7A2E47D750F5887B1791D87A1BB | settings | webtunnel | 
@@ -1574,7 +1573,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 OddlyFunnySlug | testing | 922650D27357BE307B3B322A5ABC3E9585AF776F | settings | webtunnel | 
@@ -2612,7 +2611,6 @@ DockerObfs4Bridge | LeanTeam@onionmail.org | ED6F8CDAA9F69D848A5A9F2AF874EAADACF
 DockerObfs4Bridge | john.doe@duck.com | ED99F8DDA401C6142A1AEAEBF70D6EFA42297419 | email | obfs4 | 
 MAOI | bridges@relayon.org | EDA1CBA44D6142F79E697D28631B45A27BEF36E6 | https | obfs4 | 
 imgcdn1 | <salmon@pm.me> | EDE0E0568D1AB2753EFE16414D4D155400FB9431 | settings | webtunnel | 
-EphesysEntry01 | tor@sechsnulldrei.org | EDE3A42138FCB83DD806B26CDB2C3F210A75FE73 | telegram | obfs4 | 
 BNDBruecke1 | 0xD4F82291A4E3724A70A69474F79A2161E8CC9372 | EE03199B9D4DF9D44AE7095B1DFBB99FE3DA18FE | telegram | obfs4 | 
 TorBridge1 | rafael.stuartmusic@gmail.com | EE1552FF00556E2007F8EAA5F0FE22C4A77EC315 | N/A | obfs4 | 
 CrazyOnion72 | <crazyonion72@airmail.cc> | EE58D356BFADC81F4F35DA725DCA1372CF328636 | https | obfs4 | 
@@ -2686,7 +2684,7 @@ Beluga | <tor-relays@lists.torproject.org> | F4B3CE1375C152B830DD57662B4D93A7BA9
 s2d4g | s2d4g.s2d4g@8alias.com | F4B960487E18A026F334CE3AC6C3E9B67E3BC3C1 | N/A | obfs4 | 
 clover | Matt Nordhoff <6ca584da-2bfd-4f9e-8a6c-a499269b0bfe@mn0.us> | F4DDCF082CFF1140A11F9342433661CA00C116CC | email | obfs4 | 
 NOTL | parkinglotlust@gmail.com | F4EB974243B0237D633F9C82E02D5CDC1BB15058 | moat | obfs4 | 
-Kulubbuk | N/A | F4FE451BBCC2F4E651E03E312556CDD8DAD49DA1 | lox |  | 
+Kulubbuk | N/A | F4FE451BBCC2F4E651E03E312556CDD8DAD49DA1 | lox | obfs4 | 
 Sr2Bridge4514 | hello from onionland | F52FF6651B9FDD9BE1FACD4019785BF2130C507C | none | obfs4 | 
 Klabauterbach4 | peca-relay@mailfence.com | F572531E88120DDED7E6AC6F3E80E9DD866F6714 | settings | obfs4 | 
 ki | N/A | F57DA39A66D8A3DEFF441015A451A937168B8E8F | N/A |  | 
