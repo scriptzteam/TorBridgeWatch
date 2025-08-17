@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | snow@lince.dev | 8DDC6D1377DFC022FFB46B53F04BD2FE3C2900DF | false | V2Dir, Valid | 2025-08-17 01:48:32 | 2025-08-17 01:18:32 | 2025-08-17 00:55:37 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.24.65.219:59304 |  | |
+|DockerObfs4Bridge | N/A | AF6C72C7A73A7A8B73662437A5071F299DD8EFD3 | true | Running, V2Dir, Valid | 2025-08-17 01:48:32 | 2025-08-17 00:48:32 | 2025-08-17 00:23:37 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.201.82.163:49823 | obfs4 | |
