@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|gbridge | keiferdodderblyyatgmaildoddercom | BC5EB36B59534281D8C9BBF5410B55CEC2E80F26 | true | Running, Valid | 2025-08-18 02:48:33 | 2025-08-18 00:18:33 | 2025-08-18 00:00:00 | 3564271 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | email | 10.226.83.125:57985 | obfs4 | |
+|gbridge | keiferdodderblyyatgmaildoddercom | BC5EB36B59534281D8C9BBF5410B55CEC2E80F26 | true | Running, Valid | 2025-08-18 03:48:33 | 2025-08-18 00:18:33 | 2025-08-18 00:00:00 | 3564271 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | email | 10.226.83.125:57985 | obfs4 | |
+|Unnamed | N/A | E0E6F112A8D02DA5BF9DB28A8EC5C295441B6AF1 | true | Running, V2Dir, Valid | 2025-08-18 03:48:33 | 2025-08-18 03:18:33 | 2025-08-18 03:05:26 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.171.104.26:49951 | obfs3, obfs4 | |
