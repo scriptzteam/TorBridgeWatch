@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | 5CFC87B06197581FABC174E06A636A1488A57E77 | false | Valid | 2025-08-19 01:48:34 | 2025-08-19 00:18:34 | 2025-08-18 23:59:23 | 691200 | Tor 0.4.8.16 on Windows 8 [or later] | 0.4.8.16 | recommended | true | N/A | 10.66.209.81:49596, [fd9f:2e19:3bcf::c2:cea3]:49596 |  | |
