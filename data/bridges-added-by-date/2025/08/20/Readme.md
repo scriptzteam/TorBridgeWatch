@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|CityOfGlass2 | TODO | 2181E0FE9011500003152BB0A036922682B2E895 | true | Running, V2Dir, Valid | 2025-08-20 00:48:36 | 2025-08-20 00:18:36 | 2025-08-19 23:52:17 | 0 | Tor 0.4.9.2-alpha-dev on Linux | 0.4.9.2-alpha-dev | experimental | false | N/A | 10.181.151.174:49869 |  | |
+|CityOfGlass2 | TODO | 2181E0FE9011500003152BB0A036922682B2E895 | true | Running, V2Dir, Valid | 2025-08-20 02:48:36 | 2025-08-20 00:18:36 | 2025-08-19 23:52:17 | 0 | Tor 0.4.9.2-alpha-dev on Linux | 0.4.9.2-alpha-dev | experimental | false | N/A | 10.181.151.174:49869 |  | |
+|s2d4g | s2d4g.s2d4g@8alias.com | F4B960487E18A026F334CE3AC6C3E9B67E3BC3C1 | false | V2Dir, Valid | 2025-08-20 02:48:36 | 2025-08-20 01:18:36 | 2025-08-20 00:59:59 | 915456 | Tor 0.4.8.11 on Linux | 0.4.8.11 | recommended | true | N/A | 10.50.147.3:56984 | obfs4 | |
