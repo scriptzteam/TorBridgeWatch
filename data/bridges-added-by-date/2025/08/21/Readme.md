@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|hell2heaven4de | <haute-dubious.0q AT icloud DOT com> | 8FEA7EC5A73E2EFA049BDA3CBA35FFF0F1D49605 | true | Running, Valid | 2025-08-21 01:48:37 | 2025-08-21 00:18:37 | 2025-08-20 23:53:25 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.109.222.240:59247, [fd9f:2e19:3bcf::67:76c7]:59247 | obfs4 | |
+|glitxh | sudoglitch@pm.me | 9EBB3E37AE03E77D0E4E1B431E50261118AA374E | true | Running, V2Dir, Valid | 2025-08-21 01:48:37 | 2025-08-21 00:48:37 | 2025-08-21 00:23:39 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.179.208.35:62602 | obfs4 | |
