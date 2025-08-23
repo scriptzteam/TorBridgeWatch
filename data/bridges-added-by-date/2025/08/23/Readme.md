@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WTBriQcxXsR3tk | info@defencegeeks.net | 0CCF0AEA2D5CEE75ED2314EC1BEFFE059F1853A2 | true | Running, V2Dir, Valid | 2025-08-23 00:48:40 | 2025-08-23 00:18:40 | 2025-08-22 22:43:35 | 236544 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | 10.230.231.4:61921 | webtunnel | |
+|Unnamed | N/A | 53E696C59CAC93B97A5A58C0B7E1A00C52D28210 | true | Running, V2Dir, Valid | 2025-08-23 00:48:40 | 2025-08-23 00:48:40 | 2025-08-23 00:36:12 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.5.217.58:53324, [fd9f:2e19:3bcf::69:c573]:53324 | obfs4 | |
