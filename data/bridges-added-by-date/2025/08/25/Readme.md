@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Lab2relay | 150.43.248.243@email.com | 1DC75E277A24258BCE24BB779C1A3FACC9E8ADCC | false | V2Dir, Valid | 2025-08-25 01:48:43 | 2025-08-25 01:48:43 | 2025-08-25 01:20:49 | 143360 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.99.152.7:61763 | obfs4 | |
+|3nity | <-1076176842-pm-me-> | 43D122C4C898E533C54FAE07481D49B5EE7F969E | true | Running, V2Dir, Valid | 2025-08-25 01:48:43 | 2025-08-25 01:48:43 | 2025-08-25 01:25:58 | 57344 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.186.139.25:52407 | obfs4 | |
+|BetterThanNothing | rmp1 | DA8E8A2CDFE10330A58E3A61C0996D8CDF7560A6 | true | Running, V2Dir, Valid | 2025-08-25 01:48:43 | 2025-08-25 01:48:43 | 2025-08-25 01:20:57 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.166.199.200:58765 | obfs4 | |
