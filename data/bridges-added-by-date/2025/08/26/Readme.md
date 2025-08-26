@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|layeredprivacy | kibbleandbits@protonmail.com | EB92620ED3FD450A830A0E5503407B82AC801A6F | true | Running, V2Dir, Valid | 2025-08-26 00:48:44 | 2025-08-26 00:18:44 | 2025-08-09 04:41:40 | 4641441 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.81.39.33:49756 | obfs4 | |
+|tgormaster | <ormaster@toppledgod.me.uk> | 2B2DDA9F3B942A295D6075208337DCFC14DAAA53 | true | Running, V2Dir, Valid | 2025-08-26 01:48:44 | 2025-08-26 01:48:44 | 2025-08-26 00:01:06 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.216.72.6:49699 | obfs4 | |
