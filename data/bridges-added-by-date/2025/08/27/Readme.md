@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WTBrxxWqAsxZBh | customppa@protonmail.com | 24400662DAFBE0121EF616DE9C82E7ED3418241F | false | V2Dir, Valid | 2025-08-27 00:48:44 | 2025-08-27 00:18:44 | 2025-08-27 00:09:51 | 6230016 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.198.45.98:49352 | webtunnel | |
+|BearRevolUtion | N/A | 2A447288ED40D1512FABD563392557FC4057261A | true | Running, V2Dir, Valid | 2025-08-27 00:48:44 | 2025-08-27 00:18:44 | 2025-08-27 00:00:43 | 230400 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | moat | 10.70.135.44:51626 | obfs4 | |
