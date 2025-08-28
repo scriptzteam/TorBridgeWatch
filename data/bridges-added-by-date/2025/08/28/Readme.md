@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DjangoTorRelay | Django White <djangowhite.uk AT protonmail.com> | 7B2DAF5BF368A54E8C3378D49A1ADE56185E1271 | true | Running, V2Dir | 2025-08-28 00:48:45 | 2025-08-28 00:48:45 | 2025-08-28 00:46:25 | 131072 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | 10.91.134.219:59440 |  | |
