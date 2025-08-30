@@ -220,7 +220,7 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | settings | webtunnel | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
+Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -1221,6 +1221,7 @@ LOLA | bridges@relayon.org | 6EDBF98F6698C9E0C7C55CDF3FE3AE15228716DE | telegram
 fr4meTOR0 | jaysen@fr4me.io | 6EF31BD6AD76C44A2F0663B8790F54E08BFDA00F | settings | obfs4 | 
 SpaceCamp | <address@email.com> | 6F102C4B0DAA19921E743B3C43FB1307E240A72F | reserved | obfs4 | 
 iKodeache | Random Kodeache <kodeache@onionmail.org> | 6F1D671BF0F46D485E71894E03F83224E804B75F | N/A | obfs4 | 
+SamuraisChoice | N/A | 6F239B98E39D55B43675B71B5E27F547A16C9415 | N/A | obfs4 | 
 SillyWebTunnelNya | <me AT k4m1 DOT net> | 6F3E5039557CDA0B446D57D96A6204BFA449387A | settings | webtunnel | 
 WTBrdeVNvhbkjv | obscureinterface@pm.me | 6F4C67314593D8E03832124D1CCF36D1D21E1B68 | settings | webtunnel | 
 Newbit | toradmin at reverse-dns | 6F8C87CF38E4B3D5A8CB1BC83AEFE6B100157AE6 | telegram | obfs4 | 
@@ -1606,7 +1607,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 hulubulu1 | hulubulu@cybermonkey.dk | 91E246FCD6578635E9FAF017CF84AF690433CD6E | N/A | obfs4 | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
@@ -2245,6 +2246,7 @@ GeekSuingNappy | geek-suing-nappy@duck.com | C9D8EBCF6BFDDD65660B131F94219048757
 MyWatchBegins | mywatchbegins@atomicmail.io | C9DFFAEA377D1FE64D6224E0AEFBD7C34AA8F9AA | telegram | obfs4 | 
 imgcdn6 | <salmon@pm.me> | CA1A8BF5E7D8110EC7732E16D4FE4DCACA7F24F1 | none | webtunnel | 
 KATRIN | bridges@relayon.org | CA44C0358F287CF5307731813CED461A420C2B39 | settings | obfs4 | 
+Unnamed | N/A | CA57EC601A3FEF930BD235DC9EB3B694A28F9478 | N/A | obfs3, obfs4 | 
 abstract | email:abstract/@/firemail.cc hoster:Privex cost:10USD uplinkbw:100 memory:2048 os:debian/12 tls:openssl ciissversion:2 trafficacct:unmetered | CA6D7A24F38533CF44D56518AF458F43AEB5C12A | none | obfs4 | 
 ParadiseBridge2 | Dave Null <dave@null.net> | CAB29936DC8D913EBC5586809B0FD4EEF36E021E | https |  | 
 WebTunnel | null@webdeliveryonl.click | CABF7439CFC24648E8AD46DB4768453963DC0228 | https | webtunnel | 
@@ -2454,6 +2456,7 @@ ThankYouMiura | privacy2925@proton.me | DB4F8CB385C118393D9078A028F97D8D2FC06210
 Unnamed | N/A | DB6FE6198079347B958F197931FB18245E7C03CB | email |  | 
 ItinerariumMentis | gesang@itinerariummentis.org | DB8660174AADAEC616190F488479352334C1E43E | settings | obfs4 | 
 bridge2 | v.nivlac@posteo.de | DBA85549DE5DCF73173525409A71CE609A811E99 | telegram | obfs4 | 
+distorgobrrrrr | N/A | DBDB0C46B1D4F5FF5F79BDBA869CBDF7B5257AD9 | N/A | obfs4 | 
 DockerObfs4Bridge | contact@example.com | DBE0EED182931B03F11B8F0448484C5AED92FC7E | https | obfs4 | 
 mailaddressislegit | <fgiyhw4ur@outlook.com> | DC06E9E85EAB79A25533F1E5BCF2098FA6DEEA40 | settings | obfs4 | 
 guerrill4rt | <admin@term7.info> | DC0BE5F56657C7E4921C5748B110FCE46AE40FC4 | email | obfs4 | 
