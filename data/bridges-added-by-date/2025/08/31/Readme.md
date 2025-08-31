@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|OperationFreewill | <address@email.com> | 85C751256039651318B6302F93F2286ECD4DED4C | true | Running, V2Dir, Valid | 2025-08-31 01:18:50 | 2025-08-31 00:18:50 | 2025-08-31 00:02:08 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.15.195.86:62922 | obfs4 | |
