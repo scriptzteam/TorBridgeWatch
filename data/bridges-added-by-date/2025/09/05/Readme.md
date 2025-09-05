@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Femb01tNWh | leohearts@leohearts.com | C926273AE787883164D3BB8D949F81D0B3FEFE4B | true | Running, V2Dir, Valid | 2025-09-05 01:18:54 | 2025-09-05 00:18:54 | 2025-09-05 00:04:55 | 1523712 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.244.81.60:53498 | webtunnel | |
