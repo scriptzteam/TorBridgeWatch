@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Snow | N/A | 2DF8AED283E7155E58DD4B6797E1DA24E74F7CEF | true | Running, V2Dir, Valid | 2025-09-06 07:48:57 | 2025-09-06 01:18:56 | 2025-08-20 15:07:08 | 1059303 | Tor 0.4.8.12 on OpenBSD | 0.4.8.12 | recommended | true | https | 10.157.12.178:60173 | obfs4 | |
+|WebTunnelTest | your@email.com | 5CCD9B3718D640060A54D78C865197EC2210871D | false | V2Dir, Valid | 2025-09-06 07:48:57 | 2025-09-06 05:48:57 | 2025-09-06 05:26:27 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.237.67.106:65189 | webtunnel | |
+|WebTunnelTest | your@email.com | CA6CE5945B36D8542082C5093F1C881D7E82A6B0 | false | V2Dir, Valid | 2025-09-06 07:48:57 | 2025-09-06 02:48:57 | 2025-09-06 07:36:37 | 2048 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.100.201.79:60759 | webtunnel | |
