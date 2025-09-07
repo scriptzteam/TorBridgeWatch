@@ -217,7 +217,7 @@ tenet06 | gus@riseup.net | 152AD5E093401A9D5BC89125A6ACB6568B6C9B52 | settings |
 ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 15517C406DF9E8FEA99E9AEA48A6784667CE67C1 | settings | obfs4 | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | settings | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
-Unnamed | Random Person <tor-relay@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https |  | 
+Unnamed | Random Person <tor-server@mikitsu.me> | 15A6A0FF0D095A74AFD181B74C119F2B9730845F | https | obfs4 | 
 Tenshi | lovereimu [at] protonmail [dot] com | 15B38CDF35AB914088123D9113DCBDA7A1668FF5 | none |  | 
 raspitor | 0xFFFFFFFF Random Person <raspit0r AT protonmail.com> | 15BD505E52E2F2A5F20C8FEA8E4ED6BB8A5432C3 | settings | obfs4 | 
 ElGusto | N/A | 15BEC292703A149BE44C5770B4A7758980E66DB1 | settings | obfs4 | 
@@ -428,7 +428,6 @@ DockerObfs4Bridge | rasmusgrenballe@gmail.com | 269399B5A551086DED7B67F006E4AD17
 BlueCopperDevTin | root@guardianproject.info | 26A0FD8AE8AF557DA8A6D961862D526E526B4D13 | N/A | obfs4 | 
 DockerObfs4Bridge | peter.bauer010195@gmail.com | 26ADFA191F4490738B820115BBFD0421B56C75EF | telegram | obfs4 | 
 ForPrivacyNETbr48 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 26CCDA3591F73312290D416F213F0F9B929F3C2B | telegram | obfs4 | 
-WTBr8D52FPXB7E | me@dallinbryce.com | 271EEE31B5EE360679F1C9239B7D40F988C0F711 | N/A | webtunnel | 
 bauruine | abuse@tuxli.org | 274BD0BD0936F1801833CA698462A312E8AD9E6D | settings | webtunnel | 
 newhelp | jingojngo@gmail.com | 27676648E9C84A5B70B4E70CEE3ECDD5D3AB3DF1 | settings | webtunnel | 
 Bifrost | Random Person <nobody AT example dot com> | 276828672CB370864C98AC4A2B353BB807DBD96D | telegram | obfs4 | 
@@ -893,7 +892,6 @@ BrookRameev8W | brookrameev@pm.me | 4F2B533C1E25C45236723818EEB84044DB3DBDFC | s
 WTBrlbQv4RlIHI | obscureinterface@pm.me | 4F3E22DAB2EB3EB325C8C852741D8C4AF4DE273E | settings | webtunnel | 
 caucasbear | N/A | 4F4769888E57F9148853ADF8F8251058909D97E6 | moat | obfs4 | 
 WeeChatBridge | lockesmith@coldforge.xyz | 4F58D141C094AABDEDFDA37825B8D4DE454C6943 | https |  | 
-WTBrrBxPIop0Vv | admin@tired.social | 4F8FB3F5BFB9C2D4BA88DFDC5761C798537711F5 | N/A | webtunnel | 
 FusakoShigenobu | zaatar@riseup.net | 4FCCA6FC22D09DC0EA9F6C0067A355F284FFEF9C | settings | obfs4 | 
 Unnamed | N/A | 4FCD8C88FA6946653A9B701E34794A094F0B1B0C | N/A | obfs4 | 
 Rueeblitorte | tor-rueeblitorte <you know what belongs here> mmap <and here> at | 4FE89BA55A4713F442A3534353F3889A84DEA467 | telegram | obfs4 | 
@@ -1593,7 +1591,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 hulubulu1 | hulubulu@cybermonkey.dk | 91E246FCD6578635E9FAF017CF84AF690433CD6E | https | obfs4 | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
@@ -2639,6 +2637,7 @@ hulubulu2 | hulubulu@cybermonkey.dk | EEC57C3DA6FB0A989432535ECC06208F3B21225F |
 bartleby02 | bartleby_tor@protonmail.com | EEEB6ED7F1365B71B83D6187476AB98D0C51461D | telegram | obfs4 | 
 ElephantBridgeDE3 | Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] | EF17A6C48FC15C5D05BC63A50C7A1542794C44C4 | email | obfs4 | 
 ElephantBridgeUS1 | Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] | EF2EE8F601602A5D56D86AE33C80A509D2426299 | https | obfs4 | 
+massiveTrelay | Random Person <tor.contact.me.rand@proton.me> | EF319A10C0C254D2B16DA9AD8839A5DAEB21D23D | N/A | obfs4 | 
 Anonymous | Anonymous | EF343A8F251DAA360C1F12002A5FBEB9B062BD88 | settings | obfs4 | 
 vimsudo | vimsude@protonmail.me | EF52EE89E4FE1A939C1D1EC87A31CAFC0C914605 | settings | obfs4 | 
 hellowebtun1 | iliketorrelays@protonmail.ch | EF70D47E6E7CC5FB69E055BF130B5B78E0911A76 | settings | webtunnel | 
