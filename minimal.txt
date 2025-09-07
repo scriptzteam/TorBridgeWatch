@@ -940,7 +940,7 @@ Unnamed | N/A | 543519D5EF8F84301F44FD553276ED6F588F8360 | N/A |  |
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey2 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 DockerObfs4Bridge | 123@123.com | 548D00CA99928E52192B9A9E631B809D864345D2 | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1507,6 +1507,7 @@ moar13 | bridge-2280-moar13@cyberpostkarte.de | 8B192D4728D04F2005F10715AD6E582C
 ki | N/A | 8B1FE36906A2EED9F2F6D76D3AC60552727A5E0D | N/A |  | 
 kaleidoskop | <binarynoise@mail.de> | 8B230A0F19E1B4D2155AD0C9F43E746ACBD1528D | telegram | obfs4 | 
 ForPrivacyNETbr52 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 8B45A17A5C75856B722C650E68786268DEDFE785 | telegram | obfs4 | 
+DockerObfs4Bridge | master@cencaway.ru | 8B5A9930DFBED66DD54140E23DB743F6E567FC34 | N/A | obfs4 | 
 derfinsternis | no-reply@noaddress.com | 8B6F57F9AC5A5268EF7561C5C291ECD37F0E99E2 | settings | obfs4 | 
 Jvod2 | AD376D92C096380C <noble dot flame 2594 AT fastmail dot com> | 8B80B05D6F1D1A9DC5F36B66B838D8A87F270EEC | email |  | 
 sa5gat | Gains73-Lung4_Pork75@xobnur.uk | 8B842F9032BD8E29507805E8CD42C9DE8F4D67BA | https | obfs4 | 
@@ -1975,6 +1976,7 @@ Obfs4Bridge | scobo@gmx.li | B24E6B49A16E4919180FDDF3D2DF45C4ED03EB4F | moat | o
 DockerObfs4Bridge | backbender69@proton.me | B265BA4E32C273B18FC392F52ED55D88DD10858F | telegram | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | B2D0D3F8CDA8F618B3F92BE782067FE6440D4978 | N/A | obfs4 | 
 Obfs4Bridge | email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 | B2F71E72B011BEF63BD8C54DEE38A363AB89453C | telegram | obfs4 | 
+Torrey | N/A | B2F99C816E05393A84996EDF122D193FC717EBDB | N/A | obfs4 | 
 PraxedisGuerrero | Louis-Philippe V��ronneau email:pollo[]debian.org url:veronneau.org proof:dns-rsa ciissversion:2 | B35B0E377EBB633C926FB93D81749DB01A030A44 | none | obfs4 | distributed=false
 gnampf4i15 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | B391C844C67991F35A214A4B8B9A9F4B79C5478F | email | obfs4 | 
 salsa | gus@riseup.net | B3A66F98E2D4D94336B387B0DBD167AA8830A5B8 | settings | obfs4 | 
@@ -2709,7 +2711,7 @@ linuxenbyWebTunnel3 | linuxenby[at]protonmail[dot]com XMR: 83XuMrHLbrn18f4VhvYY6
 DockerObfs4Bridge | tor-bridge7786@proton.me | F699DC126A549D5301DB15994B685DB1CC8DD997 | settings | obfs4 | 
 pacifico | ultramar@acuare.la | F69E1AFF03D848ABD6B8DD7ABE0696CA93A5D8B7 | N/A | webtunnel | 
 kanga | N/A | F6A92E121B1851BC17E3D32B06C02489BBF4B8B7 | N/A | obfs4 | 
-ajoe | no@no.no | F6F878F395479AECA28188C0A28ACC6B9015C502 | telegram | obfs4 | 
+PickANickname | address@email.com | F6F878F395479AECA28188C0A28ACC6B9015C502 | telegram | obfs4 | 
 ForPrivacyNETbr56 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | F714258B6728076FE83D0392600DAD2901E6D727 | settings | obfs4 | 
 PickANickname | address@email.com | F7406F4DAF46AE0B28C8BD49F825B48355FB4583 | settings | obfs4 | 
 NetDevPX | <tor@netdev.cloud> | F761F492FF82F8BD528EA555F2D296A20FE79A59 | telegram | obfs4 | 
