@@ -883,6 +883,7 @@ bonkybridge3 | m@bianchi.dev | 4E2FC769293ABCCE3CD3C78ECCE987AD239B059A | telegr
 Tadeus | alvin@i2pmail.org | 4E44F52C29C3120FF177BCB595D1614F857AF1AA | moat | obfs4 | 
 TriplebitAV | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 4E4D74CC1A99A00A0EE2CEEE14166080A4D5A905 | https | webtunnel | 
 dogstorbridge | dan@dogsbody.org | 4E53E373000124C372629F5145A070D36CABD9BB | settings | obfs4 | 
+TechBridge | techmaniac89@gmail.com | 4EBCB5F9A096533622637FA7DAD7279216FA58D8 | N/A | obfs4 | 
 NosferatuZodd | <tor@zodd.xyz> | 4ED304EA1A28CB8A0FFD722683394FA81AAC3543 | N/A | obfs4 | 
 WTBrOfqcUQaWzK | report@morkee.org | 4EDB36D1B2973E4C6567FC4E9D4C52C847234A45 | settings | webtunnel | 
 ForPrivacyNETbr62 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 4EE06EAA3519AD6BB957BE7E7C0B89D8DBCD806D | settings | obfs4 | 
@@ -1591,7 +1592,7 @@ alkaxest | address@email.com | 918A3B308D5543D4DDC2D66AFD95E4154B4BF76E | settin
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 hulubulu1 | hulubulu@cybermonkey.dk | 91E246FCD6578635E9FAF017CF84AF690433CD6E | N/A | obfs4 | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
@@ -2305,7 +2306,7 @@ Unnamed | N/A | D06B223636B2E285BCB96553785202242F02E055 | N/A | obfs4 |
 koakoa | <olokerunningtor at protonmail dot com> | D06BBCF1ED70F6362A2D96A2D56102AF8A395943 | settings | webtunnel | 
 nicktoir | thortortoxy@gmail.com | D082BE8528CBF3D1AFE4058E29ECAEEEF743D0A6 | N/A | obfs4 | 
 bicyclechain | Harry Tuttle  <ernetnakisuml@gmail.com> | D084985174E12D4CEFC48A0E7FC313CFFA73100C | https |  | 
-DockerObfs4Bridge | tor@opentree.cz | D094AC6C69201C642552DBF59A32C0626A41724E | email |  | 
+DockerObfs4Bridge | tor@opentree.cz | D094AC6C69201C642552DBF59A32C0626A41724E | email | obfs4 | 
 TacoWolf | tor-relay@tacowolf.net | D0DBF057CCED8011377D61BBD3962A96C0E3710B | settings | obfs4 | 
 NTH1B7 | N/A | D0E635EDDB9F3335D254B3FB63A0C438A9A67A71 | settings |  | 
 RaspiTorL | raspitor@habmalnefrage.de | D0F09B2E9CC1DE6E7B06FB4BC75DACD8E27CCD6F | N/A | obfs4 | distributed=false
@@ -2486,7 +2487,7 @@ nullfwt3125 | email:info[]null-f.org url:https://null-f.org proof:uri-rsa abuse:
 DockerObfs4Bridge | ari.bjornsson@protonmail.com | DF48FC7DCD557B8C206DE16ADC940D015838DE93 | settings | obfs4 | 
 Sr2Bridge4502 | this used to be sanitised and I did not write the code to populate it yet | DF6440CD3DC14C135CF2E99A7C67FEFB4F2079DE | none | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS51 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS11 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 WTBrF33o4ZWmbR | tom@example.com | DFE13EB4D0DD7E3117C07D7D225BC47CA279CB3A | settings | webtunnel | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
 aoesunht | <root AT thegonz dot net> | E0357256D104E7E12414080B551EB0F2EB238197 | settings |  | 
