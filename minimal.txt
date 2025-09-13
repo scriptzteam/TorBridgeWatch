@@ -425,6 +425,7 @@ bridge2freedom | always@befreeon.net | 2601997C7B777C26BA420DBB89762E1AAA915A65 
 rothbridge | kylrth@gmail.com | 2607E1CDE59E0C225F3F468B8D739FB5DA5CFC22 | reserved | obfs4 | 
 artikel5ev22 | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2 | 2610CA00E2DC560CAA92F5B9EB096A71BAE33FB6 | telegram | obfs4 | 
 ForPrivacyNETbr31 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 2648496D081C865A1D2411818AC2008D38AF76AC | email | obfs4 | 
+newhelp6 | jingojngo@gmail.com | 265149AEDDF8BF0C8E7837027744B3D0FD40950E | N/A | webtunnel | 
 NoOneKnowsBridge | anthony-47@hotmail.com | 2657AF68098C03E27BF9CD1370AED37B2ACB59C0 | settings |  | 
 Polleke | nedjem <nedjem at the dot bigfat dot cat> | 266FFB9872B633660AE016F564127239847EEA67 | settings | obfs4 | 
 indistinguishable | N/A | 2689B86F5CF9C87828FF666F4C753D5E046A8A78 | https |  | 
@@ -1583,7 +1584,6 @@ bridgeOfWar | <mrm@email.com> | 90BA3AFEAD14BB407CFBB818BAD7081CFCDE6781 | setti
 sammyTORnode | <sammy@i2pmail.org> | 90C643BF13EC925C2004F81695AC0A1BE1D4BD06 | https |  | 
 Samuel | wtosborne@duck.com | 90D3588305E19D712263F3FFC4923E49FA78706F | none |  | 
 KingJasperTheGreat | N/A | 90D643C1391BDF5FD04674DE4CFC7592DB7F73FD | settings |  | 
-DockerObfs4Bridge | nikolai@macaw.me | 911FB6D8BA6C2755D3FBF24DC1A233D402570359 | N/A | obfs4 | 
 KATRIN | bridges@relayon.org | 9124208AFADD7FE2B42BCACB68F4CD39F666F6BC | settings | obfs4 | 
 Bridge | tor@ybti.net | 9133FE358254367025DDB2D6BBD3DE9EA2612049 | telegram | webtunnel | 
 0x29 | <jemurray@zweck.net> | 913661E21AF8813CF0806B7C3897E9504F01DA7A | reserved | obfs4 | 
@@ -2208,7 +2208,6 @@ draugr | <excursion_wipe241 TA simplelogin TOD com> <GPG 0x346E4C9A343658B284270
 SkepsBridge | Tor Bridge <tor-bridge AT skeps DOT ch> | C87FD4E1EAA6DEF294A445619AE9B6846BB60664 | settings | obfs4 | 
 LokiTorBridge | <cameron@cameronmilani.com> | C8906DC86928F80E65C688B9AF411A34CEBEA5D5 | settings | obfs4 | 
 Heisenberg3 | Heisenberg@example.com | C8B16741D5923CD3FA36131B10B9A8BCF7A90F5F | settings | obfs4 | 
-CPeligroso | cabron.peligroso@proton.me | C904FE8A471042D527F51D7DE063C92633A0440F | N/A | obfs4 | 
 LOLA | bridges@relayon.org | C92EA2E1E9434B5002CC649222DFF7F34F194291 | reserved | obfs4 | 
 bauruine | abuse@tuxli.org | C93A67699E1AEAFB93D05489FC17423A418EB769 | none | webtunnel | 
 QuakerDragon | 1024D/67A7B584 Walter C. Mankowski <waltman AT pobox.com> | C979F5E6B77A547F293530FCEDB92206F87F8FE8 | email |  | 
@@ -2429,6 +2428,7 @@ BetterThanNothing | rmp1 | DA8E8A2CDFE10330A58E3A61C0996D8CDF7560A6 | telegram |
 mywaifubest | poiasdpoiasd@live.com | DABA58F32EDC6C825CE7ED7E4977F05F84C08F23 | https | obfs4 | 
 obfs4BridgeoM3cLwMT | 435r2ef@fewfweds.com | DACEF43B47C0F2DA153840D4DB336B0F991A7B69 | none | obfs4 | 
 CCCRelay01 | celticcybercrew@protonmail.com | DAE5E6B37B447435EE0BF31A93B20A6C64992D79 | email | obfs4 | 
+DockerObfs4Bridge | needscoffee@protonmail.ch | DB17A4164DA4A33427A4170D45254191710508C4 | N/A | obfs4 | 
 BORGSPACE2 | tor-node operator <tor-node AT collective DASH b DOT org DOT uk> | DB21364F024ABCF5F33881907A19D0801429055F | settings | obfs4 | 
 DockerObfs4Bridge | sognen@gmail.com | DB2FC013A2F5580A5B547BFBDA043756C9323A33 | N/A | obfs4 | 
 Obfs4Bridge | CAT0BRI3@proton.me | DB3E73E7435D9EE32F13A4FC27E5C1ADDE240D6C | email | obfs4 | 
@@ -2483,7 +2483,7 @@ DockerObfs4Bridge | ari.bjornsson@protonmail.com | DF48FC7DCD557B8C206DE16ADC940
 Sr2Bridge4502 | this used to be sanitised and I did not write the code to populate it yet | DF6440CD3DC14C135CF2E99A7C67FEFB4F2079DE | none | obfs4 | 
 DockerObfs4Bridge | N/A | DF89494D6FDB989B4155A7EDBF19EA95EA9D51AD | N/A | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS11 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS81 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 WTBrF33o4ZWmbR | tom@example.com | DFE13EB4D0DD7E3117C07D7D225BC47CA279CB3A | settings | webtunnel | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
 aoesunht | <root AT thegonz dot net> | E0357256D104E7E12414080B551EB0F2EB238197 | settings |  | 
