@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|persea | Hostmaster <hostmaster AT djxmmx dot net> | 670C18AC2A6ECD2A8BF597016A0B953680A09EAE | false | V2Dir, Valid | 2025-09-14 03:19:05 | 2025-09-14 03:19:05 | 2025-09-14 02:59:10 | 0 | Tor 0.4.8.17 on Windows Server 2012 [or later] | 0.4.8.17 | recommended | true | settings | 10.227.128.184:62659, [fd9f:2e19:3bcf::67:3dc9]:62659 |  | |
