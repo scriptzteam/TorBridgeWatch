@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|SpinnerDolphinBr2 | Random Person <thoughts AT carpenter DASH farms DOT us> | 669A2C8A57C57DEE4B685437A7ECC86E9EAF4C3B | true | Running, V2Dir, Valid | 2025-09-15 02:19:06 | 2025-09-15 00:49:06 | 2025-09-15 00:28:10 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | 10.68.105.137:63121 | obfs4 | |
