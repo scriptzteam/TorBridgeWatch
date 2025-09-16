@@ -1,4 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Unnamed | N/A | 7D5F9E4A0BFF647F4997812B4E3B350A956AFFDA | false | V2Dir, Valid | 2025-09-16 00:49:08 | 2025-09-16 00:19:08 | 2025-09-15 23:55:15 | 0 | Tor 0.4.8.16 on FreeBSD | 0.4.8.16 | recommended | true | N/A | 10.113.140.234:58508 | obfs4 | |
-|DockerObfs4Bridge | no | 939177E1AB521493378C8614B9E6958F6FA8A126 | false | V2Dir, Valid | 2025-09-16 00:49:08 | 2025-09-16 00:19:08 | 2025-09-15 23:51:02 | 698368 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.141.87.210:59422 | obfs4 | |
+|Unnamed | N/A | 7D5F9E4A0BFF647F4997812B4E3B350A956AFFDA | false | V2Dir, Valid | 2025-09-16 01:49:08 | 2025-09-16 00:19:08 | 2025-09-15 23:55:15 | 0 | Tor 0.4.8.16 on FreeBSD | 0.4.8.16 | recommended | true | N/A | 10.113.140.234:58508 | obfs4 | |
+|DockerObfs4Bridge | no | 939177E1AB521493378C8614B9E6958F6FA8A126 | false | V2Dir, Valid | 2025-09-16 01:49:08 | 2025-09-16 00:19:08 | 2025-09-15 23:51:02 | 698368 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.141.87.210:59422 | obfs4 | |
