@@ -1,4 +1,2 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | true | Running, V2Dir, Valid | 2025-09-19 02:49:11 | 2025-09-19 00:19:10 | 2025-09-18 22:57:04 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.65.34.65:52271 | obfs4 | |
-|WTBr4BSQGf9fdz | webmaster@bollerhugo.de | D0EB915A17F8C0512E59498AE5DA6872842B4D01 | false | V2Dir, Valid | 2025-09-19 02:49:11 | 2025-09-19 02:19:11 | 2025-09-19 02:05:18 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.121.108.207:62765 | webtunnel | |
