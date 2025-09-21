@@ -1,3 +1,2 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|q0AwiQDN3M | a78i2efsewr0neeknk@proton.me | 4E28B291BDB281D8F4F3A1BDD4CE68E3B8B2D329 | true | Running, V2Dir, Valid | 2025-09-21 01:49:12 | 2025-09-21 01:49:12 | 2025-09-21 00:03:38 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | 10.123.68.200:53894, [fd9f:2e19:3bcf::c7:c060]:53894 | webtunnel | |
