@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | no | 939177E1AB521493378C8614B9E6958F6FA8A126 | false | V2Dir, Valid | 2025-09-22 01:49:13 | 2025-09-22 01:19:13 | 2025-09-22 00:33:13 | 247808 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.141.87.210:59422 | obfs4 | |
+|Unnamed | eatme@bitemy.org | B0ACF564313D8810EE5616BEC9D258292935F946 | true | Running, V2Dir, Valid | 2025-09-22 01:49:13 | 2025-09-22 01:19:13 | 2025-09-22 00:51:11 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.92.194.199:54075, [fd9f:2e19:3bcf::9b:4e90]:54075 |  | |
