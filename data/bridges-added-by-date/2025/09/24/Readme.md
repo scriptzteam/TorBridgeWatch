@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | torbridge.occultist612@passmail.net | 802C868547F6506C7FC33AC3C2B37DDC2BDB7BE8 | false | V2Dir, Valid | 2025-09-24 02:11:48 | 2025-09-24 02:11:48 | 2025-09-24 01:58:12 | 68608 | Tor 0.4.8.13 on Linux | 0.4.8.13 | recommended | true | settings | 10.201.165.131:53912 |  | |
+|PickANickname | <address@email.com> | 9F1A4AA6449EE26AE11F0D24FF9413E345B1EA1C | true | Running, V2Dir, Valid | 2025-09-24 02:11:48 | 2025-09-24 02:11:48 | 2025-09-24 01:27:42 | 154624 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | settings | 10.169.255.177:58471 |  | |
