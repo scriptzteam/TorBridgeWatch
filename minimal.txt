@@ -539,7 +539,6 @@ WTBraciRfcMmCF | url:minecraft.inkthorne.com/contact-info-XRPbZ9SoEk.txt | 2F5D8
 Tr0ub4dor3 | relays+yf@m724.eu 0x79758D371B8C4F64 | 2F73C7959FF6CAD1970B30B3335F2AA2C9E285C6 | email |  | 
 Sr2Bridge1463 | hello from onionland | 2F81216E9340BA4C63E8DF967E7AA71F85A4846B | N/A | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 2F918A37B353669DA4A3F7801515DE54D1FF116D | N/A | obfs4 | 
-DockerObfs4Bridge | tor@jbenger.fastmail.com | 2F96350B3856DFEAE957A228951A3A37686431EC | N/A | obfs4 | 
 KlabauterbachOV | peca-relay@mailfence.com | 2F9B72E5B2CEBE5A50F83576608D15CB7C395A9C | email | obfs4 | 
 fardztorbr | dhnet.torcontact@gmail.com | 2FBA3D44D27A27D24996E4FAE01B7A681CC3C5CB | telegram | obfs4 | 
 ki | N/A | 2FCEA7E8D36D16751AF61E44F293242FB5ADA53E | N/A |  | 
@@ -905,7 +904,7 @@ CFBridge | N/A | 50372066E44FBCF3CA016D2A6C1F1937B19CC298 | https | obfs4 |
 castor | 1NtRFoVuQC8MmFZs7yWnwGaHFWWheFQRZi | 506389A50672317CBA613FDE6EB9C7A169D6149F | settings | webtunnel | ru
 PickANickname | aloisdg+torrelay@protonmail.com | 506DCF582E24439BD887401A7EC198F5C3594C86 | N/A | obfs4 | 
 JuniperJump | torbridge@betechcompany.com | 50DE1145CB8545A239AB0DB3423CCF23B9A59368 | telegram | obfs4 | 
-DockerObfs4Bridge | alanh@fastmail.com | 50F513AAB114022A145B9AA71747885EC95115FF | settings |  | 
+DockerObfs4Bridge | alanh@fastmail.com | 50F513AAB114022A145B9AA71747885EC95115FF | settings | obfs4 | 
 iguanasuicide | 0xB1B54059 Boyd Stephen Smith Jr. <bss@iguanasuicide.net> | 50F904C208F2F534C88EA381675BFD2191518853 | https |  | 
 Baerchen3 | jke-webtunnel[at]tutamail[dot]com | 510F1A51B01767DE7A322A374ED0902DFB507539 | https | webtunnel | 
 bauruine | abuse@tuxli.org | 5155A761443CFA9B001EA615C9F411548200C17E | email | obfs4 | 
@@ -1209,6 +1208,7 @@ Newbit | toradmin at reverse-dns | 6F8C87CF38E4B3D5A8CB1BC83AEFE6B100157AE6 | te
 DockerObfs4Bridge | bartoszhornicki@gmail.com | 6F9BF3CA6BF125441833065E4C47154374C2FCEF | telegram | obfs4 | 
 DockerObfs4Bridge | mr.james.doe@gmail.com | 6FB3674293FDAF33E03528DD3ED9363E02732CD1 | telegram | obfs4 | 
 Unnamed | N/A | 6FD06162890780E1E948EB3FC977D8CDDDD18E09 | email |  | 
+3uph0r14L4X15 | <euphoria.laxis ^at euphoria-laxis dot com> | 6FD954F10C0D83DDFAD5BB940C8920A7E83AF246 | N/A | obfs4 | 
 TorN8To | nathan@nfriedly.com | 700E96C5F2B6307A900A7B22A0844BC9630FEFF5 | settings | obfs4 | 
 Unnamed | Random Person <nobody AT example dot com> | 70241E0EFFB0604650BF13870AF6F1EFE4AE0E37 | telegram | obfs4 | 
 DockerObfs4Bridge | Xtrwz9FV@outlook.com | 707A9F02347B2F6801309C1EA053A0BE89055274 | email | obfs4 | 
@@ -1585,7 +1585,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty8 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty9 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
@@ -1775,7 +1775,7 @@ OhNoAnotherBridge4 | email:tor-man[]BogoLinux.net url:https://bogolinux.net proo
 imgcdn4 | <salmon@pm.me> | A2FD760C93340C2B6C236D59F0FE25A862874CF0 | https | webtunnel | 
 tor | N/A | A2FDCBD61B7C711BD970370B72ED699A78D5EAD6 | email | obfs4 | 
 erasmusbrug | 2048R/B640BF1A Tor Relay <tor AT sec dot nl> | A302128427462F653E2689E54BD17204B587BCE3 | settings |  | 
-WTBrlA8sbTHFUP | ybisvxvs0@mozmail.com | A310196175C6CDD06B47A1F523E896C90D28C98D | none |  | 
+WTBrlA8sbTHFUP | ybisvxvs0@mozmail.com | A310196175C6CDD06B47A1F523E896C90D28C98D | none | webtunnel | 
 oberlol | tor-contact <at> behringer <dot> me | A311F8A53323A20045A64345C2BC6B3AD02989F7 | https | obfs4 | 
 161AdaLovelace161 | glint_phyla0g@icloud.com | A3150F819BEB7E23E120674862D91245A8F73969 | N/A | obfs4 | 
 GVLBridge | cost-82993@mypacks.net | A324C2F99832B433D6D9D296B0C57EE7346C447E | settings | obfs4 | 
