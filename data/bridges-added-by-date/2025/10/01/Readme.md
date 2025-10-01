@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | do-contact[AT]riseup[DOT]net | 490A283234E3779C15BC19044E407B2A11809A49 | true | Running, Valid | 2025-10-01 01:48:24 | 2025-10-01 00:18:23 | 2025-10-01 00:00:00 | 14097541 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | settings | 10.254.93.235:61256 | obfs4 | |
+|abridge | vgygzm8q7aa@temp.mailbox.org | 97BAF6909E2E33D522F17F29744A906162049863 | true | Running, Valid | 2025-10-01 01:48:24 | 2025-10-01 00:18:23 | 2025-10-01 00:00:00 | 276 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | telegram | 10.184.85.93:57231 | obfs4 | |
