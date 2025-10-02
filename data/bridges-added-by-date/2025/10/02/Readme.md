@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|godprotecteddavid | d1e555a782c76bd39a6e385ac06bdd244305c74b  Random Person <edonrot.0qfe9@dralias.com> | 15F30F225D7BCFE9DA50F19CC239AA31E6559F55 | true | Running, V2Dir, Valid | 2025-10-02 00:48:25 | 2025-10-02 00:48:25 | 2025-10-02 00:42:47 | 1652736 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | telegram | 10.58.137.72:63692, [fd9f:2e19:3bcf::4a:81eb]:63692 | obfs4 | |
+|Unnamed | N/A | 752F2C3ED1D6712D7E563C0F9017E942D48194D1 | true | Running, Valid | 2025-10-02 00:48:25 | 2025-10-02 00:48:25 | 2025-07-22 03:48:13 | 32902 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.87.61.197:56937 | obfs4 | |
