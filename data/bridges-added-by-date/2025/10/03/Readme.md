@@ -1,5 +1,2 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|GermancraftTunnel | knight AT germancraft DOT net | 1970D943C369FE7D50DAAFD7620931481D223456 | true | Running, V2Dir, Valid | 2025-10-03 01:48:31 | 2025-10-03 00:18:31 | 2025-10-03 00:04:31 | 18432 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.93.103.181:50883 | webtunnel | |
-|Unnamed | N/A | 900B4C945783CD95A430A6ECC588CE6DBA3D4FF4 | true | Running, V2Dir, Valid | 2025-10-03 01:48:31 | 2025-10-03 00:48:31 | 2025-10-02 23:58:48 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.112.162.83:51785 | obfs3, obfs4 | |
-|hal9000 | bofh@bsafh.de | E7FC19636F5B8DD839C5984E4405E6C8F7E145EC | true | Running, V2Dir, Valid | 2025-10-03 01:48:31 | 2025-10-03 00:48:31 | 2025-09-27 23:24:21 | 32779 | Tor 0.4.8.13 on FreeBSD | 0.4.8.13 | recommended | true | N/A | 10.131.237.227:59993 |  | |
