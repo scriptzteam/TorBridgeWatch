@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|massiveDrelay | Random Person <tor.contact.me.rand@proton.me> | EC537977BB760EF28A332E119D751416295C624A | false | Valid | 2025-10-04 00:48:32 | 2025-10-04 00:18:32 | 2025-10-03 23:59:20 | 1902592 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | telegram | 10.141.212.51:49380 | obfs4 | |
