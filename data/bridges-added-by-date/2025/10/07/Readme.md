@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Unnamed | N/A | 64C4115B44816A2DC170A9C7E5277FE105B3A883 | true | Running, V2Dir, Valid | 2025-10-07 01:22:16 | 2025-10-07 00:22:16 | 2025-10-07 01:14:45 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.153.154.229:51981 |  | |
+|Unnamed | N/A | 64C4115B44816A2DC170A9C7E5277FE105B3A883 | true | Running, V2Dir, Valid | 2025-10-07 02:22:16 | 2025-10-07 00:22:16 | 2025-10-07 01:14:45 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.153.154.229:51981 |  | |
+|armatunnel2 | WebTunnel email: arma@torproject.org ciissversion:2 | AF1C74178A1E83588B88CFE400D518F7CDBC80AD | true | Running, V2Dir, Valid | 2025-10-07 02:22:16 | 2025-10-07 01:52:16 | 2025-10-07 01:25:10 | 139264 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | 10.59.245.101:52739 |  | |
