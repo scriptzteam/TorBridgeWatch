@@ -40,6 +40,7 @@ bauruine | abuse@tuxli.org | 03E8114A952FA4CD6F316C7B08EC33CC72C771EA | settings
 sascafa | tazoi[at]tiscali[dot]it | 042A617439DCA6CF126EF9C607ACD42B909D5CE5 | telegram | obfs4 | 
 valis2 | gus@riseup.net | 042D49E29820A22137138568AE8CD43E9BB6E28F | settings | obfs4 | 
 as215248bridge02 | Bastiaan Brink <b@stiaanbr.ink> | 0457CF0BC2CC0BA1E1684CF93464493623B2A354 | https | obfs4 | 
+ColdTime | N/A | 0466F3604F36BC6E6B99CF8B7DDF7C2A590ED35A | N/A |  | 
 ki | N/A | 0499956607B64C5B2111D9822B9D199DADF3FAEC | N/A |  | 
 TriplebitBC | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 04DEE38FC0071717DE91AADB22B4634361D1F400 | lox | obfs4 | 
 None | N/A | 04E34E433AF5F348EA74194C6A391BDD9E91F67D | settings | obfs4 | 
@@ -737,6 +738,7 @@ MainFTR2K20 | RandomUser <trlay.unedging@slmail.me> | 406426FBF18A5DC9019D2616FC
 Obfs4Bridge | maxou56800+Obfs4Bridge@morpheus.re | 406596C1251FE790830EC64853BBD9773876A95D | settings | obfs4 | 
 DR2AMS01 | Ivan B <ivanb2@lelik.org> | 4076E0F1DF28A2C7329C5A0881612BF35C285634 | telegram | obfs4 | 
 ForPrivacyNETbr46 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 408EE14CD7D0C6BBEBEC06BBD7D57777BDE43E88 | settings | obfs4 | 
+MagereBrug | tor-relays <you know what belongs here> mmap <and here> at | 409030978C09DB5E10EC19CB44F954CCF59A43D5 | N/A |  | 
 Unnamed | N/A | 409A196C3B096D581A37960F01E564B230266836 | settings |  | 
 MyNiceRelay90 | your@email.ca | 40B8D486630E5649F929AB78AE5CAFB55463CE16 | none |  | 
 Obfs4Bridge | scobo@gmx.li | 40CF476031B116F97F72796F8C26965DA804F5F0 | moat | obfs4 | 
@@ -943,7 +945,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey7 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
 Remilia | lovereimu [at] protonmail [dot] com | 54B320D58072286F7A9A64D636E7F9299EE5EA1B | none |  | 
@@ -1581,7 +1583,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty11 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 ki | N/A | 91E2D7A46C995A500A724630BF1C9FE12007031D | N/A |  | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
@@ -2196,7 +2198,6 @@ DockerObfs4Bridge | thecubic@thecubic.net | C862AD49A0F7CCF1D5A8439C79B93A73B312
 SkepsBridge | Tor Bridge <tor-bridge AT skeps DOT ch> | C87FD4E1EAA6DEF294A445619AE9B6846BB60664 | settings | obfs4 | 
 LokiTorBridge | <cameron@cameronmilani.com> | C8906DC86928F80E65C688B9AF411A34CEBEA5D5 | settings | obfs4 | 
 Heisenberg3 | Heisenberg@example.com | C8B16741D5923CD3FA36131B10B9A8BCF7A90F5F | settings | obfs4 | 
-ki | N/A | C8DA29C35C411B6D225055608C98AC706772450E | N/A |  | 
 LOLA | bridges@relayon.org | C92EA2E1E9434B5002CC649222DFF7F34F194291 | reserved | obfs4 | 
 bauruine | abuse@tuxli.org | C93A67699E1AEAFB93D05489FC17423A418EB769 | none | webtunnel | 
 QuakerDragon | 1024D/67A7B584 Walter C. Mankowski <waltman AT pobox.com> | C979F5E6B77A547F293530FCEDB92206F87F8FE8 | email |  | 
