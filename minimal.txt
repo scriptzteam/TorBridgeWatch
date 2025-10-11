@@ -167,6 +167,7 @@ senf | 0x4471de61 Senf <tor AT senf dot space> | 1054ED7F6D273DC28B8E1065E5BB010
 Unnamed | <mansrav@protonmail.com> | 1064E56A14E68562E37207491286101D64B945C9 | settings | obfs4 | 
 LOLA | bridges@relayon.org | 10A59A57ADCA3B161DB8D6180571365E29BFE305 | telegram | obfs4 | 
 Goufiro | Scloki@proton.me | 10ACA6338BAB76B30165FB88EA2A160144484238 | settings | webtunnel | 
+Whf67mKj8p | N/A | 10EDA3715898D77FB070A1A812F119EDA44C1798 | N/A | obfs4 | 
 DockerObfs4Bridge | sognen@gmail.com | 10F12B918E5A664B3BC91BC4CE89417D85CA7E7E | settings | obfs4 | 
 ShadowBridge1337 | anonrelay@protonmail.com | 113F861E2784641E0111AA982D15908A1923EEB3 | reserved | obfs4 | 
 frsgc | sg1@sgc.ynh.fr | 114A3D68F1F64359B8D21C75383426F64477EFCC | settings | obfs4 | 
@@ -939,7 +940,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey12 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
 Remilia | lovereimu [at] protonmail [dot] com | 54B320D58072286F7A9A64D636E7F9299EE5EA1B | none |  | 
@@ -1584,7 +1585,7 @@ SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 A
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty4 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
@@ -2546,7 +2547,6 @@ LetzteInstanz | Kristian Larsen letzte_instanz1@protonmail.com | E785A5C2ED9A182
 biglittle0 | simonstrutt@strutt.org.uk | E78EE0EE4D141CCDCD32BCAA446658E8893C2764 | settings | obfs4 | 
 Unnamed | 4096R/829984DB Pavol Luptak <wilder@trip.sk> | E7D84ABE3BDFF687E030DD15BB092DA783FDDBF8 | email | obfs4 | 
 littlenode | singlenode at quantentunnel dot de | E7DEE1B8B191EA6A7DAC410729DEB8BF2CD2E22C | email |  | ru
-hal9000 | bofh@bsafh.de | E7FC19636F5B8DD839C5984E4405E6C8F7E145EC | N/A |  | 
 TriplebitAU | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | E800432F7E2CC8AAA064E5EC55473C8938962B9F | N/A | webtunnel | 
 PlapperlenaH | peca-relay@mailfence.com | E80088962F97FE190D734D67E0C656C2A6EADEE7 | N/A | webtunnel | 
 id3x | <admin@id3x.org> | E80B47DEC5D3A0DE7FB52C95A9E4EBF63BF5B744 | telegram | obfs4 | 
