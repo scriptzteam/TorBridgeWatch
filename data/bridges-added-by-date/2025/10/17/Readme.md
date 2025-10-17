@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | nonvalid@email.com | C259959E2487C26F03751ABB3B45B39AEFE310B1 | true | Running, V2Dir, Valid | 2025-10-17 00:42:40 | 2025-10-17 00:42:40 | 2025-07-27 00:03:58 | 8031894 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | telegram | 10.32.177.6:52084 | obfs4 | |
