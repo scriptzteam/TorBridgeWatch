@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | magpie29576@gmail.com | 8319548FFAA304A3452CFE20952EA06D65AF95D1 | true | Running, V2Dir, Valid | 2025-10-18 01:12:41 | 2025-10-18 00:12:40 | 2025-10-17 22:47:35 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.90.173.232:60194 | obfs4 | |
+|RyanReynolds | tormastertor [ ] proto nmail d'ot com | A6ACBC75B5024374EB0DBA52100509B01706A3D6 | true | Running, V2Dir, Valid | 2025-10-18 01:12:41 | 2025-10-18 00:42:40 | 2025-10-17 18:12:10 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | 10.173.101.177:51529, [fd9f:2e19:3bcf::0a:26ad]:51529 |  | |
