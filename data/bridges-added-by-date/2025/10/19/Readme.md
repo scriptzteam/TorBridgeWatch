@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | rattlebrain@protonmail.ch | 4CF0740E311BC2A3DFAE50F9F6235C7AAA98D0F3 | true | Running, V2Dir, Valid | 2025-10-19 01:12:41 | 2025-10-19 01:12:41 | 2025-10-19 00:45:53 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.248.172.131:55717 | obfs4 | |
