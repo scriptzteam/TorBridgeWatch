@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|onionbridge | onionbridge@protonmail.com | 5348E674C345AAC68D1C41B240E65E6828306D37 | true | Running, V2Dir, Valid | 2025-10-21 00:42:43 | 2025-10-21 00:42:43 | 2025-10-21 00:56:52 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | 10.140.89.159:54878 | obfs4 | |
+|hell2heaven4de | <haute-dubious.0q AT icloud DOT com> | 8FEA7EC5A73E2EFA049BDA3CBA35FFF0F1D49605 | false | Valid | 2025-10-21 00:42:43 | 2025-10-21 00:12:43 | 2025-10-20 23:51:20 | 134293 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | https | 10.12.142.55:52521, [fd9f:2e19:3bcf::1e:1364]:52521 | obfs4 | |
