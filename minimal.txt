@@ -520,7 +520,7 @@ Unnamed | N/A | 2D789FB22BD37F10D7ADC6AAE558BD1511E91713 | none | obfs3, obfs4 |
 R3ykj4v1kIS1 | R3ykj4v1kIS1@SORRYNOEMAIL.LOCAL | 2D84601D660907E901BB6DD4882F8D85AF9089F7 | settings | obfs4 | 
 TriplebitAM | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2D896DF7C9D5296FE0A02C8EB065A54041F2AD24 | telegram | webtunnel | 
 DockerObfs4Bridge | test@test.com | 2DBE7FB0CFCFE8519532BCB0562F43D979F9EFE3 | settings | obfs4 | 
-DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | https |  | 
+DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | https | obfs4 | 
 Unnamed | N/A | 2DEC9106AB8C6CD4FB23108B62194B494DE09DAD | N/A |  | 
 TriplebitAP | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2DEE1C0E13D9AC7BEA1D9FC10896137B867BFC53 | telegram | webtunnel | 
 KATRIN | bridges@relayon.org | 2DF1F7E6B3C8B0BC6C3E3A9300357527AE16D73B | email | obfs4 | 
@@ -938,7 +938,7 @@ lulapula | <address@email.com> | 52F5F9A55592238BAB6B45225FEC4E3CE8C644B9 | sett
 Sr2Bridge4516 | hello from onionland | 52FC8951827809EC3F208711D3A91F6D683BE0AB | none | obfs4 | 
 Obfs4Bridge | email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 | 5302AEDB32E413886524B0FCA20B04BA0295D108 | email | obfs4 | 
 Unnamed | Grandmaster Polymath <a@kli.mov> | 531700A6B934FF111FEE2FFC66C64D4C61C19D32 | email | obfs4 | 
-MeasureOfAMan | <admin-tor-20251020@bfccomputing.com> | 534759A04DB603994A7824930F18035ECB82DF63 | settings |  | 
+MeasureOfAMan | <admin-tor-20251021@bfccomputing.com> | 534759A04DB603994A7824930F18035ECB82DF63 | settings |  | 
 onionbridge | onionbridge@protonmail.com | 5348E674C345AAC68D1C41B240E65E6828306D37 | N/A | obfs4 | 
 FuschiaIronNumbat | N/A | 534AC52710A217FDF7015887F99E970EC2FEF765 | telegram | obfs4 | 
 7a65726f | <xx@ccxx.cc> | 536F5671E416006B21F563659308B89422F2A0A8 | telegram | obfs4 | 
@@ -950,7 +950,7 @@ VulpinesStrikeBack | VCInfo Admin <contact@vulpinecitrus.info> | 53BCA443D140A31
 FireKnight | Dr Andy Hill <andyhill242 AT gmail dot com> | 53C18206B8E7645A6B568B05BFB9682FFEA203A3 | https |  | 
 Unnamed | N/A | 53E696C59CAC93B97A5A58C0B7E1A00C52D28210 | settings | obfs4 | 
 exbSG | tor(at)0x2142(dot)net - bitcoin:BC1QS45FKEUNQWZUK9WTPZYVETE2JMVXPUM2ZCARCT - bitcoin:BC1P90V5HKL4U4DK8T5RFDVT445C2VLQE85RHWNDTJYK6YNJY7DFQQTSHJZCHC - litecoin:LTC1QTV0TQYRADJZ53PQM928S6FVGG0KDK07MKGQRKJ | 53F0E4A526A3A8D84960D730F8DA19BA78D87C6B | https | obfs4 | 
-NuthinButNoise | <admin-tor-20251020@bfccomputing.com> | 5409F824749EEBD28B03F76F2CE49F35CA74AD52 | https |  | 
+NuthinButNoise | <admin-tor-20251021@bfccomputing.com> | 5409F824749EEBD28B03F76F2CE49F35CA74AD52 | https |  | 
 Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegram | obfs4 | 
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
@@ -1874,7 +1874,6 @@ Baerchen4 | jke-webtunnel[at]tutamail[dot]com | A8F15AF18627DFEF9F42C0CEA9EA27A5
 Ormstown | Random Person<ormstown AT proton DOT me> | A8F992C1835224E4D41DA3DE46742BA6C69EF77D | email | obfs4 | 
 Rafale | admin-tor@netc.eu | A907244DF27B5A0E9062A586B16EB43F63CF575B | telegram | obfs4 | 
 newbox | 0xF1ADC390 Random Tor Node Operator <tor at unterderbruecke (dot) de> bitcoin:15xmQjbQNQpwYLbVCUMdPL2ies4S8kmXNm | A934C9EF8377FB7018518139ABCC990AC8F304F4 | settings |  | 
-Bombadil | Thomas <Tor AT scottu DOT net> | A93DBFA1506FD61E798D0595FE1A18876DB316D3 | N/A | obfs3, obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | A9459ADBC021EC06E7A4C37531F54E7C5202035D | N/A | obfs4 | 
 rgTorNode1 | noContact@email.com | A94E6BA5E5A7235EF52C5222133F59B837ACC756 | settings | obfs4 | 
 amypizza | <karen (at) p.izza.party> | A96DC0AC900D8DBCC9E4B11F9E755476DDEBDCF1 | moat | obfs4 | 
@@ -2167,7 +2166,6 @@ bauruine | abuse@tuxli.org | C2FE7B199B35B7D507B0BABE2A1593C3E06D872B | https | 
 bauruine | abuse@tuxli.org | C30C8499E2CBC3CAF64312FFC348279DBD2A8524 | https | obfs4 | 
 willisfirst | torroot@essignetz.de | C311E1B4434943FE57AE73270EDADDB59730ED79 | https | obfs4 | 
 NothingToSeeHere | contact@email.com | C3167287CA447E02EE61AA0EE455E131024FB82C | moat | obfs4 | 
-Unnamed | N/A | C3477825EC4545A09DB1F1A01CEB05AE8B7CB398 | N/A | obfs4 | 
 AntaresRelay | ethxn.xyz@proton.me | C376E6AD812D37AE9D66ED2422E083F2D138EDDB | https |  | 
 LastLegitTroll | N/A | C38005351A906742098D05709864E4D1140F90C9 | moat | obfs4 | 
 DockerObfs4Bridge | ktchvs+br2@gmail.com | C3900CB8D0C579FCA30F2F328C8AC41964A40F8E | telegram | obfs4 | 
