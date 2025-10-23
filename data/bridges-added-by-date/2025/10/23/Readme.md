@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Glyph | no email. bridge hosted by blitzw.in | A3B2B519CC7FEA467D621AF1F5E17CF0034CE458 | true | Running, V2Dir, Valid | 2025-10-23 00:42:47 | 2025-10-23 00:42:47 | 2025-10-23 00:39:14 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.73.211.205:53715 | obfs4 | |
