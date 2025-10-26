@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PlasmaTor | electronicsl797@gmail.com | F249B04C233EBC79E7DFA56C2BEB0292585A6449 | false | V2Dir, Valid | 2025-10-26 01:42:49 | 2025-10-26 00:12:49 | 2025-10-26 00:00:33 | 1201152 | Tor 0.4.8.13 on Linux | 0.4.8.13 | recommended | true | email | 10.166.48.74:58291, [fd9f:2e19:3bcf::43:2c47]:58291 | obfs4 | |
