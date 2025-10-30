@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|KayneWest | 0xFFFFFFFF  Bolsonaro Doid��o <> | 66EE69C9B2DE9FE54B47E169CC14C1AE3F08B6CF | true | Running, V2Dir, Valid | 2025-10-30 02:18:23 | 2025-10-30 02:18:23 | 2025-10-30 02:03:56 | 982016 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | email | 10.104.178.209:59400, [fd9f:2e19:3bcf::fe:c499]:59400 |  | |
