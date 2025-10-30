@@ -345,7 +345,7 @@ Ciechom | address@email.com | 1FBD9274C2A6D14B656F941032BDF1F2C0F1DB41 | telegra
 PontDesArts | address@email.com | 1FDC2FF4E2E6A0F35F982656D52F948E0D009D14 | settings | obfs4 | 
 as215248bridge07 | Bastiaan Brink <b@stiaanbr.ink> | 1FF2D6717F9CC5C56EDDF74EF267AD9349E5FAA1 | telegram | obfs4 | 
 TheShimmer | gus@riseup.net | 200A8ED55A15F6AABCD63D7CB6FC6A7ED0016774 | none | obfs4 | 
-WTBrQpa91fd6rx | none | 201BBA2746D064284FA07BB0344C34F4B1DF9151 | none |  | 
+WTBrQpa91fd6rx | none | 201BBA2746D064284FA07BB0344C34F4B1DF9151 | none | webtunnel | 
 Xxiuq | <alkash1991@inbox.ru> | 20356AEA97408CEB1BD9A894965611004FB5A0F6 | settings | obfs4 | 
 MAOI | bridges@relayon.org | 20383FECB080267322111A40CB6A93B0706AD6FD | https | obfs4 | 
 nariri | meskio@torproject.org | 2057AC1BB4AE782B21BDB22C48870E8CC345001A | none | obfs4 | 
@@ -774,7 +774,6 @@ Mano | gus@riseup.net | 43CEC9C234A9D0A5610B45F7693A2235EE787A46 | settings | ob
 3nity | <-1076176842-pm-me-> | 43D122C4C898E533C54FAE07481D49B5EE7F969E | telegram | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 43D93B4F0F39EFC2F7BCD90FCE79D7539A1A9458 | N/A | obfs4 | 
 KurisuMakiseNode | tiny.marten.viiy@mask.me | 43DB35E6EFDD64ED6A3E953B33F80C629B943C72 | N/A |  | 
-Unnamed | N/A | 441610E4704B00C3BEEFC0FE1544D8115F316AC4 | settings | obfs4 | distributed=false
 KATRIN | bridges@relayon.org | 444AC8D675D16B3A433EFB9402EF586D462A12E7 | telegram | obfs4 | 
 0815any | <warau.benedikt@gmail.com> | 4457E292B302DDFBAF61A3826196423F4C9487AA | email | obfs4 | 
 zitronebr | torrelay at limoneneis dot de | 445EA5D294222A778C29491AC5D80802A346D815 | https | webtunnel | 
@@ -941,7 +940,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey4 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
 Remilia | lovereimu [at] protonmail [dot] com | 54B320D58072286F7A9A64D636E7F9299EE5EA1B | none |  | 
@@ -1603,7 +1602,7 @@ ki | N/A | 91AACEFFD6C75D01A0E0CE6C5D34EE5BB5250C22 | N/A |  |
 KurisuMakiseNode | tiny.marten.viiy@mask.me | 91BA525E755A0616A0AC7EEE8C8C321BC033AAA7 | N/A |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
@@ -2333,6 +2332,7 @@ metastable03 | mori@menhera.com | D16CC06A083AE537865D22BE826BAB4050C458A0 | htt
 Unnamed | N/A | D1789CF6E5C5DD5C2DADE54834D86E5B82809BD5 | email |  | 
 limettebridge | torrelay at limoneneis dot de | D1A691921BF63E457F5B8505634DFFA177FB2FA3 | https | webtunnel | 
 nztorbridge | address@email.com | D1A82CD8593E96DB5EE9E1ED92BFE61856A01C6E | telegram | obfs4 | 
+Volks | no email. bridge hosted by blitzw.in | D1B36CEC01D2199327D01ABB179AD9EA98E67205 | N/A | obfs4 | 
 exbCA | tor(at)0x2142(dot)net - bitcoin:BC1QS45FKEUNQWZUK9WTPZYVETE2JMVXPUM2ZCARCT - bitcoin:BC1P90V5HKL4U4DK8T5RFDVT445C2VLQE85RHWNDTJYK6YNJY7DFQQTSHJZCHC - litecoin:LTC1QTV0TQYRADJZ53PQM928S6FVGG0KDK07MKGQRKJ | D1B755AA37218883E16F38902B982393B8A06C5C | settings | obfs4 | 
 C0UNTCH0CULA3 | ydogxdujm@mozmail.com | D1C99A1C6F879E3CB834E7196DC84CC369F6BB06 | N/A |  | 
 UnredactedWT2AMS | admin[@]unredacted.org | D1CE4A92315A7D2C94D37BC577798A83F14F0FE7 | settings | webtunnel | 
