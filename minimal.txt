@@ -938,7 +938,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey6 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
 Remilia | lovereimu [at] protonmail [dot] com | 54B320D58072286F7A9A64D636E7F9299EE5EA1B | none |  | 
@@ -1281,7 +1281,6 @@ ForPrivacyNETbr15 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 BrookRameev2 | brookrameev@pm.me | 76CB6CE773A78D1D9DABB28C40EF1733054DF5F6 | https | obfs4 | 
 DockerObfs4Bridge | community.torproject.poppy034 AT aleeas dot com | 76D2DA37753B5CD925F84415E123B4B4A4F99CDE | email | obfs4 | 
 mikesoIbort | meskio@torproject.org | 76F1EBE091529C8797AB5CBEF34A32D5ED92EC20 | settings | obfs4 | 
-CanalStreetRelay | Marc <marcfleck AT free dot fr> | 76F96C386BFE89AEFFB2194230EE6C936B418358 | N/A | obfs4 | 
 tomh | torbridge@sladden.com | 7702FF59BCC6D0320F463328B52E595AEE7CFBE3 | settings | obfs4 | 
 Bridge1H | torrelaysaregreat@gmail.com xmr:84czj1u2Q4dJ7bzf41TyDFS1i1GPKX5DQGgqZFg85LFge7LLUpCvEMyfjDfAnsZv291gtyMqUsTmxZojB7cRVckyUuih9ar | 775A79C9D745A8AFBB8FA403D31A31FA9E5659D9 | settings | obfs4 | 
 ARCON | bridges@relayon.org | 7764A11BDEEEDB35B75F9AA3CA780B8BF6846ED6 | settings | obfs4 | 
@@ -1327,7 +1326,7 @@ lfg07 | gus@riseup.net | 7B3127EE7F05E170BBB8372501097E2A54DBD143 | settings | o
 DockerObfs4Bridge | nell.e.chatterton@gmail.com | 7B4F3CF6FE77C5AE02B7C72518226739D4628BEA | reserved | obfs4 | 
 Unnamed | N/A | 7B60C2A75B3AAD1EC1144525AE130FA482CE8992 | N/A | obfs4 | 
 KATRIN | bridges@relayon.org | 7B623927A19FDB8E8E863224AE59FFC1608A1BFE | telegram | obfs4 | 
-WTBro4mXhlKy2w | lucynspace@tutamail.com | 7B89D13CAD9287E2FF5BE7F0749D98BFEE4799FB | telegram |  | 
+WTBro4mXhlKy2w | lucynspace@tutamail.com | 7B89D13CAD9287E2FF5BE7F0749D98BFEE4799FB | telegram | webtunnel | 
 DownwardSpiral | rotortail pr.t.nmail . c.m | 7BC38CC3D9B92AEB9A65525376A5C3C9FA969722 | settings | obfs4 | 
 anonymous | anonymous15@tutamail.com | 7BE51327AB962719052398EAB6D3311BC99C5359 | settings | obfs4 | 
 KurisuMakiseNode | tiny.marten.viiy@mask.me | 7BF03319D65A7D90FBF65BC3A677C7E687D236A3 | N/A |  | 
@@ -1597,7 +1596,7 @@ ki | N/A | 91AACEFFD6C75D01A0E0CE6C5D34EE5BB5250C22 | N/A |  |
 KurisuMakiseNode | tiny.marten.viiy@mask.me | 91BA525E755A0616A0AC7EEE8C8C321BC033AAA7 | N/A |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | telegram | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
@@ -2142,6 +2141,7 @@ DockerObfs4Bridge | nonvalid@email.com | C259959E2487C26F03751ABB3B45B39AEFE310B
 asdfasdf | 0x97F78A29 Tim Johnson <pipertj@protonmail.com> | C259E74E7227C0022AD388F462D2778E0D5A8D61 | settings | obfs4 | 
 cewf43r4Df | bridge.56438@d-l-t.com | C27013E1281F5F158CDC0D7756E5374B88BF41E1 | none | obfs4 | 
 linuxenbyWebTunnel2 | linuxenby[at]protonmail[dot]com XMR: 83XuMrHLbrn18f4VhvYY6EWpFipiG4zxtg6VN3QCtWvzZFJL8M68snLPj1F4T2TPgNAfjMtjHfg3JXBz9x7ECaNWLyetdEc | C2823E230CCBC60A5568A7B0D2E0C8892938D76F | settings | webtunnel | 
+Kalquaro | kalquaro@gmail.com | C297A4DA8A35E924FC72BD5F6DB0B2DE97CFF0F8 | N/A | obfs4 | 
 bridge02 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | C2A771CE0DA3D61529A5142786379C6352EF34E7 | telegram | obfs4 | 
 Tenet03 | gus@riseup.net | C2B65597D4C5704AC2BF2499337A87597D69380E | settings | obfs4 | 
 SagaciousBridge | <tor@sagaciousd.com> | C2C0408B440578A703B6323A264F37219E787E47 | email | obfs4 | 
@@ -2500,7 +2500,7 @@ GentlyBitten | operator1@gentlybitten.onmicrosoft.com | E1AFB0F44487837D78643E85
 Overture | <ph.ilippelatuli.pe+tb@protonmail.com> | E1F71440C96BBB2201FD27E58CEBACB6ED58E722 | email | obfs4 | 
 plinganser | N/A | E20FB0A6E319F75C9644F6B92648BE4CAC59BCF1 | https |  | 
 Poulailler | rev3dprint@gmail.com | E250748D3505BA77C2F4A73E0A673AA41BC152C6 | email | obfs4 | 
-DockerObfs4Bridge | d@w.com | E2BB707437D97DF323CE8BEBA79CBD6E78C0E72C | settings |  | 
+DockerObfs4Bridge | d@w.com | E2BB707437D97DF323CE8BEBA79CBD6E78C0E72C | settings | obfs4 | 
 LOLA | bridges@relayon.org | E2E25CF94DA57094BA1A23935B3D54BD048851BE | https | obfs4 | 
 ki | N/A | E2F7185452E86CE5D80C4A8BEC6D94680C257FFE | N/A |  | 
 iddqdidkfa | 0x3632046A Dmitry <dbaryshkov@gmail.com> | E301D01E712548C58E0CEDD8ADDAA869DECA14F9 | settings | obfs4 | 
