@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|WeeChatBridge | lockesmith@coldforge.xyz | 1BE3F58DDA9F2E5E085E91CE887B280210B1D0C8 | true | Running, V2Dir, Valid | 2025-10-31 01:18:30 | 2025-10-31 01:18:30 | 2025-10-31 00:57:20 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.138.181.68:60258 |  | |
+|WeeChatBridge | lockesmith@coldforge.xyz | 1BE3F58DDA9F2E5E085E91CE887B280210B1D0C8 | true | Running, V2Dir, Valid | 2025-10-31 02:18:30 | 2025-10-31 01:18:30 | 2025-10-31 00:57:20 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.138.181.68:60258 |  | |
+|bitBridge | lockesmith@coldforge.xyz | 27A7E02D7AE838A39942E5E7C5CDD4B4F78BCA4C | true | Running, V2Dir, Valid | 2025-10-31 02:18:30 | 2025-10-31 02:18:30 | 2025-10-31 00:56:39 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.247.72.185:50162 |  | |
