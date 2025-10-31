@@ -341,6 +341,7 @@ ki | N/A | 1F08FFFF5D02D998AC86FD47ECF547CF9CAACFE3 | N/A |  |
 Bridge | tor@ybti.net | 1F1974BB49E73356DA9E2B689E22891408655E25 | telegram | webtunnel | 
 ElephantBridgeES1 | Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] | 1F1ED04824187BC0A2782DC7CBF7FEC7236EE8B8 | settings |  | ru
 None | N/A | 1F2ED182D98554C2BB855B989830430A35CB4043 | email | obfs4 | 
+TorRelay8472 | nobody@nowhere.null | 1F87D950EF20FC00CD18FC56A91FBA7C28EBEF02 | N/A | obfs4 | 
 de02 | gus@riseup.net | 1F921B63AD57FABF4A40A1BC0A8305C63BC9AF8B | settings | webtunnel | 
 Ciechom | address@email.com | 1FBD9274C2A6D14B656F941032BDF1F2C0F1DB41 | telegram | obfs4 | 
 PontDesArts | address@email.com | 1FDC2FF4E2E6A0F35F982656D52F948E0D009D14 | settings | obfs4 | 
@@ -963,7 +964,6 @@ meowmeow | <tor@ludost.net> | 56617D13CFF3A2070DF05F3D6648483DAFE9D247 | telegra
 Unnamed | N/A | 566B00339F212FB6C1CF80197476675ADADB4F6A | settings | obfs4 | 
 chicanerygremlin | chicanerygremlin@protonmail.com | 567FA183EF0008B58113FD50DDA9349D9E8E7069 | N/A | obfs4 | 
 pewpew | tor@aaronb.cc | 5692A7B99A5F20C29C970027CDE86D5624A87F6C | settings | obfs4 | 
-DockerObfs4Bridge | nikolai@macaw.me | 56948C6D5488D33CBAC5BDD1975A0F4E1A490E35 | N/A | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 56AC34923AA2D0922A323EDE46F1850DD84B79D8 | N/A | obfs4 | 
 UnredactedWT1AMS | admin[@]unredacted.org | 56BED179BDECE19A81EE62485A2CAB8DC0A171CF | settings | webtunnel | 
 Unnamed | N/A | 570C9469429D1E7C269708FD06BC90FB37EDE2FE | reserved |  | 
@@ -1330,7 +1330,7 @@ lfg07 | gus@riseup.net | 7B3127EE7F05E170BBB8372501097E2A54DBD143 | settings | o
 DockerObfs4Bridge | nell.e.chatterton@gmail.com | 7B4F3CF6FE77C5AE02B7C72518226739D4628BEA | reserved | obfs4 | 
 Unnamed | N/A | 7B60C2A75B3AAD1EC1144525AE130FA482CE8992 | N/A | obfs4 | 
 KATRIN | bridges@relayon.org | 7B623927A19FDB8E8E863224AE59FFC1608A1BFE | telegram | obfs4 | 
-WTBro4mXhlKy2w | lucynspace@tutamail.com | 7B89D13CAD9287E2FF5BE7F0749D98BFEE4799FB | telegram | webtunnel | 
+WTBro4mXhlKy2w | lucynspace@tutamail.com | 7B89D13CAD9287E2FF5BE7F0749D98BFEE4799FB | telegram |  | 
 DownwardSpiral | rotortail pr.t.nmail . c.m | 7BC38CC3D9B92AEB9A65525376A5C3C9FA969722 | settings | obfs4 | 
 anonymous | anonymous15@tutamail.com | 7BE51327AB962719052398EAB6D3311BC99C5359 | settings | obfs4 | 
 KurisuMakiseNode | tiny.marten.viiy@mask.me | 7BF03319D65A7D90FBF65BC3A677C7E687D236A3 | N/A |  | 
@@ -2486,6 +2486,7 @@ DockerObfs4Bridge | your_email@example.com | DFD9063824B1A8DCEAB5426566566F208D5
 WTBrF33o4ZWmbR | tom@example.com | DFE13EB4D0DD7E3117C07D7D225BC47CA279CB3A | settings | webtunnel | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
 aoesunht | <root AT thegonz dot net> | E0357256D104E7E12414080B551EB0F2EB238197 | settings |  | 
+WebTunnelBr | random@email.com | E03FC19642E65E33C4E2B384B7A404DAA9427144 | N/A | webtunnel | 
 gaulAmbush4Choppy | N/A | E049A9101C0C8AAD19C8BA3282036138020558B6 | settings |  | ru
 Sr2Bridge1168 | this used to be sanitised and I did not write the code to populate it yet | E067AFA7E767E6ED36634451EF4E5378CDA2C3B4 | N/A | obfs4 | 
 ki | N/A | E070426A766C60F57F6CF393EEBFEFAD44827886 | N/A |  | 
@@ -2505,7 +2506,7 @@ GentlyBitten | operator1@gentlybitten.onmicrosoft.com | E1AFB0F44487837D78643E85
 Overture | <ph.ilippelatuli.pe+tb@protonmail.com> | E1F71440C96BBB2201FD27E58CEBACB6ED58E722 | email | obfs4 | 
 plinganser | N/A | E20FB0A6E319F75C9644F6B92648BE4CAC59BCF1 | https |  | 
 Poulailler | rev3dprint@gmail.com | E250748D3505BA77C2F4A73E0A673AA41BC152C6 | email | obfs4 | 
-DockerObfs4Bridge | d@w.com | E2BB707437D97DF323CE8BEBA79CBD6E78C0E72C | settings | obfs4 | 
+DockerObfs4Bridge | d@w.com | E2BB707437D97DF323CE8BEBA79CBD6E78C0E72C | settings |  | 
 LOLA | bridges@relayon.org | E2E25CF94DA57094BA1A23935B3D54BD048851BE | https | obfs4 | 
 ki | N/A | E2F7185452E86CE5D80C4A8BEC6D94680C257FFE | N/A |  | 
 iddqdidkfa | 0x3632046A Dmitry <dbaryshkov@gmail.com> | E301D01E712548C58E0CEDD8ADDAA869DECA14F9 | settings | obfs4 | 
