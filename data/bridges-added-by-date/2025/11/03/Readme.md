@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|gbridge | keiferdodderblyyatgmaildoddercom | 4D6E3CA2110FC36D3106C86940A1D4C8C91923AB | false | Valid | 2025-11-03 01:18:41 | 2025-11-03 00:18:41 | 2025-11-03 00:00:00 | 5388947 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | email | 10.199.83.111:54397 | obfs4 | distributed=true|
+|hackeabridge3 | info@hackea.org | A00CE69C5A287D50D0323AF50FEB982343CA6237 | true | Running, V2Dir, Valid | 2025-11-03 01:18:41 | 2025-11-03 00:48:41 | 2025-11-03 00:39:31 | 67584 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | 10.171.229.214:55853 | obfs4 | |
+|BrDbffBrdgs | bor.duboff@zohomail.com | EEC5D030C11F93C5C1DC2088D7894B97070D3D91 | true | Running, V2Dir, Valid | 2025-11-03 01:18:41 | 2025-11-03 00:48:41 | 2025-11-02 21:03:14 | 0 | Tor 0.4.8.19 on FreeBSD | 0.4.8.19 | recommended | true | N/A | 10.97.161.78:61745 | obfs4 | |
