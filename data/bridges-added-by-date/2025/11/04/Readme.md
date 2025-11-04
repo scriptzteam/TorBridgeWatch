@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|only4tor | only4tor@tuta.io | 4102CC2E1B80FB66B6205EE68592DF64FC25A1CE | true | Running, V2Dir, Valid | 2025-11-04 01:48:42 | 2025-11-04 01:48:42 | 2025-11-04 01:20:46 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | 10.31.34.138:62027 |  | |
+|WebTunnelTest | <address@email.com> | C4D4CD803772777BE47E7F8565626684024F0193 | true | Running, V2Dir, Valid | 2025-11-04 01:48:42 | 2025-11-04 01:18:42 | 2025-11-04 00:55:21 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.108.116.230:54940 | webtunnel | |
+|Unnamed | N/A | DF6919CFB1EF60F557309C2D7F4921F6FE9C2DD2 | true | Running, V2Dir, Valid | 2025-11-04 01:48:42 | 2025-11-04 01:48:42 | 2025-11-04 01:47:09 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | 10.141.16.50:50225 | obfs4 | |
