@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Singator | tor@danielcasanueva.eu | 3AFF3C56F56931687401C0B3B0D14DF6DA2283B1 | false | V2Dir, Valid | 2025-11-05 01:48:42 | 2025-11-05 01:18:42 | 2025-11-05 01:11:40 | 5341184 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | https | 10.218.210.152:58391, [fd9f:2e19:3bcf::5a:7c83]:58391 | obfs4 | |
+|PickANickname | <address@email.com> | 9F1A4AA6449EE26AE11F0D24FF9413E345B1EA1C | false | V2Dir, Valid | 2025-11-05 01:48:42 | 2025-11-05 00:18:42 | 2025-11-04 18:51:52 | 124928 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | settings | 10.92.166.13:51507 |  | |
+|DockerObfs4Bridge | morbereus@gmail.com | F934A0AE46EAE0B1FEB797859C3D5987D7644978 | true | Running, V2Dir, Valid | 2025-11-05 01:48:42 | 2025-11-05 01:18:42 | 2025-11-05 00:53:04 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.153.101.98:58568 |  | |
