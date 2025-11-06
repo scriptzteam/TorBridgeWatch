@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WTBrkNyeMB2zjo | edonrot.0qfe9@dralias.com | 6460788977D0E912118F3C37D5170FDC3485A7CA | true | Running, V2Dir, Valid | 2025-11-06 02:18:45 | 2025-11-06 01:48:45 | 2025-11-06 01:33:19 | 74752 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.248.185.94:51264 | webtunnel | |
+|DockerObfs4Bridge | LeanTeam@onionmail.org | B44A63B17CC8BCA126D5B0297A291FE4A4A24047 | true | Running, V2Dir, Valid | 2025-11-06 02:18:45 | 2025-11-06 01:18:45 | 2025-11-06 00:47:49 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | N/A | 10.63.81.9:56778 | obfs4 | |
+|Unnamed | gavinallenatprotonmaildotcom | E7DA86835A8AB7E9A535A035D555A49D503A72CB | true | Running, V2Dir, Valid | 2025-11-06 02:18:45 | 2025-11-06 01:18:45 | 2025-11-06 00:42:13 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | 10.220.253.209:56562 | obfs4 | |
