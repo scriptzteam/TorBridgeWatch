@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|massiveDrelay | Random Person <tor.contact.me.rand@proton.me> | EC537977BB760EF28A332E119D751416295C624A | true | Running, Valid | 2025-11-08 00:48:47 | 2025-11-08 00:18:47 | 2025-11-07 23:56:04 | 112640 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | telegram | 10.59.20.76:56819 | obfs4 | |
+|massiveDrelay | Random Person <tor.contact.me.rand@proton.me> | EC537977BB760EF28A332E119D751416295C624A | true | Running, Valid | 2025-11-08 01:48:47 | 2025-11-08 00:18:47 | 2025-11-07 23:56:04 | 112640 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | telegram | 10.59.20.76:56819 | obfs4 | |
