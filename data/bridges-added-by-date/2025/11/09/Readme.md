@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|davidndfdn | david norris1297 <AT gmail dot com> | BC491CFC702EED4560CC0CBDF46BE293723E7D07 | true | Running, V2Dir, Valid | 2025-11-09 07:48:48 | 2025-11-09 07:48:48 | 2025-11-09 07:14:27 | 97280 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | reserved | 10.171.68.242:55590 |  | |
