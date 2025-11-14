@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ki | N/A | 517D3D331AA98F68AC198D29AB49C73997ADD387 | true | Running, V2Dir, Valid | 2025-11-14 00:12:15 | 2025-11-14 00:12:15 | 2025-11-13 23:42:12 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.241.58.97:55313 |  | |
+|bauruine | abuse@tuxli.org | 96CF1328B7C6B79405252BB14B447C4AECFE453B | true | Running, V2Dir, Valid | 2025-11-14 00:12:15 | 2025-11-14 00:12:15 | 2025-11-14 00:03:21 | 10768384 | Tor 0.4.8.20 on Linux | 0.4.8.20 | recommended | true | settings | 10.179.226.180:56111 | obfs4 | |
