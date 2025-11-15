@@ -170,7 +170,7 @@ JeanPierreMoulin | Tor Administrateur <trinity AT pilule-rouge dot fr> | 0FE0780
 baten | <deneb[atsymbol]outlook.com> | 100B763486E6383C0986BF42CB0BFD332DAC47F4 | settings | obfs4 | 
 DockerObfs4Bridge | torproject.heroics014@passmail.net | 1010DEF31EE337F3F34A052B744AF568F77854BF | https | obfs4 | 
 NTH2B5 | N/A | 101155FE38D41BA68E3A6F2A2794C56582F1EFED | email |  | 
-PlapperlenaM | peca-relay@mailfence.com | 102FA1A1ADCEA14C20669B35E3FCD152F74B38E0 | telegram | webtunnel | 
+PlapperlenaM | peca-relay@mailfence.com | 102FA1A1ADCEA14C20669B35E3FCD152F74B38E0 | telegram |  | 
 Sr2Bridge4498 | hello from onionland | 104E910B61D00387C2216EE50BFD8EE0A2727676 | none | obfs4 | 
 senf | 0x4471de61 Senf <tor AT senf dot space> | 1054ED7F6D273DC28B8E1065E5BB010757628F26 | settings | obfs4 | 
 Unnamed | <mansrav@protonmail.com> | 1064E56A14E68562E37207491286101D64B945C9 | settings | obfs4 | 
@@ -215,7 +215,6 @@ Alnitak | s8472@outlook.com | 1459E1001B0589CD7CB6EBEC46E6A46F6CD77119 | https |
 Unnamed | mendeleev[AT]riseup.net | 148A5D403888FEEAA29E4CF9C7BEE85C7E9979CD | N/A |  | 
 dhbr21 | Tor-Admins <toooor AT all DOT de> | 148C701D7E7BAB64DA5CAC99A68156C65CFA190B | settings | obfs3, obfs4 | 
 OpenHilbertHotel | 0xC0DA06642F14295E9E021DD1F8547A9AB32E897D jma <jma AT mbuf dot net> | 14C07819FDC0684C426659B37AB353BDE284EB1C | settings | webtunnel | 
-Unnamed | N/A | 14D63E041044D8510340E3FDEC8F5384874CCE33 | N/A |  | 
 BlueCopperDevTin | root@guardianproject.info | 14FD5517100B43AEF7D382D8BD11ECCC972C081A | N/A | obfs4 | 
 DockerObfs4Bridge | tor@opentree.cz | 14FFD42347983C61ADC4DA2B3DA025FAAE1BEF06 | email | obfs4 | 
 ecdsa | N/A | 15119B4F00A28668E36852D4E24CD828EF21FD99 | https | webtunnel | 
@@ -1603,7 +1602,7 @@ Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obf
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | N/A | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
@@ -1842,7 +1841,6 @@ Chintoka | coyote@whycoyoterunslinux.com | A7291844D78D1ECE37589315D094F0AEE09F5
 bauruine | abuse@tuxli.org | A72C1BBFAC9632CDCC54D62B0D8FA5C6DACFE8BD | https | webtunnel | 
 ndnop0 | linus+tor@nordu.net | A72D5DB45D9DE4B244D3F6C4AD22A66F40BF5B87 | N/A | obfs3 | 
 ada | N/A | A7320496493822BA10A868C7A912B7C36312468B | telegram | obfs4 | 
-DockerObfs4Bridge | leslie@mail.lesliealexander.de | A757C40B2C885880AD414F02458AC0D288C57AB7 | N/A | obfs4 | 
 goatmun | ngubanikelo@proton.me | A7A474E4E679374741F2E024A5C48F5B75FBB500 | settings | obfs4 | 
 MAOI | bridges@relayon.org | A7AC52C1FCA2A55F55E4B0AE4759B7BC4C3FDE14 | settings | obfs4 | 
 WTBrREv8RIrO6t | obscureinterface@pm.me | A7CC6B26E554248F12061B513AEDF9E4E05549FC | N/A | webtunnel | 
@@ -2444,6 +2442,7 @@ WTBrAsus508TXW7gkZ | tor@anistratov.net | DCADCE7826819A4C91ED422889A62336104777
 DockerObfs4Bridge | talktoallen@studywithallen.com | DCAED68DA95D6D84D2C387ADD8163E5E6A6830D7 | settings | obfs4 | 
 ndnop5 | linus+tor@nordu.net | DCC0201F40DDEECDDDCE4E7039C5A5252C42C00A | settings | obfs4 | 
 BrainNotFound404 | N/A | DCC8596AC18052AE7AD5573FBDEA0E77CD974462 | settings |  | 
+Cliffjumper | no email. bridge hosted by blitzw.in | DCECD858DE0BF72712458A2A7AA7AEFC3588858D | N/A | obfs4 | 
 masto | email:jens[]kubieziel.de url:https://kubieziel.de/ proof:uri-rsa abuse:jens[]kubieziel.de ciissversion:2 | DCEFC5438E65FF3CF14C8003B9CBA1D5744E95FD | email | obfs4 | 
 Obfs4BridgeSpectrum | spectrum@serv.com | DD020E2C914473FEB2A22CAA6D9CEF5DC19F5900 | moat | obfs4 | 
 TriplebitBP | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | DD0E39667F329D19CE971408230CAF170F2EABF9 | https | webtunnel | 
@@ -2479,7 +2478,7 @@ Sr2Bridge4502 | this used to be sanitised and I did not write the code to popula
 DockerObfs4Bridge | N/A | DF89494D6FDB989B4155A7EDBF19EA95EA9D51AD | settings | obfs4 | 
 Unnamed | N/A | DFB087C12C54D63A10843E711BBE12C8614D8DD7 | none | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS161 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS81 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 DockerObfs4Bridge | your_email@example.com | DFD9063824B1A8DCEAB5426566566F208D59E9E1 | telegram | obfs4 | 
 WTBrF33o4ZWmbR | tom@example.com | DFE13EB4D0DD7E3117C07D7D225BC47CA279CB3A | settings | webtunnel | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
@@ -2602,7 +2601,6 @@ Unnamed | N/A | EA715743C1A83AA6B83E7925B2D3FEB101DACBB1 | https | obfs4 |
 DockerObfs4Bridge | VmNRXY5Km0@chello.nl | EA7BA118B9ED6DBDE48548AAEEAAA7F630493324 | none | obfs4 | 
 traumfab | <traumfab AT proton me> | EAB7BBE6112B8A769834845707C31A69D7611F2B | telegram | obfs4 | 
 MyBridge | cmondies@mac.com | EAEA714978992DFA9F4C0642FBEAC4B503F72BF7 | settings | obfs4 | 
-WTBrr58lo1Kwsp | njalla1985@proton.me | EB16CAD58DDE30253984EE0D6EAEFC4AB90947CB | N/A | webtunnel | 
 ARCON | bridges@relayon.org | EB1A5A3C58CC34AD2557F20C854719C4B4314D2C | settings | obfs4 | 
 croustor2 | mybetor45 AT gmail DOT com | EB5873086C338862A961DD1EEC0CD51F6C7F072E | https | obfs4 | 
 ki | N/A | EB612D69DEE7976901D9BB11EE200EC18CF997B3 | N/A |  | 
