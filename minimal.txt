@@ -344,7 +344,7 @@ ElephantBridgeES1 | Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-rela
 None | N/A | 1F2ED182D98554C2BB855B989830430A35CB4043 | email | obfs4 | 
 mlinkrelayrndc02 | hello@jclink.link | 1F4F65211AFB3AA29E6CD17183FDAC4992A4B5DE | reserved | obfs4 | 
 de02 | gus@riseup.net | 1F921B63AD57FABF4A40A1BC0A8305C63BC9AF8B | settings | webtunnel | 
-jLanBridge | admin@jlan.online | 1F9A789D70D49807293822CF91B2B922C4707684 | N/A |  | 
+jLanBridge | admin@jlan.online | 1F9A789D70D49807293822CF91B2B922C4707684 | N/A | obfs4 | 
 PontDesArts | address@email.com | 1FDC2FF4E2E6A0F35F982656D52F948E0D009D14 | settings | obfs4 | 
 as215248bridge07 | Bastiaan Brink <b@stiaanbr.ink> | 1FF2D6717F9CC5C56EDDF74EF267AD9349E5FAA1 | telegram | obfs4 | 
 TheShimmer | gus@riseup.net | 200A8ED55A15F6AABCD63D7CB6FC6A7ED0016774 | N/A | obfs4 | 
@@ -684,7 +684,6 @@ Unnamed | N/A | 3B98A89969F14CD59F7759568AEE5833FF4CB0F8 | https |  |
 DediZoneBridge | matrix: @hi:deads.chat | 3BAEAAB911FD85B754F7AE237CB39E9F3B26EA3A | N/A | obfs4 | 
 DockerObfs4Bridge | nicobuck93@gmail.com | 3BC969130CA216ADFE37769936BA9455D73962E5 | https | obfs4 | 
 arxysTOR1 | jason@arxys.io | 3BE1C3D72DAF227AD7E28E7E4F9B9FA449B575E2 | settings | obfs4 | 
-kanga | bitrot<at>posteo.org | 3BED9ED660904B48F496AB713FC3CC3912BD1CD7 | N/A | obfs4 | 
 DockerObfs4Bridge | humschi@hotmail.de | 3C3AFE7D631E9728EC8BC78034D0DC39D840BD17 | telegram | obfs4 | 
 NTH2B6 | N/A | 3C45586B608CF267E644B52AC08AD02946DF2C64 | email |  | 
 rienafoutre | <torbridge-fout.re@proton.me> | 3C45685781342F8C3C6270224D734C138132E075 | telegram | obfs4 | ru
@@ -945,7 +944,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey1 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey2 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
 Remilia | lovereimu [at] protonmail [dot] com | 54B320D58072286F7A9A64D636E7F9299EE5EA1B | none |  | 
@@ -1452,6 +1451,7 @@ WTBrAsusdCfOx8qCcj | tor@anistratov.net | 840C4C9B0E1557345E2ADFC5731F79CC845902
 democratiae | democratiae <democratiae.4oyya@8shield.net> | 8455D1131DC49B48FE3894FF5306DC52DBB50EF4 | settings | obfs4 | 
 bauruine | abuse@tuxli.org | 845AB204F5D15F5631234B78AEFA51DA21FC9D5F | https | webtunnel | 
 TorBridge2025 | gizmos-dipoles1x@icloud.com | 847AD7C41AF67F430DD7A0C6990E118EB8145DF4 | N/A | obfs4 | 
+lfg03 | gus@riseup.net | 847F05282A644779EC902BEF2FE2CF723403A6A7 | N/A | obfs4 | 
 Luttor | 0x82A9F369F3F3A95D06CDF6B635EB19FFFD22C9D1 edn0308 AT web dot de | 8484BE7B0444069B488D0CC5DDC5F757CF51AE9D | settings | obfs4 | 
 gnampf4i22 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | 849155FC47BB09A93FAC4BC22428B8F14AD5DA12 | telegram | obfs4 | 
 Hardin1 | <1@1.com> | 84A22FC516D5192B8D85DCF3AFD27766C37651B4 | email |  | 
@@ -1617,7 +1617,7 @@ Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obf
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty9 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 Beluga | <tor-relays@lists.torproject.org> | 91FA01A06B3A757DF93A9C3BE417CA01F9D29B07 | N/A | webtunnel | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
