@@ -1,2 +1,7 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ki | N/A | 782406363B11C9A83A70A9EAFC8B17AABC290D80 | true | Running, V2Dir, Valid | 2025-11-20 01:35:46 | 2025-11-20 00:05:46 | 2025-11-19 23:39:09 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.80.159.130:52001 |  | |
+|ki | N/A | 81039D600F70FC4D27F062198553C951700D5EEC | true | Running, V2Dir, Valid | 2025-11-20 01:35:46 | 2025-11-20 00:05:46 | 2025-11-19 23:42:01 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.62.43.41:62788 |  | |
+|ki | N/A | 9AEF45DE81F5AEC92BB44F8ED83CEFFDD1EFD099 | true | Running, V2Dir, Valid | 2025-11-20 01:35:46 | 2025-11-20 00:05:46 | 2025-11-19 23:38:44 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.95.101.190:58632 |  | |
+|ki | N/A | ECAF9454EAF23906DAAEEDD955D1D6984ECC9AF1 | true | Running, V2Dir, Valid | 2025-11-20 01:35:46 | 2025-11-20 00:05:46 | 2025-11-19 23:42:58 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.151.192.179:52706 |  | |
+|GoodbyeGalaxy | cmdrkeen@mailbox.org | EF8D70547CFEE8D55BEB8B135394EA32BFADC727 | false | V2Dir, Valid | 2025-11-20 01:35:46 | 2025-11-20 01:05:46 | 2025-11-20 00:46:14 | 0 | Tor 0.4.8.20 on FreeBSD | 0.4.8.20 | obsolete | false | telegram | 10.208.33.42:53693 | obfs4 | |
