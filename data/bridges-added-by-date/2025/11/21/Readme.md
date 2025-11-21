@@ -1,0 +1,6 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ki | N/A | 6DC95921D591A5E80EBA44D5D336CBDBF5E2FA45 | true | Running, V2Dir, Valid | 2025-11-21 00:05:46 | 2025-11-21 00:05:46 | 2025-11-20 23:38:26 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.72.183.99:53150 |  | |
+|ki | N/A | B0CA4C21283F2918FD8DFBF87DEBFD1A87D17DCA | true | Running, V2Dir, Valid | 2025-11-21 00:05:46 | 2025-11-21 00:05:46 | 2025-11-20 23:41:29 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.250.87.27:54933 |  | |
+|ki | N/A | DBAC9316B26851F40BEA7D40DB83BEDC9D7DCF4C | true | Running, V2Dir, Valid | 2025-11-21 00:05:46 | 2025-11-21 00:05:46 | 2025-11-20 23:43:35 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.202.120.126:55226 |  | |
+|ki | N/A | FE8EE3F911F29788B9E34077077B5C5908152471 | true | Running, V2Dir, Valid | 2025-11-21 00:05:46 | 2025-11-21 00:05:46 | 2025-11-20 23:39:10 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | obsolete | false | N/A | 10.150.17.192:58829 |  | |
