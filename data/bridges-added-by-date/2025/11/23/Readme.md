@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Obfs4BridgeCluster | torbridge1667@proton.me | 206E44C085203C023E3DD80A859C5BD75A9C476E | true | Running, V2Dir, Valid | 2025-11-23 01:51:51 | 2025-11-23 01:51:51 | 2025-11-23 01:22:51 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.153.157.206:61948 | obfs4 | |
+|ProSecureBridge | providedlan[]arcor.de | BD16D8C0484573EE405B345B02C3570D0C94CC53 | true | Running, V2Dir, Valid | 2025-11-23 01:51:51 | 2025-11-23 01:51:51 | 2025-11-23 01:29:44 | 0 | Tor 0.4.8.21 on Windows 8 [or later] | 0.4.8.21 | recommended | true | N/A | 10.240.66.151:61468, [fd9f:2e19:3bcf::fa:0713]:61468 | obfs4 | |
