@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | B564235EABFE4E38904609D3D8AD9EA3E78C5FB5 | false | V2Dir, Valid | 2025-11-25 01:28:26 | 2025-11-25 01:28:26 | 2025-11-25 01:21:46 | 90112 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.165.151.248:51809 | obfs3, obfs4 | |
+|Unnamed | mitchell@djunaedi.net | EF97304A4A9AAFE49D0B00A2C2C7328B25D4068B | false | V2Dir, Valid | 2025-11-25 01:28:26 | 2025-11-25 00:58:26 | 2025-11-25 00:51:17 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.233.58.209:64840 | obfs4 | |
