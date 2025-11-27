@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TestRelay | dispersal4902+torrelay@protonmail.com | FEEAD7159BDAA8FAB655C1A7D048B8F2F05BF9CC | true | Running, V2Dir, Valid | 2025-11-27 01:58:29 | 2025-11-27 00:58:29 | 2025-11-27 00:52:45 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.149.177.47:60599, [fd9f:2e19:3bcf::b9:4d3e]:60599 | obfs4 | |
