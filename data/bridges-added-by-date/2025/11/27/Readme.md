@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|TestRelay | dispersal4902+torrelay@protonmail.com | FEEAD7159BDAA8FAB655C1A7D048B8F2F05BF9CC | true | Running, V2Dir, Valid | 2025-11-27 02:58:29 | 2025-11-27 00:58:29 | 2025-11-27 00:52:45 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.149.177.47:60599, [fd9f:2e19:3bcf::b9:4d3e]:60599 | obfs4 | |
+|tobor | torrelay2112@pm.me | 21678B3A802A2F22A2638854D110ADC6130C7891 | true | Running, V2Dir, Valid | 2025-11-27 03:58:29 | 2025-11-27 03:28:29 | 2025-11-27 03:25:26 | 0 | Tor 0.4.8.20 on FreeBSD | 0.4.8.20 | obsolete | false | N/A | 10.117.32.58:59579 |  | |
+|tobor | torrelay2112@pm.me | 89185C4ACD360A89FEC962FAD9C8A9D4610408B2 | true | Running, V2Dir, Valid | 2025-11-27 03:58:29 | 2025-11-27 03:28:29 | 2025-11-27 03:04:18 | 0 | Tor 0.4.8.20 on FreeBSD | 0.4.8.20 | obsolete | false | N/A | 10.127.56.165:55853 |  | |
