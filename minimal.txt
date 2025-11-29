@@ -40,6 +40,7 @@ SillyWebTunnelMrrp | <me AT k4m1 DOT net> | 03B8C4EF77E5FE2C4C8D1EFD2B740EDAF475
 Unnamed | N/A | 03BAA3948F8CDE889A3F72F37BFFF4EEE4883955 | settings | obfs4 | 
 FunGru | Funcy Guru <fungru at proton dot me> | 03D02BA8E51A95084AE0745C84CBD2192EBE1324 | telegram | obfs4 | 
 bauruine | email:abuse[]tuxli.org pgp:32A1621FC5290921D720940187AC9FC1F2BCCB30 url:https://tuxli.org/ proof:uri-rsa ciissversion:2 xmr:831DfP9tnwa8LWpNGrnL8k4TAdMghuNM21jwrvSPjvW5FM3sBP1f7cBJzVXu6QsFCVYpoL3rniV193dq7Dc2bPsf6MC5y9x btc:bc1qavq0y6wunrwq5pyrr7dmny4a4tm4yswe2y3gv9 | 03E8114A952FA4CD6F316C7B08EC33CC72C771EA | settings | webtunnel | 
+DockerObfs4Bridge | admin@example.com | 03F186F53C3E4A3F29EE3DC95D5CD7333C57AFE1 | N/A | obfs4 | 
 sascafa | tazoi[at]tiscali[dot]it | 042A617439DCA6CF126EF9C607ACD42B909D5CE5 | telegram | obfs4 | 
 valis2 | gus@riseup.net | 042D49E29820A22137138568AE8CD43E9BB6E28F | settings | obfs4 | 
 as215248bridge02 | Bastiaan Brink <b@stiaanbr.ink> | 0457CF0BC2CC0BA1E1684CF93464493623B2A354 | https | obfs4 | 
@@ -373,7 +374,7 @@ bridge1 | v.nivlac@posteo.de | 20B9804BB859775525D25363DE22654483D969BA | telegr
 bridge4 | v.nivlac@posteo.de | 20BBD75FD4D20C4A9225C5B1935BF47CE35075DA | telegram | obfs4 | 
 DeezNode47936582639 | deeznodes@protonmail.com | 20BE2C3110CAF3160F9A92187D3B314912BB85D7 | https | obfs4 | distributed=true
 WebTunnelBr | random@email.com | 20C27EB75E0E526047397F900C15215D2F19BB87 | settings | webtunnel | 
-WTBrONUAlEL83e | vnikolov@vnikolov.cz | 20D692AA68B4CAB14B2227112A41D77ECEE74CEA | N/A | webtunnel | 
+WTBrONUAlEL83e | vnikolov@vnikolov.cz url:nikolov.cz proof:dns-rsa ciissversion:2 | 20D692AA68B4CAB14B2227112A41D77ECEE74CEA | N/A | webtunnel | 
 shortlonganonbread | N/A | 21031611E60F5B88EFC21E5EB1347BAA7B8FE7DE | N/A | obfs4 | 
 TheSwamp | tor@etwas42.de | 21410528F47E09DD50531CF40D5A86EBC5D5259E | settings | obfs4 | 
 tomlig | <tomlig@yandex.ru> | 21448BAFCFC9ABBE4377FCA68A6BAD30F1C2FD7F | settings | obfs4 | 
@@ -1635,7 +1636,7 @@ Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obf
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty9 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2527,7 +2528,7 @@ Sr2Bridge4502 | this used to be sanitised and I did not write the code to popula
 DockerObfs4Bridge | N/A | DF89494D6FDB989B4155A7EDBF19EA95EA9D51AD | settings | obfs4 | 
 Unnamed | N/A | DFB087C12C54D63A10843E711BBE12C8614D8DD7 | none | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS161 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS51 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 DockerObfs4Bridge | your_email@example.com | DFD9063824B1A8DCEAB5426566566F208D59E9E1 | telegram | obfs4 | 
 WTBrF33o4ZWmbR | tom@example.com | DFE13EB4D0DD7E3117C07D7D225BC47CA279CB3A | settings | webtunnel | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
