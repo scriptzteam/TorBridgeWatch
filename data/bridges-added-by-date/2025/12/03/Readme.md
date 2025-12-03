@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PL808 | <808bridges@riseup.net> | 2F4193248094EA1D456C142ED3B2A7DD2B698094 | true | Running, V2Dir, Valid | 2025-12-03 02:28:39 | 2025-12-03 02:28:39 | 2025-12-03 02:25:48 | 12157952 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | https | 10.145.243.136:50068 | webtunnel | |
+|c8a826cdee75 | disabled | 434B07FB13AB38978E83C1D626C2C2061B759BCC | true | Running, V2Dir, Valid | 2025-12-03 02:28:39 | 2025-12-03 01:28:39 | 2025-12-03 01:13:58 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.13.220.61:65172, [fd9f:2e19:3bcf::19:cc6d]:65172 | obfs4 | |
+|dec10bridge | sinza@sdf.org | 52EBD0B468A64A4616A47D12B5A3EDE7924DC2DB | true | Running, V2Dir, Valid | 2025-12-03 02:28:39 | 2025-12-03 02:28:39 | 2025-12-03 02:19:08 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.188.92.10:57328 | obfs4 | |
