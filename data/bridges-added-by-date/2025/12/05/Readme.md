@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WebTunnelBr | OPERATOR@monero.gay | 17E3515C96600E6F1E390D08B21F360DC0B1C933 | true | Running, V2Dir, Valid | 2025-12-05 01:51:03 | 2025-12-05 00:51:03 | 2025-12-04 22:58:57 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.103.204.69:56706 | webtunnel | |
+|thealgorithmbridge | torextop AT pm.me | 98329B30D68D63C7E79F2079CC7BA978D1599A2A | true | Running, V2Dir, Valid | 2025-12-05 01:51:03 | 2025-12-05 00:51:03 | 2025-12-05 00:45:11 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.11.89.92:51474 | obfs4 | |
