@@ -717,6 +717,7 @@ ExpertPlay | potlatch protonmail com | 3E2D3D687C99474754C01561344599DE0EA1EB8E 
 Unnamed | N/A | 3E2F3F3328ED2A42CEC546B26FFCBD9A0D7301FC | https |  | 
 NitupCkuf | <address@email.com> | 3E35C2DE966439CFA1B00AF184AE9C2555B35F96 | settings | obfs4 | 
 portesigma | <Jean Paul Remy> jean.paul.remy (at) protonmail.com | 3E3AA11292FF94732EF34530A501BB39732FBA45 | telegram | obfs4 | 
+DockerObfs4Bridge | admin@example.com | 3E433A1A131AC5558F3D34F0396D7D589868B71E | N/A | obfs4 | 
 hesolium | hesolium@hesolium.pl | 3E54ABD89D0C72096FC41487495197956728A48C | reserved | obfs4 | 
 LOLA | bridges@relayon.org | 3E6212EC015BB2D938EEC75343DF707C0113E559 | email | obfs4 | 
 LOLA | bridges@relayon.org | 3E67BBCF0B3843ABC08C70C2782DDF0388372D03 | https | obfs4 | distributed=true
@@ -944,7 +945,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey9 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -956,7 +957,6 @@ Unnamed | N/A | 54F97C738F7A16278C43370D652C179C1AD767DF | settings | obfs3, obf
 DockerObfs4Bridge | martijn.baay+torproject@gmail.com | 55094C90C20BB4CB8F009879EA22B4AEDB19B988 | moat | obfs4 | 
 torolinaflotolorang | N/A | 550D0CAF9E41ACC3B862B4261A59C1FB88853D64 | none |  | 
 norzi | fofifonfec@proton.me | 550EF2D96C0A94C640779CF20171D6EEC3AD5F60 | N/A | obfs4 | 
-PickANickname | address@email.com | 550FF3B91B0C9A3C6AEECE2ECA2AAF095D8813CA | N/A | obfs4 | 
 Obfs4Bridge | scobo@gmx.li | 5536A4167651040D9F0C3A86C4BFC186EE72FD96 | moat | obfs4 | 
 ZB90 | support@none | 55410AA3CB8C3BB9FD193CFEED9AAB1D48628C93 | N/A | obfs4 | 
 roaroa | <olokerunningtor at protonmail dot com> | 554AA75347591A163657D6AC71BC1A2BF24BE93A | settings |  | 
@@ -1639,7 +1639,7 @@ Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obf
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2282,7 +2282,6 @@ GeekSuingNappy | geek-suing-nappy@duck.com | C9D8EBCF6BFDDD65660B131F94219048757
 SillyWebTunnelMeow | <me AT k4m1 DOT net> | C9DF34DD17B1EA6174EBECACEDEBD36FE78B7B93 | N/A | webtunnel | 
 MyWatchBegins | mywatchbegins@atomicmail.io | C9DFFAEA377D1FE64D6224E0AEFBD7C34AA8F9AA | telegram | obfs4 | 
 imgcdn6 | <salmon@pm.me> | CA1A8BF5E7D8110EC7732E16D4FE4DCACA7F24F1 | none | webtunnel | 
-DockerObfs4Bridge | elab4us@126.com | CA34FC950A9F3B97A1C44FF22F4215BB4E467210 | N/A | obfs4 | 
 KATRIN | bridges@relayon.org | CA44C0358F287CF5307731813CED461A420C2B39 | settings | obfs4 | 
 Unnamed | N/A | CA46042906CFA582F8A4064AE606C02670E9F92E | N/A | obfs4 | 
 abstract | email:abstract/@/firemail.cc hoster:Privex cost:10USD uplinkbw:100 memory:2048 os:debian/12 tls:openssl ciissversion:2 trafficacct:unmetered | CA6D7A24F38533CF44D56518AF458F43AEB5C12A | none | obfs4 | 
