@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|tacomanarrows | bagriusthefirst@protonmail.com | 3A2C85A0CE61459FC21538536C4EC30E2A70352D | true | Running, V2Dir, Valid | 2025-12-06 00:51:04 | 2025-12-06 00:51:04 | 2025-12-06 00:00:54 | 0 | Tor 0.4.8.12 on Linux | 0.4.8.12 | obsolete | false | N/A | 10.149.46.122:50241 | obfs4 | |
+|massiveDrelay | Random Person <tor.contact.me.rand@proton.me> | EC537977BB760EF28A332E119D751416295C624A | true | Running, Valid | 2025-12-06 00:51:04 | 2025-12-06 00:51:04 | 2025-12-06 00:32:20 | 112640 | Tor 0.4.8.18 on Linux | 0.4.8.18 | obsolete | false | telegram | 10.207.117.173:61676 | obfs4 | |
