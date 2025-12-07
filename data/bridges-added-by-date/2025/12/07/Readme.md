@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MyBridge | your-email@example.com | 568DECF445A1D6DB126771EFD63E9F4288685939 | true | Running, V2Dir, Valid | 2025-12-07 01:51:04 | 2025-12-07 01:21:04 | 2025-12-07 02:04:34 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.33.45.68:53915, [fd9f:2e19:3bcf::72:d05f]:53915 | obfs4 | |

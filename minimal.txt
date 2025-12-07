@@ -177,7 +177,7 @@ JeanPierreMoulin | Tor Administrateur <trinity AT pilule-rouge dot fr> | 0FE0780
 baten | <deneb[atsymbol]outlook.com> | 100B763486E6383C0986BF42CB0BFD332DAC47F4 | settings | obfs4 | 
 DockerObfs4Bridge | torproject.heroics014@passmail.net | 1010DEF31EE337F3F34A052B744AF568F77854BF | https | obfs4 | 
 NTH2B5 | N/A | 101155FE38D41BA68E3A6F2A2794C56582F1EFED | email |  | 
-PlapperlenaM | peca-relay@mailfence.com | 102FA1A1ADCEA14C20669B35E3FCD152F74B38E0 | telegram | webtunnel | 
+PlapperlenaM | peca-relay@mailfence.com | 102FA1A1ADCEA14C20669B35E3FCD152F74B38E0 | telegram |  | 
 Sr2Bridge4498 | hello from onionland | 104E910B61D00387C2216EE50BFD8EE0A2727676 | none | obfs4 | 
 senf | 0x4471de61 Senf <tor AT senf dot space> | 1054ED7F6D273DC28B8E1065E5BB010757628F26 | settings | obfs4 | 
 Unnamed | <mansrav@protonmail.com> | 1064E56A14E68562E37207491286101D64B945C9 | settings | obfs4 | 
@@ -972,6 +972,7 @@ obfs4BridgesvQWSB48 | jessica3892@truinee.net | 56376774E4BBA259805872294AE4DD9C
 zimmerbridge | torrelay at limoneneis dot de | 56450135C2702AFBA480B7AC34C009E2AB731F7F | telegram | webtunnel | 
 meowmeow | <tor@ludost.net> | 56617D13CFF3A2070DF05F3D6648483DAFE9D247 | telegram | obfs4 | 
 chicanerygremlin | chicanerygremlin@protonmail.com | 567FA183EF0008B58113FD50DDA9349D9E8E7069 | N/A | obfs4 | 
+MyBridge | your-email@example.com | 568DECF445A1D6DB126771EFD63E9F4288685939 | N/A | obfs4 | 
 pewpew | tor@aaronb.cc | 5692A7B99A5F20C29C970027CDE86D5624A87F6C | settings | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 56AC34923AA2D0922A323EDE46F1850DD84B79D8 | N/A | obfs4 | 
 UnredactedWT1AMS | admin[@]unredacted.org | 56BED179BDECE19A81EE62485A2CAB8DC0A171CF | settings | webtunnel | 
@@ -1636,7 +1637,7 @@ Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obf
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
