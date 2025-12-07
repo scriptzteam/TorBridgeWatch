@@ -613,6 +613,7 @@ bridge16 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]ar
 bauruine | abuse@tuxli.org | 347084323C43FD51B3D59DEA1AD1F5372A317589 | none | obfs4 | 
 vicer | 0x7F44CB8D Llu��s <viric@viric.name> | 347AB9CD8E5C36CAD3A029E538EB43F124161DDA | https | obfs4 | 
 Thessaloniki | thessaloniki.56yxv@slmail.me | 348552814B83B140264D2DA0C3F3ACBDD60580AF | telegram | obfs4 | 
+Unnamed | N/A | 34888403457792C61750F961FF8064785CA6059F | N/A | obfs3, obfs4 | 
 NerdVPN | @weidenwiesel:nerdvpn.de | 3498D7D11E51372082456D1F92C4A75613DC98BA | email | obfs4 | 
 Unnamed | robin@haberecht.org | 34A8EDE3232C88C6B53BE0ADFD8577D364C2DF2E | email |  | 
 Unnamed | Random Person <tor-relay@mikitsu.me> | 34AD59DF0EAD0BA8A46968614229B7AD11441DB7 | https | obfs4 | 
@@ -814,6 +815,7 @@ gnampf4i12 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:u
 liberatedmind | tor@liberatedmind.cc | 47A6E18E80E06CA123589068BAE0794F55840B86 | telegram | obfs4 | 
 WTBrJOzu80fCpH | vnikolov@vnikolov.cz | 47C7C1E6D592DB9BE15DFF06D390FB1AF2A7CF8D | https | webtunnel | 
 MAOI | bridges@relayon.org | 47C985A5073FD16E4CF3FC9B04758730D13B7064 | reserved | obfs4 | 
+WTBrKHTucXJSGd | szfngoq9d@mozmail.com | 47EF96D3C887034AFFEF6B37926DD0EE249AD7D0 | N/A | webtunnel | 
 gnampf4i24 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | 47EF9722DD4B1087291E8C53B46C971FB6425ED6 | N/A | obfs4 | 
 CheeseyFries1509 | fake@fake.com | 481AB753F107DA15EA4214328EEABC9046E1D8BC | https | obfs4 | 
 SAMHALL | xesfur@nubemon.nohost.me | 482DAAF1AFF90EB76B16F2F7BA60D36284FCBEE2 | settings | obfs4 | 
@@ -939,7 +941,7 @@ Alvivthree | vi_astra@pm.me | 540B4454B9C6A83BEC049AC5B9504AF51895A50F | telegra
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey9 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey4 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1629,7 +1631,7 @@ Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obf
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty8 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -1649,7 +1651,6 @@ DockerObfs4Bridge | admin@example.com | 93E10DCEFF15A2A5D4D94A45DB40752EB757DC6B
 TriplebitBH | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 93F2E5F6647E5C1DFB5639FBDD37698D7CE176D7 | https | obfs4 | 
 cursus2 | mail@reconditus.de | 93F52704E5B25FF4D1ECBF0636B3620A8E7DF033 | moat | obfs4 | 
 DockerObfs4Bridge | arvid.boisen+tor@protonmail.com | 942005BAA394A7080FF9E6635D867AD7E19D7B93 | N/A | obfs4 | 
-invinoveritas3 | kopfschusskorl@gmail.com | 94255494A9B39F44010DA54EE31FA31F2EB7BAF5 | N/A | obfs4 | 
 Sr2Bridge4527 | hello from onionland | 94710B140997EA995B2C243CC628E3E57FBA254C | settings | obfs4 | 
 mwctunnel | no-contact@mwc.mw | 948B6B836638BBB0EF67ABAB3B8F381138BAF618 | none | webtunnel | 
 goodvibes | armando@esiliati.org | 94AF21B57BF419A3E2E9E6141779A6B403125704 | https | obfs4 | 
