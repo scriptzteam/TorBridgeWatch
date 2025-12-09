@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|a4sfd898 | replACE29-3unthreAD887_BUNDle57-6@offshore.rocks | 1AA68383E16370F17302B78CA9889A5C8710A628 | true | Running, Valid | 2025-12-09 02:51:07 | 2025-12-09 02:21:07 | 2025-12-09 01:52:48 | 314368 | Tor 0.4.8.18 on Linux | 0.4.8.18 | obsolete | false | telegram | 10.48.50.0:63381, [fd9f:2e19:3bcf::99:1748]:63381 | obfs4 | |
