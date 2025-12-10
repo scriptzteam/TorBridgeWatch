@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | 3E2F3F3328ED2A42CEC546B26FFCBD9A0D7301FC | false | V2Dir, Valid | 2025-12-10 01:51:09 | 2025-12-10 01:21:09 | 2025-12-10 00:34:02 | 2432000 | Tor 0.4.8.21 on Windows 8 [or later] | 0.4.8.21 | recommended | true | https | 10.122.36.128:65180 |  | |
+|DockerObfs4Bridge | no | 939177E1AB521493378C8614B9E6958F6FA8A126 | false | V2Dir, Valid | 2025-12-10 01:51:09 | 2025-12-10 00:51:09 | 2025-12-09 22:20:56 | 1651712 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | none | 10.62.171.185:60717 | obfs4 | |
+|TroubledWaters | lordbanquo@tutamail.com | E70FDF61F84099532898710D268C904CCA53AB8C | true | Running, V2Dir, Valid | 2025-12-10 01:51:09 | 2025-12-10 01:21:09 | 2025-12-10 00:57:22 | 1632256 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | settings | 10.158.80.86:50636 |  | |
