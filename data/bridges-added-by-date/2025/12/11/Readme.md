@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|torbridge2go | seblonacs -->seblonacs AT protonmail DOT com< | 677C94E64A83BC57370565BBF6D1AB14B65DAF44 | true | Running, V2Dir, Valid | 2025-12-11 05:21:10 | 2025-12-11 04:51:10 | 2025-12-11 04:19:55 | 583680 | Tor 0.4.8.10 on FreeBSD | 0.4.8.10 | obsolete | false | telegram | 10.149.246.150:52680 | obfs4 | ru|
