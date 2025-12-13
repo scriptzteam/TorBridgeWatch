@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|RaspiTorL | raspitor@habmalnefrage.de | D0F09B2E9CC1DE6E7B06FB4BC75DACD8E27CCD6F | true | Running, Valid | 2025-12-13 00:21:13 | 2025-12-13 00:21:13 | 2025-12-13 00:16:48 | 130048 | Tor 0.4.8.18 on Linux | 0.4.8.18 | obsolete | false | settings | 10.245.66.88:54468 | obfs4 | distributed=false|
