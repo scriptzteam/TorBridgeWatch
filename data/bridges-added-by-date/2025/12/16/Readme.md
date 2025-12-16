@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|quest3 | relay.pyramid434@passmail.com | 0AA4B6B349C6D43C388AAA63908D65A45D047C91 | true | Running, V2Dir, Valid | 2025-12-16 03:51:16 | 2025-12-16 03:21:16 | 2025-12-16 02:59:06 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.223.177.142:53297 | webtunnel | |
