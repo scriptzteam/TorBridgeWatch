@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | 70935D8AFC844F36BBBF0F3EBD37A1EE87E4CBA6 | true | Running, V2Dir, Valid | 2025-12-17 00:21:18 | 2025-12-17 00:21:18 | 2025-12-16 23:01:00 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.30.58.191:53788, [fd9f:2e19:3bcf::2b:80d4]:53788 | obfs3, obfs4 | |
+|Baerchen3 | jke-webtunnel[at]tutamail[dot]com | E377DA853106FB801EF6E2253495B51F5B1A3D4F | true | Running, V2Dir, Valid | 2025-12-17 00:21:18 | 2025-12-17 00:21:18 | 2025-12-16 23:59:11 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.195.225.196:64172 | webtunnel | |
