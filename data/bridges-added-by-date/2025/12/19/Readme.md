@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WTBrkNyeMB2zjo | edonrot.0qfe9@dralias.com | 6460788977D0E912118F3C37D5170FDC3485A7CA | true | Running, V2Dir, Valid | 2025-12-19 01:51:20 | 2025-12-19 01:51:20 | 2025-12-19 01:11:51 | 87040 | Tor 0.4.8.17 on Linux | 0.4.8.17 | obsolete | false | N/A | 10.34.253.65:50608 | webtunnel | |
+|CleanBridge | nobody@example.com | EE92ABD2707D2FDE1B82FFEA81E50CE66288500D | true | Running, V2Dir, Valid | 2025-12-19 01:51:20 | 2025-12-19 00:21:20 | 2025-12-18 23:55:57 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.80.83.213:58768, [fd9f:2e19:3bcf::7e:116a]:58768 | obfs4 | |
