@@ -172,7 +172,7 @@ JeanPierreMoulin | Tor Administrateur <trinity AT pilule-rouge dot fr> | 0FE0780
 baten | <deneb[atsymbol]outlook.com> | 100B763486E6383C0986BF42CB0BFD332DAC47F4 | settings | obfs4 | 
 DockerObfs4Bridge | torproject.heroics014@passmail.net | 1010DEF31EE337F3F34A052B744AF568F77854BF | https | obfs4 | 
 NTH2B5 | N/A | 101155FE38D41BA68E3A6F2A2794C56582F1EFED | email |  | 
-PlapperlenaM | peca-relay@mailfence.com | 102FA1A1ADCEA14C20669B35E3FCD152F74B38E0 | telegram | webtunnel | 
+PlapperlenaM | peca-relay@mailfence.com | 102FA1A1ADCEA14C20669B35E3FCD152F74B38E0 | telegram |  | 
 Sr2Bridge4498 | hello from onionland | 104E910B61D00387C2216EE50BFD8EE0A2727676 | none | obfs4 | 
 senf | 0x4471de61 Senf <tor AT senf dot space> | 1054ED7F6D273DC28B8E1065E5BB010757628F26 | settings | obfs4 | 
 Unnamed | <mansrav@protonmail.com> | 1064E56A14E68562E37207491286101D64B945C9 | settings | obfs4 | 
@@ -374,7 +374,6 @@ DockerObfs4Bridge | N/A | 21BAD4192D27CA1A8B6428555B3F88C759AAB3C4 | settings | 
 Unnamed | post@trbr.anonaddy.com | 21D023051834BA58EC8F6E19A7225EAD27F22F96 | telegram | obfs4 | 
 duckman | no@thank.you | 21E2F677E5A36F90E1DC930DF23C88F5D3B96142 | telegram | obfs4 | 
 DockerObfs4Bridge | ygg3n7x0z@mozmail.com | 21FA74CCEDE1C77B4FF80FE6961ABD5469EC9293 | settings | obfs4 | 
-Maribel | N/A | 22287A61AA0CF86842620E93C9FD32B6A66FD8FE | https |  | 
 Beppo | denkbrett@gmail.com | 2230EC0FAC45CE57E0955032600AC0546063E015 | email |  | 
 Unnamed | N/A | 2276DB60BB2276D8F19E497E9AC1E67DB479C6D5 | https |  | 
 DominaTorRelay | Dominator <dominator@disroot.org> | 227A8814A259C77CED79DFED6A32A8FE2916770B | email |  | 
@@ -1626,7 +1625,7 @@ Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obf
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty8 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -1817,6 +1816,7 @@ Entonnoir | <support@globenet.org> | A1D34A5A3E5FC157A8287B5970A67C9F1D1C0549 | 
 DockerObfs4Bridge | quique.galleta@hotmail.com | A1EC63463B45D651AA8588FBED4975532D8EE665 | telegram | obfs4 | 
 bridge17 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | A200476C5ECAFDC6C0215F8EC586BE416A07A070 | settings | obfs4 | 
 YunoSweatyArmpits | Azusa Hamaoka <tiny.marten.viiy[at]mask.me> | A2148CAE09AF5AA3340B4EF901C3F43D5F2DBCDD | N/A | obfs4 | 
+georgefloydbridge | example@mail.com | A21713FC315B71D25E3E71EFB934B2994651B859 | N/A | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | A22921C4014A856BA241B07D49A01282D1A2EF0E | N/A | obfs4 | 
 DockerObfs4Bridge | domi+tor@secnd.me | A22AF4DB871D81F77D853C921FDA36995920B02A | email | obfs4 | 
 PrivateBridge22 | noconnect@example.com | A2319EFED163FFC1FB15E0F390082D6E9EB176BB | N/A |  | 
@@ -2521,7 +2521,6 @@ clough | <alexusono@proton.me> | DD5F1FA13FF49AC7774F74FD216111086D5E0632 | sett
 nezuwt | nezu@nezu.cc | DD71A808FE7704CFA54536448DB89E4011D3246F | none | webtunnel | 
 DockerObfs4Bridge | codingdodo@protonmail.com | DD9B8284A5754E4D0450317DA08F8F93606A742C | settings | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | DDB94492EA5B9B544B1AB2B139BA6A29F994B5F8 | N/A | obfs4 | 
-F24oSecondBridge | admin@f24o.zip | DDC17EED543B5468CFC1EE72655A9632D4ADA07D | telegram | obfs4 | 
 None | N/A | DDFF75501BB734FD96FC95A65266F54CC0C66302 | telegram | obfs4 | 
 Heisenberg5 | Heisenberg@example.com | DE025061468C8A0053B8CFF605349F478C5C5A8D | settings | obfs4 | 
 GCBridge | GCRlay@proton.me | DE042679314AD7572D8C9E81A2DA3058DD511559 | settings | webtunnel | 
