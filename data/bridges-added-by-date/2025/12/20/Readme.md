@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Tartarus | Anonymous <tor-bridge@005184.xyz> | BEA9849F98F00321E1F1B343D31E891069193399 | true | Running, V2Dir, Valid | 2025-12-20 00:21:21 | 2025-12-20 00:21:21 | 2025-12-20 00:10:50 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.239.101.235:49385 |  | |
