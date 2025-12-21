@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | 3FC1360AD216DC47F1426A24FAC964401E55C3A2 | true | Running, V2Dir, Valid | 2025-12-21 01:51:22 | 2025-12-21 01:51:22 | 2025-12-21 01:11:42 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.162.31.92:64189 | obfs3, obfs4 | |
+|Unnamed | Douglas Silva <doug DOT hs AT proton DOT me> | C79A10B8D72DCAE328966C82D46FFDABA7CE0E60 | true | Running, V2Dir, Valid | 2025-12-21 01:51:22 | 2025-12-21 01:21:22 | 2025-12-21 00:45:18 | 0 | Tor 0.4.8.21 on OpenBSD | 0.4.8.21 | recommended | true | N/A | 10.170.219.4:51127 | obfs4 | |
