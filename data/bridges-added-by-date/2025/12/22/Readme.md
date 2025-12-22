@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | tor@opentree.cz | 6B823AB34012B62AFC6732E9B6016E2013DC24F6 | true | Running, V2Dir, Valid | 2025-12-22 02:21:23 | 2025-12-22 01:21:23 | 2025-12-22 00:59:38 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | obsolete | false | N/A | 10.127.98.127:63515 | obfs4 | |
+|FreedrihMerch | 0xFFFFFFFF Random Person <Hello World com> | A9EC96F1EEACE30617B6DC392A15BEEA5669DFEC | true | Running, V2Dir, Valid | 2025-12-22 02:21:23 | 2025-12-22 01:51:23 | 2025-12-22 02:27:52 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.114.23.216:50835, [fd9f:2e19:3bcf::8e:e240]:50835 | obfs4 | |
