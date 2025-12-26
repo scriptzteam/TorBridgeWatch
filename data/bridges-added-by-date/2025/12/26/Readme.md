@@ -1,5 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Unnamed | N/A | 011DE881AD35B1C578B03B108B8C494C1760FC38 | true | Running, Valid | 2025-12-26 01:51:27 | 2025-12-26 01:51:27 | 2025-12-26 02:03:44 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.218.93.35:63791 |  | |
-|Nuhapumppu | fulcrum.electrum.proton.me | 3DE1B4C6C061E30649A14DB591F1183D903DAD9D | false | Fast, Running, Valid | 2025-12-26 00:21:27 | 2025-12-26 00:21:27 | 2025-12-25 10:52:54 | 4492288 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.238.174.40:49283 |  | |
 |erpatak | gszathmari AT protonmail dot com | B37382AE15EDB23FED6C5A7E2CE723E2835BF406 | true | Running, V2Dir, Valid | 2025-12-26 01:51:27 | 2025-12-26 01:51:27 | 2025-12-26 01:46:42 | 0 | Tor 0.4.8.21 on OpenBSD | 0.4.8.21 | recommended | true | N/A | 10.226.106.46:54988 | obfs4 | |
