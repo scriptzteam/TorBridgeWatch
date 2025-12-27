@@ -723,6 +723,7 @@ LOLA | bridges@relayon.org | 3E67BBCF0B3843ABC08C70C2782DDF0388372D03 | https | 
 bridge25 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 3E87307EC0047AB5CFFF7F73E3978F9A770FF01B | settings | obfs4 | 
 immerWTWww2 | admin+webtunnel@immerda.ch | 3E94D674D0238D860DB0C8A13C629DA49CF344DC | settings | webtunnel | 
 ki | N/A | 3EAF74F5E6917142DE5D8DB892E53ED9595ADBFF | N/A |  | 
+DockerObfs4Bridge | LeanTeam@onionmail.org | 3EB5AF2954D440697F497C33CB1D782E0C53F3F6 | N/A | obfs4 | 
 metastable05 | mori@menhera.com | 3EB765BA22B9977F4E50E9033BA5FF3BB9165199 | settings | webtunnel | 
 bridge7 | dmitri_@bk.ru | 3EC30B5B0B6BF77FC7660CD669DE3BDC57F6379D | settings | obfs4 | 
 Bridge | tor@ybti.net | 3EC3ADFDE4B18CB866E169BBA32C87DC75B287C1 | telegram | webtunnel | 
@@ -764,7 +765,7 @@ tower | gszathmari AT protonmail dot com | 41D5A41DF2D2190D0C7553D4E1B5C0B57F819
 bridge22 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 41EE6C2DB323065F75ED96083754B9C5B4A3837E | email | obfs4 | 
 Kotori | turgu7@gmail.com | 4253EC8A7C9739B3A2C4E4C76F3F605F46C5C6B3 | reserved | obfs4 | 
 NobodyKnows007 | ndof-Punkt-gmx-Punkt-li | 425524116B2C124026BDF1F06BA80A19C2E94B82 | https | obfs4 | 
-UK67888 | 67888.UK | 42A351DB8EEF736EC8CF8F3FE49A744F1E06EE32 | N/A |  | 
+UK67888 | 67888.UK | 42A351DB8EEF736EC8CF8F3FE49A744F1E06EE32 | N/A | obfs4 | 
 Unnamed | N/A | 42AD8F1D2DE2C60BDD829BAF86F0E0975B00DEB1 | settings | obfs4 | 
 fiowhaz | lucdeu@tor2mail.com | 42C9DB3EE9029F3F4E081ACF3EB838394C5CE7EB | settings |  | 
 kallio | rsa4096/A1F1E776E110F29C "6A39 0014 3004 84B5 67ED  F7F5 A1F1 E776 E110 F29C" | 42EE7999FB1F28B6F0292E6E29256FAD09E58EF6 | https |  | ru
@@ -948,7 +949,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 kizm | email@qq.com | 544081BBB065B01C1E373D8B6049B717F223A36A | N/A | obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
-flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey3 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1106,7 +1107,6 @@ DockerObfs4Bridge | thecubic@thecubic.net | 63EA53F8979F30AF7C7C5FFCCF29FDF63BF5
 DockerObfs4Bridge | toroperator1776@protonmail.com | 63F1BA33237C8FAFBF68523E2DB66A348CC5B074 | settings | obfs4 | 
 WTBri1JqWPbFUn | admin@webhostingltd.com | 641CC756AB898F14D2D2E631549E1E6F7F121D1A | settings | webtunnel | 
 Bridgebuilder123 | bridgebuilder123@onionmail.org | 6433FE404FEEC908F081D5F2CAB150CDFF139A2A | moat | obfs4 | 
-WTBrkNyeMB2zjo | edonrot.0qfe9@dralias.com | 6460788977D0E912118F3C37D5170FDC3485A7CA | N/A | webtunnel | 
 WTBrlcaFUb5NJj | gus@riseup.net | 64B0BE055D15C9B5CFAFF57F9BAFCF78C06A5CD7 | https | webtunnel | 
 Unnamed | Random Person <torrelay.heaviness092@passmail.net> | 64B953671212B21B739EAECFC490EDFCC65859C9 | email |  | 
 Unnamed | N/A | 64C4115B44816A2DC170A9C7E5277FE105B3A883 | settings |  | 
@@ -1636,7 +1636,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
