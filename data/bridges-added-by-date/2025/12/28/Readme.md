@@ -1,4 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DockerObfs4Bridge | contact@nearlydone.press | 2A5823420BCE35B5D824DEFD9E783A06643C93B7 | true | Running, V2Dir, Valid | 2025-12-28 02:21:29 | 2025-12-28 00:21:29 | 2025-12-28 00:04:59 | 2440192 | Tor 0.4.8.14 on Linux | 0.4.8.14 | obsolete | false | N/A | 10.163.237.217:55660 | obfs4 | |
 |illuminatus | N/A | CF5364F1ACEAF4690E871D99FD1C9F2B66E767A7 | true | Running, V2Dir, Valid | 2025-12-28 02:21:29 | 2025-12-28 01:51:29 | 2025-12-28 00:25:01 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.248.86.88:58860, [fd9f:2e19:3bcf::55:e6e2]:58860 |  | |
