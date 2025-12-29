@@ -1,4 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DockerObfs4Bridge | contact@nearlydone.press | 2A5823420BCE35B5D824DEFD9E783A06643C93B7 | false | V2Dir, Valid | 2025-12-29 02:21:29 | 2025-12-29 02:21:29 | 2025-12-29 02:06:31 | 4454400 | Tor 0.4.8.14 on Linux | 0.4.8.14 | obsolete | false | settings | 10.163.237.217:55660 | obfs4 | |
 |FaerieOnion | N/A | 7EDF41EF7D43AB7E2EC2E7877D6C42D3A6E60429 | true | Running, V2Dir, Valid | 2025-12-29 02:21:29 | 2025-12-29 01:51:29 | 2025-12-29 01:32:08 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.148.10.152:51152 | obfs4 | |
