@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|BridgetoTorchier | torchier@tutamail.com | 8A56B7A702A83E0C0EFF7617E206176D9D32E053 | true | Running, V2Dir | 2025-12-31 01:21:31 | 2025-12-31 01:21:31 | 2025-12-31 01:21:08 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.14.115.214:50642 | obfs4 | |
+|CoRamBridge | tor@nolberg.net | 7C246D0BF95D29E01781B55701F39D72C49DF022 | true | Running, V2Dir, Valid | 2025-12-31 02:21:31 | 2025-12-31 02:21:31 | 2025-12-31 02:02:56 | 3265536 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | settings | 10.12.36.161:50976 | obfs4 | |
+|BridgetoTorchier | torchier@tutamail.com | 8A56B7A702A83E0C0EFF7617E206176D9D32E053 | false | Running, V2Dir | 2025-12-31 01:51:32 | 2025-12-31 01:21:31 | 2025-12-31 01:21:08 | 107520 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.14.115.214:50642 | obfs4 | |
