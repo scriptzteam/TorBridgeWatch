@@ -1,3 +1,2 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|RPH | c@hostname.co.uk | B2C84ADA4F34710240ACB2F79532B151A5A7B616 | true | Running, Valid | 2026-01-02 02:21:35 | 2026-01-02 00:21:35 | 2026-01-02 00:20:16 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.221.249.197:51837, [fd9f:2e19:3bcf::4d:266a]:51837 | obfs4 | |
