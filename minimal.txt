@@ -2,6 +2,7 @@ Unnamed | N/A | 0004F8AEA55FE852194674C8554D68CC5E7A5BBA | email |  |
 ams1 | gus@riseup.net | 0009FD594D4F125E3300826ADADE11964C925DD5 | https | webtunnel | 
 Unnamed | N/A | 00485FF0A70F54ED8AD6F7EE2DC139B544749872 | telegram | obfs4 | 
 DockerObfs4Bridge | alberto@casetta.co.uk | 009CDA476053B5DF4441211CB25F9B2190BB0128 | settings | obfs4 | 
+MyObfsBridge | admin@example.com | 00AE22DC3BD35E43C2F642A5F8A92C2DCBA08E24 | N/A | obfs4 | 
 TriplebitSnowflake2 | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 00B2069390A9D67F9F23581E2B99F59FCA08D96B | N/A | snowflake | 
 ForPrivacyNETbr40 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 00E1AE6CB75E47E363E6AEF9F67A49C0E854FDE7 | https | obfs4 | 
 testestes | hoix3ul8e@mozmail.com | 00E42CBC7431EF291C54229E93F77652B3D2B664 | N/A |  | 
@@ -940,7 +941,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | telegram | obfs4 | 
-flakey12 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1640,7 +1641,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -1926,6 +1927,7 @@ Yasur | <hjb@hjbaader.de> | A9DA731DE9D16230FE233144A2C68BC5092828AE | settings 
 Sr2Bridge4503 | hello from onionland | A9DD4E017094D306DC2B8D18EF32F76A7572D0A7 | none | obfs4 | 
 BilboWGTR | <tor @ wgtr dot de> | A9E4622F810DEAC86C33DDDAA8F81A9B9C526ABB | https | obfs4 | 
 FreedrihMerch | 0xFFFFFFFF Random Person <Hello World com> | A9EC96F1EEACE30617B6DC392A15BEEA5669DFEC | telegram | obfs4 | 
+Unnamed | Theo theos@unforgettable.com | A9EEC7E1224319EAA8656A39BAF46ACB066BEEAF | N/A |  | ru
 BlueCopperDevTin | root@guardianproject.info | AA11BB934EA5E53862FC4013C0E2E719538B91BD | N/A | obfs4 | 
 BrookRameev2W | brookrameev@pm.me | AA38F09288C57D20DF9D190EC5FFEBF59A5A3AAA | settings | webtunnel | 
 Sr2Bridge4525 | hello from onionland | AA454A6EDFAB37EDACC32BE408EC0D5CC498E0AA | none | obfs4 | 
