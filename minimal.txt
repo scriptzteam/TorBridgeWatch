@@ -722,6 +722,7 @@ NetDevPX | <tor@netdev.cloud> | 3EE7F58152106F66691AB014C3ED755E126BA2F1 | setti
 DockerObfs4Bridge | rink_unstuffed719@simplelogin.com | 3F5874A90F66F1C1C98D7225907147ABA2574681 | https | obfs4 | 
 GallaRix | <charlieco@gmail.com> | 3F83E632108F6ECF58C09EB1511B2D57E3445B32 | settings | obfs4 | 
 WTBrBopt3xikg1 | test@example.org | 3FC4FBA130B776EFF2D13C62884B320E68248EA0 | https | webtunnel | 
+DockerObfs4Bridge | LeanTeam@onionmail.org | 3FC9BDBD5C8F3A03A46B5B90770559353F4B2C65 | N/A | obfs4 | 
 BlueEntra | N/A | 3FD7C88990CF77E7AB777592CD7BAAD3925A6FA8 | moat | obfs4 | 
 NodNet01 | tor[@]nodnetwork[dot]org | 3FE2C3216C7A104EBF33EF8A12F21BBBDD6A02DC | https | obfs4 | 
 BabaJagasCabin | Olafur <olafuringvason@posteo.is> | 3FE5DD49CD0120BA9176CC8A6479312B4126F13A | settings | obfs4 | 
@@ -938,7 +939,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | telegram | obfs4 | 
-flakey11 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey6 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | telegram | obfs4 | 
@@ -1280,7 +1281,7 @@ DockerObfs4Bridge | abuse[@]chelys.org | 73BFE912CCA65C7BECE57C0ABE312ECD89CA452
 ndnop2 | linus+tor@nordu.net | 73D8FF840444F84EC50DD755FBAD44CF1F0DE28B | N/A | obfs3 | 
 BlueCopperDevTin | root@guardianproject.info | 73E4588E513233F63366CA5351444A02DAE7C10A | N/A | obfs4 | 
 badlyguyanatasty | indot_pointedness@aleeas.com | 73FFED93EE447D9EB9085C909E47066119159AC6 | email |  | 
-Unnamed | <adkaser DOT tor AT posteo DOT org> | 74001907C2AC01EF95A55D6986DEFD50EFD6364E | https |  | 
+Unnamed | <adkaser DOT tor AT posteo DOT org> | 74001907C2AC01EF95A55D6986DEFD50EFD6364E | https | obfs4 | 
 bridge32 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 741EAE30EA9BC164C11E4161A5492916449E19E4 | email | obfs4 | 
 mojeBridge | <example@example.com> | 7438543775B51F4FDF74711723BC070509006533 | settings |  | 
 viewanime | N/A | 74414A74059AC7D6B96A7236231FD5E85155DF57 | settings |  | ru
@@ -1640,7 +1641,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | N/A | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2655,7 +2656,7 @@ id3x | <admin@id3x.org> | E80B47DEC5D3A0DE7FB52C95A9E4EBF63BF5B744 | telegram | 
 WonderNode | blobster@tuta.io | E8112F8A30098D7C452CEA0B17500A24A0E3D4FD | email | obfs4 | 
 DockerObfs4Bridge | tor@schmidtie.net | E819C4DEC0E3FF5DB95565FD7E65395C07AB80D6 | settings | obfs4 | 
 miffledipp33n | miffledipp33n@mailbox.org | E83940B1E77C3D7FB7045A51095098EF3233A831 | https | obfs4 | 
-Dipshit | tor@benjaminerhart.com | E840AF6F3DEA5AF285B042940BDE172ACDC92DAD | email |  | 
+Dipshit | tor@benjaminerhart.com | E840AF6F3DEA5AF285B042940BDE172ACDC92DAD | email | obfs4 | 
 tTrzHSeA | N/A | E84DC77EF6E1DEAB58CBD594C509D01A28D92648 | email | obfs4 | 
 Cool | <fatanomaly1337@gmail.com> | E88B8FE3DAEC87B59DAFA0BDCA4A3AA9C08ACA0D | N/A | obfs4 | 
 cdfg | <address@email.com> | E8B47EC9D5A1EB25202BB1FAF050879D0DF0E131 | none | obfs4 | 

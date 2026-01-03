@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | LeanTeam@onionmail.org | 3FC9BDBD5C8F3A03A46B5B90770559353F4B2C65 | true | Running, V2Dir, Valid | 2026-01-03 02:21:36 | 2026-01-03 01:21:36 | 2026-01-03 01:09:50 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.172.2.121:53981 | obfs4 | |
