@@ -170,7 +170,6 @@ JeanPierreMoulin | Tor Administrateur <trinity AT pilule-rouge dot fr> | 0FE0780
 baten | <deneb[atsymbol]outlook.com> | 100B763486E6383C0986BF42CB0BFD332DAC47F4 | settings | obfs4 | 
 DockerObfs4Bridge | torproject.heroics014@passmail.net | 1010DEF31EE337F3F34A052B744AF568F77854BF | https | obfs4 | 
 NTH2B5 | N/A | 101155FE38D41BA68E3A6F2A2794C56582F1EFED | email |  | 
-MolniyaBridge | zhivchinas@gmail.com | 1029608044682552DDB3D776C2C97ED2810A61E3 | N/A | obfs4 | 
 PlapperlenaM | peca-relay@mailfence.com | 102FA1A1ADCEA14C20669B35E3FCD152F74B38E0 | telegram | webtunnel | 
 Sr2Bridge4498 | hello from onionland | 104E910B61D00387C2216EE50BFD8EE0A2727676 | none | obfs4 | 
 senf | 0x4471de61 Senf <tor AT senf dot space> | 1054ED7F6D273DC28B8E1065E5BB010757628F26 | settings | obfs4 | 
@@ -203,7 +202,7 @@ server | noreply@no-ip.com | 12C63C4AA2AEFE472F375E5544CEB087FB240246 | email | 
 artikel5ev21 | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2 | 12D7BAE6E32B64A3CDDA29548E3CC0F468AD83BF | settings | obfs4 | 
 BatOnion | 0x85770A9EE0DCC79C Joshua Mangas <jmangas at waynetec dot us> [tor-relay.co] 14kmchJcCVVEor1MVSXzfYUL8VQ5JqR9VM | 12F83DB8F3558F792E9EF07756C2D4F6063AAB10 | https | obfs4 | distributed=true
 zombiekiller | <gawrgurafan@disroot.org> | 130D1BB4073E4F1B456C8E91BF0FF7A21232D042 | telegram | obfs4 | 
-WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https |  | 
+WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https | webtunnel | 
 TriplebitBJ | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 133267D91CE7774A22FDE85F36AF156CC6F6D457 | none | obfs4 | 
 hobobridge | hobosoft.production@gmail.com | 133D07D3D09FF8000D50AE0E8308C97B62C77E53 | settings | obfs4 | 
 ki | N/A | 137C283465CB72E54C71F5BFD6C067ACB4A8FF77 | N/A |  | 
@@ -1596,7 +1595,6 @@ Longdune | <quick [DOT] hope9185 [AT] aenomie [DOT] com> | 8E6F8AD26803055364406
 TornusATmilkyway4 | tor@gnuproject.org | 8E82D89241333E38A0218040C9F74AD3CA04D40B | settings | obfs4 | 
 wonktor | tor@wonk.org | 8EBDC27C3445893FF863520EC00852DAC3CD141B | settings |  | 
 bridge23 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 8EC01B22FED9BD78F61D752C06267322D5C862F6 | reserved | obfs4 | 
-dermoth1 | 0xDE417216 Thomas G.-S. aka dermoth <Google.is.your.friend> | 8EE99D44343CCDDDA7E42F3827DB6B9B3C7A7AA4 | N/A | obfs4 | 
 CYPNODE1B1 | 0xE1B3F181ABB91002 CypherNode Tor Abuse <tor-abuse AT cyphernode DOT net> | 8F03AAB182900822F297032C5FA945D4FB8B66C8 | settings | obfs4 | 
 DockerObfs4Bridge | tor@schmidtie.net | 8F146B407481CDC9DEE752F3B72341ADD48BFED3 | N/A | obfs4 | 
 PickANickname | address@email.com | 8F16CE536C9E1A3125628FBDB67DA233ECB35ED8 | N/A | obfs4 | 
@@ -1637,7 +1635,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty4 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty8 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
