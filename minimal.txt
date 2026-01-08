@@ -178,7 +178,7 @@ bvNao6CwZId | Shelikhoo email: shell.tor.relay.email.webtunnel.axtozehbxjuo7npfk
 LOLA | bridges@relayon.org | 10A59A57ADCA3B161DB8D6180571365E29BFE305 | settings | obfs4 | 
 Goufiro | Scloki@proton.me | 10ACA6338BAB76B30165FB88EA2A160144484238 | settings | webtunnel | 
 aiurxBridge | josh@aiurx.com | 10C2374ABE68DB1C4A09FF0264FD379A09291E4D | https | obfs4 | 
-DigiBINinTokyo | digibin@protonmail.com | 10C60D7A4471F6D29799DB089A06BCE927BAD232 | N/A | obfs4 | 
+DigiBINinTokyo | digibin@protonmail.com | 10C60D7A4471F6D29799DB089A06BCE927BAD232 | N/A |  | 
 Unnamed | eatme@bitemy.org | 10EC47C3B079ED2C0D8CD9FD3929124914D55C24 | N/A |  | 
 DockerObfs4Bridge | sognen@gmail.com | 10F12B918E5A664B3BC91BC4CE89417D85CA7E7E | settings | obfs4 | 
 ShadowBridge1337 | anonrelay@protonmail.com | 113F861E2784641E0111AA982D15908A1923EEB3 | email | obfs4 | 
@@ -726,7 +726,7 @@ nthfirebridge1 | relays@nthpyro.dev | 3EE7C2AA4C5616D5F86B5A8ECA309AA044FB7A66 |
 NetDevPX | <tor@netdev.cloud> | 3EE7F58152106F66691AB014C3ED755E126BA2F1 | email | obfs4 | 
 DockerObfs4Bridge | rink_unstuffed719@simplelogin.com | 3F5874A90F66F1C1C98D7225907147ABA2574681 | https | obfs4 | 
 GallaRix | <charlieco@gmail.com> | 3F83E632108F6ECF58C09EB1511B2D57E3445B32 | https | obfs4 | 
-DigiBINinLondon | digibin@protonmail.com | 3FAAFF1BF2D36E620393517CD1EAC0D0A6F0053A | email | obfs4 | 
+DigiBINinLondon | digibin@protonmail.com | 3FAAFF1BF2D36E620393517CD1EAC0D0A6F0053A | email |  | 
 WTBrBopt3xikg1 | test@example.org | 3FC4FBA130B776EFF2D13C62884B320E68248EA0 | settings | webtunnel | 
 DockerObfs4Bridge | LeanTeam@onionmail.org | 3FC9BDBD5C8F3A03A46B5B90770559353F4B2C65 | N/A | obfs4 | 
 BlueEntra | N/A | 3FD7C88990CF77E7AB777592CD7BAAD3925A6FA8 | moat | obfs4 | 
@@ -1241,6 +1241,7 @@ DockerObfs4Bridge | bartoszhornicki@gmail.com | 6F9BF3CA6BF125441833065E4C471543
 Unnamed | N/A | 6FD06162890780E1E948EB3FC977D8CDDDD18E09 | email |  | 
 TorN8To | nathan@nfriedly.com | 700E96C5F2B6307A900A7B22A0844BC9630FEFF5 | settings | obfs4 | 
 Unnamed | Random Person <nobody AT example dot com> | 70241E0EFFB0604650BF13870AF6F1EFE4AE0E37 | https | obfs4 | 
+xuxu | N/A | 705956886BFFE4FCDD3948DEC7CC0D7A7D92654B | N/A |  | 
 Unnamed | N/A | 70764F7500ABE163697D06B7A878CC349BD5339A | email |  | 
 DockerObfs4Bridge | Xtrwz9FV@outlook.com | 707A9F02347B2F6801309C1EA053A0BE89055274 | email | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 708649DFB1025FD69398AB8E6B72CEF4855C66EE | N/A | obfs4 | 
@@ -1657,7 +1658,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty4 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
