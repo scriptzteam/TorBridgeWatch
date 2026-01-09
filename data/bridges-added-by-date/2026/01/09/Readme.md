@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Roam | wyke <at> lighthouse <dot> my(dot)id | 0F3AAA0AB36F38A4468325E3F1428040144BCA89 | true | Running, V2Dir, Valid | 2026-01-09 02:44:00 | 2026-01-09 02:44:00 | 2026-01-09 02:18:32 | 3296256 | Tor 0.4.8.12 on Linux | 0.4.8.12 | obsolete | false | N/A | 10.6.96.19:64051 | obfs4 | |
+|SunOS | N/A | 57B9540D773F39A9EEAD2593F1C2CA5B79B3F9DF | false | V2Dir, Valid | 2026-01-09 02:44:00 | 2026-01-09 02:44:00 | 2026-01-08 20:22:03 | 830464 | Tor 0.4.8.18 on Linux | 0.4.8.18 | obsolete | false | N/A | 10.85.242.142:49656 | obfs4 | |
+|PickANickname | <address@email.com> | 9F1A4AA6449EE26AE11F0D24FF9413E345B1EA1C | false | V2Dir, Valid | 2026-01-09 02:44:00 | 2026-01-09 02:44:00 | 2026-01-08 13:32:15 | 133112 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.104.100.7:53500 |  | |
