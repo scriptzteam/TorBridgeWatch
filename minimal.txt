@@ -151,6 +151,7 @@ psylobbit | <admir@tor.mailia.me> | 0E1A9CD9EFA8F9EC1AF2B471F262BE767317CB33 | N
 Unnamed | N/A | 0E1C0BAFC30D7B7961A0AE8BD2A3B8BCB8C843FD | settings | obfs4 | 
 Panicstations | therockhardens@protonmail.com | 0E3C073CDD9D42E4484EB052BD880CECB1555170 | N/A | obfs4 | 
 nr18 | Tor Admin <tor@nr18.space> | 0E46C0826425EE2256C7541375EED505038CDE6D | https | obfs4 | 
+GreatOldBridge | tor-bridge AT necronomi DOT co | 0E7E1AB8C70050281938209632447909D864B41A | N/A |  | 
 DockerObfs4Bridge | ole@oleggtro.com | 0E9DA5EAA564548EFEF6E467EF85ADE7DB71C83B | settings | obfs4 | 
 Unnamed | dontcontact@cia.gov | 0EA7D75FC291C7B76B72CECAEAABE14D2B324876 | https | obfs4 | 
 DockerObfs4Bridge | you@example.com | 0EB7E3F176AE05034EFABB937B1F3500A397A987 | settings | obfs4 | 
@@ -1660,7 +1661,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2070,7 +2071,6 @@ Zwiebelringe | Tor(at)von-wegner(dot)de | B49A3F2991977EA11388776533A72F6F2C77AA
 CO13 | <cobalt nine AT protonmail dot com> | B4A0424ABACABB05EEEFB009A05CA4833C15CEB3 | settings | obfs4 | ru
 AbstractBarista | email:tor[]abstractbarista.net url:https://tor.abstractbarista.net proof:uri-rsa ciissversion:2 | B4AE1410C6946ED1F29B901E6CFA0BB40247ACB1 | settings | obfs4 | 
 Obfs4Bridge | email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 | B4B537AEDD9F8C99DE949A54B17FACC06214B299 | https | obfs4 | 
-Unnamed | N/A | B4DDF310B1928D0EF56844F412FE0B7DCECEECBE | N/A | obfs4 | 
 sR24cSeg0O | mail@example.org | B4E3069CBFFB4572DA868C3B7C359CE8C442C3B3 | settings | webtunnel | 
 NTH1B6 | N/A | B4E379664253CE160BE626C86FE602350F363A66 | settings |  | 
 bridge | bridge@unknown.domain | B4F2D5582DFDF7138B048E6B3F7225FB30AF4619 | N/A | obfs4 | 
@@ -2224,6 +2224,7 @@ Babar | tor-repository@yopmail.com | BFF083FF3C4E63235DBE10CBAA864A3CDE5D5AEA | 
 WTBrIIzhcDMDrx | torwebtunnel.1566b@aleeas.com | C000EA5AAE158DA9A4434A20FB9CE619B6E7C53C | settings | webtunnel | 
 ParadiseBridge8 | Dave Null <dave@null.net> | C0069174A2FFBD03FFA7EC757FC6034AB914FA57 | https |  | 
 Unnamed | ruv2j6an at proton dot me | C01FB9172359B7F15FCEB3A53ECD3E1F4E5CB8F3 | https | obfs4 | 
+PickANickname | <address@email.com> | C029556A07B9C57B8DE1931115487371865DDEFF | N/A | obfs4 | 
 kaBridge | kabridge@googlegroups.com | C029D0D357646C46253DE301AD73FE7ECB1AA70C | https | obfs4 | 
 nocensorship | Random Person nobody@tor.org | C08085748D8801785B61A7627819A02E21CBCF4E | https |  | 
 Obfs4Bridge | email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 | C0BBB1DF6EAE4FC266E8EB42198410F0FCF5D18B | settings | obfs4 | 
