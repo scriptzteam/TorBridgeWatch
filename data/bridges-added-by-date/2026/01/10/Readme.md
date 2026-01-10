@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|NilesWildin | Nilestrix@servicing.tech | 3848E39919ACABB1F9D405DEFE99AEEE7277FDDA | true | Running, V2Dir, Valid | 2026-01-10 01:44:08 | 2026-01-10 00:44:07 | 2026-01-10 00:15:21 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.6.77.251:52524, [fd9f:2e19:3bcf::75:cd1b]:52524 | obfs4 | |
+|illuminatus | N/A | CF5364F1ACEAF4690E871D99FD1C9F2B66E767A7 | true | Running, V2Dir, Valid | 2026-01-10 01:44:08 | 2026-01-10 00:44:07 | 2026-01-10 00:39:46 | 183296 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.144.156.128:54930, [fd9f:2e19:3bcf::25:3ffe]:54930 |  | |
