@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Luna | admin@girlyearner.me | FFB53F6576073A0D6DB8CCBC19B22756A7C7E244 | true | Running, V2Dir, Valid | 2026-01-13 02:44:12 | 2026-01-13 02:44:12 | 2026-01-13 02:19:46 | 190464 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.5.149.139:63907 | webtunnel | |
