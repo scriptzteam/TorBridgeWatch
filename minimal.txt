@@ -199,7 +199,7 @@ server | noreply@no-ip.com | 12C63C4AA2AEFE472F375E5544CEB087FB240246 | email | 
 artikel5ev21 | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2 | 12D7BAE6E32B64A3CDDA29548E3CC0F468AD83BF | settings | obfs4 | 
 BatOnion | 0x85770A9EE0DCC79C Joshua Mangas <jmangas at waynetec dot us> [tor-relay.co] 14kmchJcCVVEor1MVSXzfYUL8VQ5JqR9VM | 12F83DB8F3558F792E9EF07756C2D4F6063AAB10 | https | obfs4 | distributed=true
 zombiekiller | <gawrgurafan@disroot.org> | 130D1BB4073E4F1B456C8E91BF0FF7A21232D042 | email | obfs4 | 
-WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | settings |  | 
+WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | settings | webtunnel | 
 TriplebitBJ | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 133267D91CE7774A22FDE85F36AF156CC6F6D457 | none | obfs4 | 
 hobobridge | hobosoft.production@gmail.com | 133D07D3D09FF8000D50AE0E8308C97B62C77E53 | settings | obfs4 | 
 WebTunnelBr | random@email.com | 138B88EB1740B4510C417BC53BC2313400F079C1 | settings | webtunnel | 
@@ -267,7 +267,7 @@ newhelp5 | jingojngo at gmail.com 0xF8A61A2F | 1929EBE72FFD7B942314F2A5BB4946B82
 WTBrtDkd4WAGM9 | abuse AT example.com | 192AE47933774745CA5EDF4674952EBDA494F0C3 | email | webtunnel | 
 ki | N/A | 193FB6AF8D6DE5E1F6159003995D6C36804146EF | N/A |  | 
 GermancraftTunnel | knight AT germancraft DOT net | 1970D943C369FE7D50DAAFD7620931481D223456 | https | webtunnel | 
-POiNG | 706f676f617274654070726f746f6e6d61696c2e636f6d0a | 199119A0FEA9C6AD948A2C3349CE7B6F8946C3DC | N/A |  | 
+POiNG | 706f676f617274654070726f746f6e6d61696c2e636f6d0a | 199119A0FEA9C6AD948A2C3349CE7B6F8946C3DC | N/A | obfs4 | 
 WTBrrrxcWyJBXN | fuckedop2.wvss-mannheim.de | 19B30A1C06E11137B9FFAA7989C6DF20BA93474B | email | webtunnel | 
 betabridge4206988 | torproject.4r707@simplelogin.com | 19C9B070003C9670BB6B5693771FEF94AE791422 | email | obfs4 | 
 Artikel5ev11 | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2 | 19D64EA4945EC5CE96C039F76E33804965DA3993 | email |  | 
@@ -935,7 +935,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | settings | obfs4 | 
-flakey2 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
+flakey11 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | email | obfs4 | 
@@ -1651,7 +1651,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=true
@@ -1769,6 +1769,7 @@ BlueCopperDevTin | root@guardianproject.info | 9ACD56C7E348FDFE6797B1ED6954B7C3D
 Quetzalcoatl5 | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh ciissversion:2 | 9AD591B488278A8884C7155508ED132AE27F5A10 | https | obfs4 | 
 yeuhdeber | Z | 9B263F9788CBEA6338B7B26EF1A1AFFE186A09B5 | N/A | obfs4 | 
 OverTroubledWaters1 | N/A | 9B31B27C77098BDB8CB9DB26C9613C6B97F809C0 | settings | obfs4 | 
+Pusit | tor@pusit.ph | 9B38F351D752EC2DBB59AB414F17F3D5E40C0EBA | N/A | obfs4 | 
 PickANickname | <address at email dot com> | 9B3BDE919A2BEDE32196C4F2507B2FB7E09603BF | N/A | obfs4 | ru
 WhatsTatersPrecious | whats.taters@pm.me | 9B4B0C472F00E6A14995BA9247DC211B40462C88 | N/A | obfs4 | 
 WTBrAsusmSGOnMLPZ4 | tor@anistratov.net | 9B5F208A0F4315E371664A9AC2DE63896EBEDE25 | email | webtunnel | 
@@ -2885,6 +2886,7 @@ Lon3 | gus@riseup.net | FA1B0F4383DDC0188C490A9CD06F7A38A5C2B47C | settings | we
 IPFSTorNodeXFOi | ipfs-research-node <admin@localhost> | FA1D8C9F57DB1E5CD3A949409D16C8586C7E4347 | N/A | obfs4 | 
 ARCON | bridges@relayon.org | FA5656B9C3400878296C5FFAE988951598159974 | https | obfs4 | 
 snex | snex@xens.org | FA6FC7807B5105A4E12B8E54617D3C8E95FD4DF0 | email | obfs4 | 
+DockerObfs4Bridge | mail@arianw.de | FAA65A1ECA82914B958D9827961299C978EB5CD7 | N/A | obfs4 | 
 NucObfs4Bridge | torproject.org@yegle.net | FABF213E053B663484105AC7EF0E3E80CFAAD4E1 | N/A | obfs4 | 
 NBridgeB | email:trinity.pointard+relay[]gmail.com url:https://trinity.fr.eu.org/ proof:uri-rsa ciissversion:2 | FAC1AD1742A676788D19CB15053EC367DC456AE1 | settings | obfs4 | 
 biglia | <lnoferin@cybervalley.org> | FAC36DEBCD5486A0BBF03A5F8460877856434BF7 | N/A | obfs4 | 
