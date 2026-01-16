@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|inthematrix | InsomniaInc <abcd AT fu dot google> | 0F311AD59F7B0407B22A1CD047F3DEB582F88D3B | true | Running, V2Dir, Valid | 2026-01-16 00:14:14 | 2026-01-16 00:14:14 | 2026-01-15 23:49:54 | 34816 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | email | 10.51.4.152:59415 |  | |
+|nerlangabbotizolin | N/A | 84DA5D2ADC78265890FC831DA3309DC0A6B5C538 | true | Running, V2Dir, Valid | 2026-01-16 00:14:14 | 2026-01-16 00:14:14 | 2026-01-15 23:58:35 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.123.33.110:60683 | obfs4 | |
