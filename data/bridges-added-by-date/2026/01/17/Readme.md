@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PickANickname | <address@email.com> | 9F1A4AA6449EE26AE11F0D24FF9413E345B1EA1C | true | Running, V2Dir, Valid | 2026-01-17 01:14:15 | 2026-01-17 01:14:15 | 2026-01-16 19:46:47 | 148480 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | settings | 10.104.100.7:53500 |  | |
