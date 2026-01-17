@@ -941,7 +941,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | settings | obfs4 | 
-flakey4 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
+flakey11 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 MAOI | bridges@relayon.org | 549447CFE428893406338E2748F42EF94D837470 | email | obfs4 | 
@@ -982,6 +982,7 @@ moar1 | bridge-96122-moar1@cyberpostkarte.de | 57807DF69BDE569FC85E984756B2239C5
 ReapFreedom | jock009jock@gmail.com | 5789C4792031088045AE2C8760876C9DC383B7A3 | email | obfs4 | 
 SunOS | N/A | 57B9540D773F39A9EEAD2593F1C2CA5B79B3F9DF | N/A | obfs4 | 
 DockerObfs4Bridge | dertysden@gmx.com | 57FC4E530B6301DF405759EBAB4601C5F20C7BDD | https | obfs4 | 
+ki | N/A | 580050E73FBAB97AB67C3553C153560550BC5024 | N/A |  | 
 DockerObfs4Bridge | overcoded@protonmail.com | 580497D5A7E5E33A0F6FF2B9F6E4AEFB788B8DC7 | settings | obfs4 | 
 WTBrnxuOPZiKlu | edonrot.0qfe9@dralias.com | 58217BB0EF40312CF18B3AECA6C3F5E732602C0A | settings | webtunnel | 
 artikel5ev20 | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2 | 5839CC8F65AC61C3624F959908007BF1BC055D2B | settings | obfs4 | 
@@ -1425,7 +1426,6 @@ vdseb0 | Linus Nordberg <ln+tor_b0@verkligendata.se> | 7F083ADEEC636B10F5F663C5F
 DockerObfs4Bridge | AmandaMGarcia@dayrep.com | 7F139CE0BA31296E463948B64202858F8674D1FE | https | obfs4 | 
 ShanaChan | Jana Berger <admin AT janaberger dot de> | 7F186C637ED5D361843EE7E2F398F04DCD619A27 | email |  | ru
 DockerObfs4Bridge | john.doe@duck.com | 7F1BF0B5C4F2450953FCA4AEE3CAEA9BBEB515D4 | N/A | obfs4 | 
-DigiBINinSyndey2 | digibin@protonmail.com | 7F2E148DF37B7CD2391756BE637FAF87F00D93CD | settings | obfs4 | 
 e5bridge | <info@ebenefuenf.de> | 7F372F53EE91263641B817AC446DF520731BB28E | settings | obfs4 | 
 WTBr5ELJ0Nf3sQ | gus@riseup.net | 7F552438ABBF752ADD98939109B7FCE923903DFB | telegram | webtunnel | 
 mwctunnel | no-contact@mwc.mw | 7F5FB2F007B6404DD350DA3B005EE8F93D397BFA | none | webtunnel | 
@@ -1653,7 +1653,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty7 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | settings | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=true
@@ -2561,6 +2561,7 @@ bigre | mendeleev[AT]riseup.net | DD384EA7CFEB0ABED6853D99BB61CBDC1B046BD9 | res
 TFTPBridge | tom@hoerberg.de | DD445A5609755038FF6D23FE7430415173DD85A5 | N/A | obfs4 | 
 clough | <alexusono@proton.me> | DD5F1FA13FF49AC7774F74FD216111086D5E0632 | settings | webtunnel | 
 nezuwt | nezu@nezu.cc | DD71A808FE7704CFA54536448DB89E4011D3246F | none | webtunnel | 
+ki | N/A | DD810C698758F3D9FCA51678FD0F3EE77F840820 | N/A |  | 
 BridgeMeUp | Jingoro <jingoro@riseup.net> | DDABAA6BB58803AAF10C4B2E0EBC8C0BF69B2944 | email | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | DDB94492EA5B9B544B1AB2B139BA6A29F994B5F8 | N/A | obfs4 | 
 F24oSecondBridge | admin@f24o.zip | DDC17EED543B5468CFC1EE72655A9632D4ADA07D | telegram | obfs4 | 
