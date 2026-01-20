@@ -894,6 +894,7 @@ bonkybridge3 | m@bianchi.dev | 4E2FC769293ABCCE3CD3C78ECCE987AD239B059A | telegr
 Tadeus | alvin@i2pmail.org | 4E44F52C29C3120FF177BCB595D1614F857AF1AA | settings | obfs4 | 
 TriplebitAV | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 4E4D74CC1A99A00A0EE2CEEE14166080A4D5A905 | https | webtunnel | 
 dogstorbridge | dan@dogsbody.org | 4E53E373000124C372629F5145A070D36CABD9BB | settings | obfs4 | 
+DockerObfs4Bridge | korigan@hackbbs.org | 4E876AD69AB1E1B0DA10601D0C3C2BA46120090D | N/A | obfs4 | 
 DockerObfs4Bridge | e4iQE5C2NE@proton.me | 4EB6E5966018398329268D0E0FE4131B0314B3C6 | telegram | obfs4 | ru
 Random | no email. bridge hosted by blitzw.in | 4EB6F28029F40B19EF753012B530D92E6DBD84ED | settings | obfs4 | 
 pi4bbdckrbr | N/A | 4EB7FA4E7758B8723F8537EE38D9A43097A7226D | email | obfs4 | 
@@ -1307,8 +1308,7 @@ Unnamed | <adkaser DOT tor AT posteo DOT org> | 74001907C2AC01EF95A55D6986DEFD50
 WTBrsOj6vvMXWk | less@gosuda.org | 7419AE9B7D0632A4181BC10DB20E79046F355833 | email | webtunnel | 
 bridge32 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 741EAE30EA9BC164C11E4161A5492916449E19E4 | email | obfs4 | 
 mojeBridge | <example@example.com> | 7438543775B51F4FDF74711723BC070509006533 | settings |  | 
-viewanime | N/A | 74414A74059AC7D6B96A7236231FD5E85155DF57 | N/A |  | ru
-OldSamsungA32 | pjw7@gmx.com | 744DA6E2E2BCB93999C8B16C1C185BA06DFFA447 | N/A |  | 
+SamsungA32 | pjw7@gmx.com | 744DA6E2E2BCB93999C8B16C1C185BA06DFFA447 | N/A | obfs4 | 
 SuckMyDonkeyBalls | N/A | 748EE9A0AD3DAD04D8ADE5B57B5C912ECAFDC866 | settings | obfs4 | 
 lakupala | <trnf@posteo.pm> | 74BEB9A74217B7FC4179C27F1C3AFADCE6C0B08D | email |  | 
 bauruine | email:abuse[]tuxli.org pgp:32A1621FC5290921D720940187AC9FC1F2BCCB30 url:https://tuxli.org/ proof:uri-rsa ciissversion:2 xmr:831DfP9tnwa8LWpNGrnL8k4TAdMghuNM21jwrvSPjvW5FM3sBP1f7cBJzVXu6QsFCVYpoL3rniV193dq7Dc2bPsf6MC5y9x btc:bc1qavq0y6wunrwq5pyrr7dmny4a4tm4yswe2y3gv9 | 74C44B1AC635F79B48D65AE98C662E21CA43FDCE | email | obfs4 | 
@@ -1668,7 +1668,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | N/A | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty7 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
