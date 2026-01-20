@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|OldSamsungA32 | pjw7@gmx.com | 744DA6E2E2BCB93999C8B16C1C185BA06DFFA447 | true | Running, Valid | 2026-01-20 02:14:37 | 2026-01-20 01:14:38 | 2026-01-19 23:41:55 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.56.152.70:59371 |  | |
+|PlasmaTor | electronicsl797@gmail.com | F249B04C233EBC79E7DFA56C2BEB0292585A6449 | false | V2Dir, Valid | 2026-01-20 02:14:37 | 2026-01-20 01:14:38 | 2026-01-20 00:00:52 | 772096 | Tor 0.4.8.13 on Linux | 0.4.8.13 | obsolete | false | N/A | 10.97.118.114:56594, [fd9f:2e19:3bcf::d0:a8e3]:56594 | obfs4 | |
