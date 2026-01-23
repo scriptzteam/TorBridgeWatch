@@ -533,7 +533,7 @@ Unnamed | N/A | 2D789FB22BD37F10D7ADC6AAE558BD1511E91713 | none | obfs3, obfs4 |
 R3ykj4v1kIS1 | R3ykj4v1kIS1@SORRYNOEMAIL.LOCAL | 2D84601D660907E901BB6DD4882F8D85AF9089F7 | settings | obfs4 | 
 TriplebitAM | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2D896DF7C9D5296FE0A02C8EB065A54041F2AD24 | N/A | webtunnel | 
 ZimaNode | raymond.willborn@gmail.com | 2D95E18A7557841E0224584780B0BFA9501F00DF | N/A | obfs4 | 
-DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | settings |  | 
+DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | settings | obfs4 | 
 TriplebitAP | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2DEE1C0E13D9AC7BEA1D9FC10896137B867BFC53 | N/A | webtunnel | 
 KATRIN | bridges@relayon.org | 2DF1F7E6B3C8B0BC6C3E3A9300357527AE16D73B | N/A | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 2DF24FD3AFBC3E65363A5ED6E00C926BD84F7FAD | N/A | obfs4 | 
@@ -1632,7 +1632,6 @@ WTBrWadFjvG87A | whisper@anoni.net | 8DE939CCE5B4910BD7A9843D3915BC88E37524CF | 
 mestriga | tor@mestriga.com | 8DE9C17080E1ABA17C82BC79ACAF88F640182E90 | settings | obfs4 | 
 moar4 | bridge-7194-moar4@cyberpostkarte.de | 8DF512776D1E72ACFC0B32CE5FF23B06BE5A1F0B | https |  | 
 top123 | top123@gmail.com | 8E03710F45F5286CDC9EE6BF761EEC34E86D406C | settings | obfs4 | 
-AWSObfs4Docker | ghazl.slaughter@inboxorigin.com | 8E0998C6FC8A95B6957152579745687C8B9B8C34 | N/A | obfs4 | 
 DockerObfs4Bridge | no@email.com | 8E155853A1A8B626246D922E2FA6B33386DA2731 | email | obfs4 | 
 ArcticMonkey | Vs <vs+tor@foldr.org> | 8E166772B25FFCF097E618DD4C74D95B50AF537F | settings | obfs4 | 
 Anonymous | Anonymous | 8E2BD3C827455C8A67692310ED7E9E2D55224EB9 | settings |  | 
@@ -1687,7 +1686,7 @@ Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  |
 sould774 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 91BFD725EFB069EF5CCBC7128B0594331A321AFB | N/A | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2866,6 +2865,7 @@ MyWatchBegins | mywatchbegins@atomicmail.io | F4B3A6A21F8E363AA328A2218A0F033128
 Starlink | torbridge@starlink.ovh | F4D954BF4DE3E73456E074F834BC6C5A18BC6E42 | N/A | obfs4 | 
 clover | Matt Nordhoff <6ca584da-2bfd-4f9e-8a6c-a499269b0bfe@mn0.us> | F4DDCF082CFF1140A11F9342433661CA00C116CC | email | obfs4 | 
 NOTL | parkinglotlust@gmail.com | F4EB974243B0237D633F9C82E02D5CDC1BB15058 | N/A | obfs4 | 
+dfsn7325 | sunny.5o5c3@passmail.com | F51C6242CA7129676EB11D8D6A23009BA0BF0E46 | N/A | webtunnel | 
 Sr2Bridge4514 | hello from onionland | F52FF6651B9FDD9BE1FACD4019785BF2130C507C | none | obfs4 | 
 Klabauterbach4 | peca-relay@mailfence.com | F572531E88120DDED7E6AC6F3E80E9DD866F6714 | https | obfs4 | 
 ki | N/A | F57DA39A66D8A3DEFF441015A451A937168B8E8F | N/A |  | 
