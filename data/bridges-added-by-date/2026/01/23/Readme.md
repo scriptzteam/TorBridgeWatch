@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|AbsurdismTunnel | meursault.clamence@proton.me | FFCEFAC14C89821133819233AB06C4B87F2300B8 | true | Running, V2Dir, Valid | 2026-01-23 01:44:48 | 2026-01-23 01:44:48 | 2026-01-23 00:00:15 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.107.2.44:49628, [fd9f:2e19:3bcf::e7:c806]:49628 | obfs4 | |
+|AbsurdismTunnel | meursault.clamence@proton.me | FFCEFAC14C89821133819233AB06C4B87F2300B8 | true | Running, V2Dir, Valid | 2026-01-23 02:44:48 | 2026-01-23 01:44:48 | 2026-01-23 00:00:15 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.107.2.44:49628, [fd9f:2e19:3bcf::e7:c806]:49628 | obfs4 | |
