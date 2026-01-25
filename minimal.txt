@@ -1210,7 +1210,7 @@ Unnamed | N/A | 6A43FD6CD17725841A31016BD7578F4A6205F661 | reserved |  |
 MAOI | bridges@relayon.org | 6A63B1B69C0AD176B329D5AB76DED27BD787E919 | N/A | obfs4 | 
 TriplebitAN | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 6A778974D471BE64BEB4FBC78E8936A1E33C992A | telegram | webtunnel | 
 DockerObfs4Bridge | N/A | 6A7C59C867FB067CA51801D2D23DA1127408342A | N/A | obfs4 | 
-tttTOR | <20nmn02@gmail.com> | 6A9E4D752DAD47931FE375606AC80A85A34852EF | https | webtunnel | 
+tttTOR | <20nmn02@gmail.com> | 6A9E4D752DAD47931FE375606AC80A85A34852EF | https |  | 
 TunnelToFreedomZ | admin@tor.utilizer.cloud | 6AA19E6C1954CD03208978B8AA58F1D3894330C6 | N/A | webtunnel | 
 Unnamed | N/A | 6AA7ACBE5D2E6EBC67EF0A98FA25B0E9B0BC1F54 | https |  | 
 redmercury2 | greyhound474@dismail.de | 6ACC2259D9BC102AB09EE8DE7828756EC0167FBC | email | obfs4 | 
@@ -1316,7 +1316,7 @@ ndnop2 | linus+tor@nordu.net | 73D8FF840444F84EC50DD755FBAD44CF1F0DE28B | none |
 BlueCopperDevTin | root@guardianproject.info | 73E4588E513233F63366CA5351444A02DAE7C10A | N/A | obfs4 | 
 badlyguyanatasty | indot_pointedness@aleeas.com | 73FFED93EE447D9EB9085C909E47066119159AC6 | email |  | 
 Unnamed | <adkaser DOT tor AT posteo DOT org> | 74001907C2AC01EF95A55D6986DEFD50EFD6364E | telegram | obfs4 | 
-AnitaBridge | anonymous-bridge@proton.me | 740F1DDAF12BB2E054A944250048457D112A1113 | N/A |  | 
+AnitaBridge | anonymous-bridge@proton.me | 740F1DDAF12BB2E054A944250048457D112A1113 | N/A | obfs4 | 
 WTBrsOj6vvMXWk | less@gosuda.org | 7419AE9B7D0632A4181BC10DB20E79046F355833 | email | webtunnel | 
 bridge32 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 741EAE30EA9BC164C11E4161A5492916449E19E4 | email | obfs4 | 
 mojeBridge | <example@example.com> | 7438543775B51F4FDF74711723BC070509006533 | settings |  | 
@@ -1682,7 +1682,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2236,6 +2236,7 @@ Unnamed | N/A | BF29483E408AA8D2BFD99FB0B170116DF88E9174 | N/A |  |
 TriplebitAX | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | BF32B9C30DFE5D142D909A5367E72AE715BAC628 | N/A | webtunnel | 
 SnoopyTunnel | admin@snoopy.cat | BF6D87E8D041F5A92C5F2B3172DF4FA71BAE2E03 | email | webtunnel | 
 Unnamed | robin@haberecht.org | BF6EE1C207CCB7E2238848AA9CD5F26E43245C6F | settings |  | 
+Unnamed | N/A | BF78F88C8655824F4B364B3556C887DD0240E172 | N/A |  | 
 NotriddleWebtunnel2 | <notriddle@protonmail.com> | BF7A87DF2F06F727F3EFE27B5BB9E7A986E76653 | settings | webtunnel | 
 ZombCompTorBridge02 | ZombieComputers@Outlook.Com | BF90953C06F2091A39B71B0AEAA65CD2A7F759EE | https | obfs4 | 
 DockerObfs4Bridge | torbridge@xlion.tw | BF9FD646C91C7C3BA4C040E2321F271B1BCAFC26 | https | obfs4 | 
@@ -2325,6 +2326,7 @@ F24oFirstBridge | admin@f24o.zip | C70880C5AB36EC792EC410B3AF913EE1F1034836 | N/
 Unnamed | N/A | C762F8D40AA3B4BB15E310C5E47D8AA5634FA74D | email | obfs4 | 
 WTBrHkZT7nB3ip | gus@riseup.net | C77AF29D2586EFA617F9F08B738E3549107F107B | telegram | webtunnel | 
 DockerObfs4Bridge | itsvaporwave@icloud.com | C77BCF7DA40851DD82E07D9EDF8A8225E8551D16 | settings | obfs4 | 
+copperOpenBSD | Douglas Silva <doug DOT hs AT proton DOT me> | C79A10B8D72DCAE328966C82D46FFDABA7CE0E60 | N/A | obfs4 | 
 StaySafe | bridge.udder836@dralias.com | C7C04CC0F8C594C3DB6E6A322A38AB4DCDD3AF24 | email | obfs4 | 
 artikel5ev19b | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2 | C7D12740A9369F87FD17031E8E4BB023D3660798 | https |  | 
 DockerObfs4Bridge | admin+tor@pinkbyte.ru | C7D1BD69D771209CB349F48BB8E506518D14BC89 | settings |  | 
