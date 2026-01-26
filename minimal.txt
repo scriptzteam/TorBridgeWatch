@@ -203,7 +203,7 @@ artikel5ev21 | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rs
 BatOnion | 0x85770A9EE0DCC79C Joshua Mangas <jmangas at waynetec dot us> [tor-relay.co] 14kmchJcCVVEor1MVSXzfYUL8VQ5JqR9VM | 12F83DB8F3558F792E9EF07756C2D4F6063AAB10 | telegram | obfs4 | distributed=false
 BlackH01e | Marcus Cole <marcus_cole@web.de> | 1304CBE4A41DFEC836A408290D94A6B563D00739 | N/A |  | 
 zombiekiller | <gawrgurafan@disroot.org> | 130D1BB4073E4F1B456C8E91BF0FF7A21232D042 | telegram | obfs4 | 
-WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https |  | 
+WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https | webtunnel | 
 TriplebitBJ | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 133267D91CE7774A22FDE85F36AF156CC6F6D457 | none | obfs4 | 
 hobobridge | hobosoft.production@gmail.com | 133D07D3D09FF8000D50AE0E8308C97B62C77E53 | settings | obfs4 | 
 WebTunnelBr | random@email.com | 138B88EB1740B4510C417BC53BC2313400F079C1 | settings | webtunnel | 
@@ -993,6 +993,7 @@ embachambaru | i.dont.have.an.email@mail.com | 55DC8AD2B7D52BE759A159ED2E636B6F3
 TriplebitAE | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 55EABDDB9424C49C4AA69FE7448BF94BCDEBCFF8 | telegram | webtunnel | 
 sh97BROBRO | tor at stealthprivacy dot de | 55EB3AB5E780BCB8E59CA8AC51325238E0900937 | telegram | obfs4 | 
 sh97 | daddycool69@duck.com | 55F569B67824FD00D82F822FF678FD842AA6B921 | email | obfs4 | 
+HackBBS | korigan@hackbbs.org | 55FB773C93A80A768F9C0CA8CABCCB458744AD27 | N/A | obfs4 | 
 Sr2Bridge4577 | hello from onionland | 5602292748966695049CF2D2CA9065FEEFDA12FA | settings | obfs4 | 
 aBitOfHelp2 | jingojngo at gmail.com 0xF8A61A2F | 560D1240C1337CB415DA7443B3DC9B33814483F7 | email | obfs4 | 
 zimmerbridge | torrelay@limoneneis.de | 56450135C2702AFBA480B7AC34C009E2AB731F7F | telegram | webtunnel | 
@@ -1124,7 +1125,6 @@ DockerObfs4Bridge | toroperator1776@protonmail.com | 63F1BA33237C8FAFBF68523E2DB
 Unnamed | N/A | 640F9FAFFEA77A300081CD0A4814EA1410B28903 | https |  | 
 WTBri1JqWPbFUn | admin@webhostingltd.com | 641CC756AB898F14D2D2E631549E1E6F7F121D1A | settings | webtunnel | 
 Bridgebuilder123 | bridgebuilder123@onionmail.org | 6433FE404FEEC908F081D5F2CAB150CDFF139A2A | moat | obfs4 | 
-Unnamed | N/A | 644991B110DE8D76B1E65FFA36AD9DADC5F33BBF | N/A | obfs4 | 
 WTBrkNyeMB2zjo | edonrot.0qfe9@dralias.com | 6460788977D0E912118F3C37D5170FDC3485A7CA | email | webtunnel | 
 WTBrlcaFUb5NJj | gus@riseup.net | 64B0BE055D15C9B5CFAFF57F9BAFCF78C06A5CD7 | settings | webtunnel | 
 Unnamed | Random Person <torrelay.heaviness092@passmail.net> | 64B953671212B21B739EAECFC490EDFCC65859C9 | email |  | 
@@ -1687,7 +1687,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2323,6 +2323,7 @@ NetDevPX | <tor@netdev.cloud> | C5D10CBA3355FF388C60D52991611F0CDB6B64DB | email
 Druss | bridge.y6zhd@simplelogin.co | C5D57FB398C10ABE1631DD53495CE770EFD90A3A | telegram | obfs4 | 
 apps2srv | app2srv-tor@syring.name | C619AF9BFAE210263E52ECE886697EA88BE2227D | email | obfs3, obfs4 | 
 yourname1 | N/A | C61B3D8E5AFED211E7090070BC062F8A66865E4E | settings |  | 
+HackBBS | korigan@hackbbs.org | C64B3FCC07EA2F2CE92C02F9E009CD2C3312EB85 | N/A | obfs4 | 
 nafplio | torbridge_nafplio AT manchester DOT gr | C662533021372CEFD8EF8DDF66F53CDCA8FB80FF | email | obfs4 | 
 respect666x2 | JT2 <quixote.247.next AT gmail dot com> | C688EDBFF602BA04FCFB4F330FD30328E6CD86D4 | https | obfs4 | 
 OBFSBridge | stemmer.enrico@gmail.com | C6C1DF008B26F9B4F6A8A78B50FA9D2715D53907 | N/A | obfs4 | 
