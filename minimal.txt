@@ -14,6 +14,7 @@ Unnamed | N/A | 01292375AE04F41E7453D8E85DF446C22A8D7101 | settings |  | ru
 LOLA | bridges@relayon.org | 01A79E73E7F66D473AA2BA0AEE493C059780773A | email | obfs4 | 
 DockerObfs4Bridge | hello+obfs4-bridge@thijssmits.com | 01C441D25B9D36ED0DBE773C07AC14B9CE629382 | email | obfs4 | 
 kuangbiao | kuangbiao.musmo.com | 01D7B24A1260A8FB41CB9A66A5BA108937A4A362 | telegram | obfs4 | 
+Nima | nima.parham@gmail,com | 01EEB7E17DCB856D66936746189E27491810A821 | N/A | webtunnel | 
 ARCON | bridges@relayon.org | 01FF41DBC553407CA420683C57D7EB226EEAEE57 | https | obfs4 | 
 SwissCastleBrockQ | flower360@round.square | 021003AB12E90409DF10B3C5C7B605833AA0384C | https | obfs4 | 
 Wasp | no email. bridge hosted by blitzw.in | 02149B612B027AFE3B3908A1F93236FF0A23E184 | settings | obfs4 | 
@@ -1029,7 +1030,6 @@ Siddhartha3 | 0x010BBAC502ECA3159A4BD6161CD3142065E93086 Siddhartha <siddhartha@
 WbridgePi3 | jeroen.wolfers@gmail.com | 5914EE21E85597A2682846EFAFC68ADE25E29A14 | N/A | obfs4 | 
 moar2 | bridge-26120-moar2@cyberpostkarte.de | 5948BC08CDF2E09E9AADC9153A44192426BA9636 | settings |  | 
 ForPrivacyNETbr06 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 595026F4BD344A71ED445AE6A3B15FF4C73ADBFF | telegram | obfs4 | 
-hacktheplanet | N/A | 59814B2FA6A6A4316E17509B7CA1FFDB356285B7 | N/A | obfs4 | 
 DockerObfs4Bridge | blackbooster@gmail.com | 59867E80CD0D4C44FBDF799CE3B878EDCCE0902A | N/A | obfs4 | 
 ForPrivacyNETbr22 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 599F229E5F163021F325B263B6ECE28E6C4DEEF2 | settings | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 59C8AA2142BA4BB8FC08FD61B904E809AD21AD5C | N/A | obfs4 | 
@@ -1272,7 +1272,7 @@ TorN8To | nathan@nfriedly.com | 700E96C5F2B6307A900A7B22A0844BC9630FEFF5 | setti
 Unnamed | Random Person <nobody AT example dot com> | 70241E0EFFB0604650BF13870AF6F1EFE4AE0E37 | telegram | obfs4 | 
 DockerObfs4Bridge | Xtrwz9FV@outlook.com | 707A9F02347B2F6801309C1EA053A0BE89055274 | email | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 708649DFB1025FD69398AB8E6B72CEF4855C66EE | N/A | obfs4 | 
-SnowflakeBridge1 | admin@example.com | 709340AAB55006BEFF3D76143C7C21EFE2EABC58 | N/A |  | 
+MyWebTunnelBridge | you@example.com | 709340AAB55006BEFF3D76143C7C21EFE2EABC58 | N/A | webtunnel | 
 chili | gus@riseup.net | 70BF0DC8E9E714720BA981EDB6023502371DE29A | N/A | obfs4 | 
 Unnamed | N/A | 70CE2B0022317CD3A56D03CC109950E3CD0EE6D3 | email | obfs4 | 
 DockerObfs4Bridge | croons-raisers.8c@icloud.com | 70CFF4F9C905E8090F2962872FC6D40F7C0571D2 | https | obfs4 | 
@@ -1686,7 +1686,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
