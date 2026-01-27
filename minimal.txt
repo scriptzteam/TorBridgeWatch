@@ -205,7 +205,7 @@ artikel5ev21 | email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rs
 BatOnion | 0x85770A9EE0DCC79C Joshua Mangas <jmangas at waynetec dot us> [tor-relay.co] 14kmchJcCVVEor1MVSXzfYUL8VQ5JqR9VM | 12F83DB8F3558F792E9EF07756C2D4F6063AAB10 | telegram | obfs4 | distributed=false
 BlackH01e | Marcus Cole <marcus_cole@web.de> | 1304CBE4A41DFEC836A408290D94A6B563D00739 | N/A |  | 
 zombiekiller | <gawrgurafan@disroot.org> | 130D1BB4073E4F1B456C8E91BF0FF7A21232D042 | telegram | obfs4 | 
-WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https | webtunnel | 
+WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https |  | 
 TriplebitBJ | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 133267D91CE7774A22FDE85F36AF156CC6F6D457 | none | obfs4 | 
 hobobridge | hobosoft.production@gmail.com | 133D07D3D09FF8000D50AE0E8308C97B62C77E53 | settings | obfs4 | 
 WebTunnelBr | random@email.com | 138B88EB1740B4510C417BC53BC2313400F079C1 | settings | webtunnel | 
@@ -662,7 +662,7 @@ cstb5 | 0x37C6224D225BCD7D Jon Proulx <jon AT jonproulx dot com> | 3689D71257A60
 NotriddleWebtunnelA | <notriddle@protonmail.com> | 368CA56B614CE82775982894068A752B36679278 | https | webtunnel | 
 Alcest | tor@cypher.fi | 36B71C4AEB14390D55A98AB4DB9DFA32A7FD70DF | N/A | webtunnel | 
 NTH2B2 | N/A | 36CB036552ACC9DEED4CE0A5758047831843B814 | email |  | 
-exbUS | tor(at)0x2142(dot)net - bitcoin:BC1QS45FKEUNQWZUK9WTPZYVETE2JMVXPUM2ZCARCT - bitcoin:BC1P90V5HKL4U4DK8T5RFDVT445C2VLQE85RHWNDTJYK6YNJY7DFQQTSHJZCHC - litecoin:LTC1QTV0TQYRADJZ53PQM928S6FVGG0KDK07MKGQRKJ | 36DDFC68A8BD4C1383FE22CB7C65280BA658B138 | https |  | 
+exbUS | tor(at)0x2142(dot)net - bitcoin:BC1QS45FKEUNQWZUK9WTPZYVETE2JMVXPUM2ZCARCT - bitcoin:BC1P90V5HKL4U4DK8T5RFDVT445C2VLQE85RHWNDTJYK6YNJY7DFQQTSHJZCHC - litecoin:LTC1QTV0TQYRADJZ53PQM928S6FVGG0KDK07MKGQRKJ | 36DDFC68A8BD4C1383FE22CB7C65280BA658B138 | https | obfs4 | 
 bridge07 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 36E11FDF7F2343058A82FFDA4B0362974D54CC42 | telegram | obfs4 | 
 popcorn | gus@riseup.net | 36F3A9CA4D941A6E5BACF1992D14685D807BD5E6 | settings | obfs4 | 
 bauruine | email:abuse[]tuxli.org pgp:32A1621FC5290921D720940187AC9FC1F2BCCB30 url:https://tuxli.org/ proof:uri-rsa ciissversion:2 xmr:831DfP9tnwa8LWpNGrnL8k4TAdMghuNM21jwrvSPjvW5FM3sBP1f7cBJzVXu6QsFCVYpoL3rniV193dq7Dc2bPsf6MC5y9x btc:bc1qavq0y6wunrwq5pyrr7dmny4a4tm4yswe2y3gv9 | 36FFB654D4D22F2B0790520716847E85DEE43EC9 | https | webtunnel | 
@@ -1597,6 +1597,7 @@ BridgetoTorchier | torchier@tutamail.com | 8A56B7A702A83E0C0EFF7617E206176D9D32E
 scudder | scudder@mailfence.com | 8A6EDF66850FFDD9CC9F50D01B1FE850F59EF2DB | none | obfs4 | 
 CloudRelay42 | 301@seo-manager.info | 8A9050A0A3FE639E6ED8CF5A237E6329737FFE6A | https | webtunnel | 
 bridge27 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | 8AF4A6A083B7A133A99F2692ECF11A0C9626FFAD | https | obfs4 | 
+Unnamed | N/A | 8AF793889F86A4EB6C117E2774CCD8C50296CFEF | N/A |  | 
 lanczhid | gab81 at tutamail dot com | 8B1525BC6188B081769EFFB85B413E4A50281A83 | settings | obfs4 | distributed=true
 moar13 | bridge-2280-moar13@cyberpostkarte.de | 8B192D4728D04F2005F10715AD6E582C1BD6395D | email |  | 
 Sr2Bridge4552 | hello from onionland | 8B201520F4381FD0853FFB3D37FE721E7CD71631 | settings | obfs4 | 
@@ -1694,7 +1695,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
