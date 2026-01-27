@@ -675,7 +675,6 @@ rmdck | <tor AT rmdck dot fr> | 380AEC21AC96BF6DE0E4296F7FC0C4376F50EA5F | N/A |
 ARCON | bridges@relayon.org | 38288987904D32811BB856D2ACA7B9A8784F75BD | https | obfs4 | 
 AntonPann11 | tzancauraganul@proton.me | 382C9FD1581ACB438604F7CFC31EB18A66EEA254 | settings | obfs4 | 
 NilesWildin | Nilestrix@servicing.tech | 3848E39919ACABB1F9D405DEFE99AEEE7277FDDA | email | obfs4 | 
-ki | N/A | 384CEFAE113F0B4CE908589E19AC60A49E48439E | N/A |  | 
 DockerObfs4Bridge | yakaz0@web.de | 3850E74D7A8F2A5085C73C0D4567C788CD27369A | email | obfs4 | 
 nezu | nezu@nezu.cc | 38850A8FA8219043855FE9C60CA8765BB58D2196 | none | obfs4 | 
 mrpuffy | tor-relays@alden.page | 38A21928CF072E677DCF2C66C4A24D81DC7E857B | email | obfs4 | 
@@ -753,6 +752,7 @@ nthfirebridge1 | relays@nthpyro.dev | 3EE7C2AA4C5616D5F86B5A8ECA309AA044FB7A66 |
 NetDevPX | <tor@netdev.cloud> | 3EE7F58152106F66691AB014C3ED755E126BA2F1 | email | obfs4 | 
 DockerObfs4Bridge | rink_unstuffed719@simplelogin.com | 3F5874A90F66F1C1C98D7225907147ABA2574681 | https | obfs4 | 
 GallaRix | <charlieco@gmail.com> | 3F83E632108F6ECF58C09EB1511B2D57E3445B32 | https | obfs4 | 
+ZimaPotsdamNode | pauschalpunk@gmail.com | 3F9AC0FE42522004D63A48CDC2F41BA94E177C7B | N/A | obfs4 | 
 AbsurdismTunnel | meursault.clamence@proton.me | 3FC1D6D73DB495889615AA4256F564D2B446F01B | N/A | obfs4 | 
 WTBrBopt3xikg1 | test@example.org | 3FC4FBA130B776EFF2D13C62884B320E68248EA0 | https | webtunnel | 
 BlueEntra | N/A | 3FD7C88990CF77E7AB777592CD7BAAD3925A6FA8 | moat | obfs4 | 
@@ -1335,7 +1335,6 @@ bauruine | email:abuse[]tuxli.org pgp:32A1621FC5290921D720940187AC9FC1F2BCCB30 u
 Unnamed | N/A | 74C565960B4E32DD322D273CB72FDFA5E632CDF6 | N/A | obfs3, obfs4 | 
 Akbar | akbar@oao.com | 74EC59A99B59A8ADA44298131D53814E36EBE18D | N/A | obfs4 | 
 bauruine | email:abuse[]tuxli.org pgp:32A1621FC5290921D720940187AC9FC1F2BCCB30 url:https://tuxli.org/ proof:uri-rsa ciissversion:2 xmr:831DfP9tnwa8LWpNGrnL8k4TAdMghuNM21jwrvSPjvW5FM3sBP1f7cBJzVXu6QsFCVYpoL3rniV193dq7Dc2bPsf6MC5y9x btc:bc1qavq0y6wunrwq5pyrr7dmny4a4tm4yswe2y3gv9 | 74F2C98D7991C66E3C0FA37FC75CFEF448128C93 | https | webtunnel | 
-ki | N/A | 74FF78304C49BFCF514326034E0D8C5578656A25 | N/A |  | 
 Thanks | lyam.zambaz@edu.vs.ch | 7508E3489997A6902F2F84333C4B30F1CB50A23A | https | obfs4 | 
 Unnamed | N/A | 751410231F75FC7EE6060D4066E5A8ADD2D2EDC5 | settings | obfs4 | 
 Unnamed | N/A | 7530915805FC5E5E25E0DFC5B6CFFB36F0D04778 | moat | obfs4 | 
@@ -1392,7 +1391,6 @@ Unnamed | N/A | 79569558F5E33F58F48AA7B2C6A561BA43A22600 | settings | obfs4 |
 Youshallnotpass | torvps89@proton.me | 79A0079AF484812673A65A15A0B0A28588E151A8 | settings | obfs4 | 
 DockerObfs4Bridge | admin@maquis196.io | 79D553CB51E16D3BF4D7C66CCCB9CCE59328519D | email | obfs4 | 
 0xttfxtbr | thiago.faioli@bsd.com.br | 7A1351A8809AB0EC999CBBA4575A8B25F79809C2 | settings | obfs4 | 
-DockerObfs4Bridge | N/A | 7A1B3308DD4EE4A53C904E77463BE27838D57F72 | N/A | obfs4 | 
 VALnxBrdgVPS | valinuxengineer@pm.me | 7A3ED110B92A810BCDB1C671736B67C0DE286BDF | email | obfs4 | 
 DockerObfs4Bridge | admin@keyidao.me | 7A4C0D0616B882DBD8F03886C15FB1D7F8E12A93 | telegram | obfs4 | 
 jervisbay | kevintwilliams@pm.me | 7A5272D797B8291F2E08D7A1DF83A74616CBD8D1 | email | obfs4 | 
@@ -1696,7 +1694,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty5 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2420,6 +2418,7 @@ SidBridge | Sidju <tor@sidju.se> | CE0D07D261BE2AAF1C6D73F04AA404538688DA07 | se
 Sr2Bridge1468 | hello from onionland | CE2BF1F97A81699F550ECD29C42D0E3754F1D729 | N/A | obfs4 | 
 lfg08 | gus@riseup.net | CE4AC25E9239C593829E3B8B4FED880A71F5A86C | https | obfs4 | 
 LOLA | bridges@relayon.org | CE78C060B53ECE970E11A1BF2593702F8FC4C1A6 | settings |  | 
+DockerObfs4Bridge | mymian@mail.com | CE9A660C2F40D1249C5AD9F4D7E22BA9C31F5FF0 | N/A | obfs4 | 
 ParadiseBridge6 | Dave Null <dave@null.net> | CEB2C56C185785365179D4D133BA1605F0A8D77D | https |  | 
 Ognon | tor@dazeilad.eu | CEB813689E162665C5E0AE2CD8DFADAB02C58758 | email | obfs4 | 
 Bluemax6666 | <bluemax _ 666 @ yahoo. fr> | CEC2D5F2C80D81A810A84A2176FA57929EEE0E3C | email | obfs4 | 
