@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|hobobridge | hobosoft.production@gmail.com | 133D07D3D09FF8000D50AE0E8308C97B62C77E53 | true | Running, V2Dir, Valid | 2026-01-27 01:44:51 | 2026-01-27 00:14:51 | 2026-01-27 00:09:05 | 4087808 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | settings | 10.5.222.55:58228 | obfs4 | |
+|Umbrianhills | <serversevero@gmail.com> | 876351695A78D063712FD2E28C3BB40F030205E1 | true | Running, V2Dir, Valid | 2026-01-27 01:44:51 | 2026-01-27 01:14:51 | 2026-01-27 01:06:34 | 64512 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | https | 10.96.7.35:51439 | obfs4 | |
+|WTBrJjP4ApuqQG | admin@2cb.network | DA10CD3686FF0034D10B5B6F6327270F20AE9FAD | true | Running, V2Dir, Valid | 2026-01-27 01:44:51 | 2026-01-27 01:44:51 | 2026-01-27 01:21:21 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | 10.170.59.164:57695 | webtunnel | |
