@@ -163,6 +163,7 @@ RAF | <<hollyhockmcquack@duck.com>> | 0F53A4803D6E3C1C041C0C4F8EC72B33444978E0 |
 devnull | maxzrbn AT protonmail DOT com | 0F63362F6C01CA29F7BDA4EBD19E46AB91913FBB | settings | obfs4 | 
 bigballs | bigballs@gmail.com | 0F90127B8F8B3ECEEF66D8ED457112BB1287E7ED | N/A | obfs4 | 
 MeowMeowBridge | power of shai hulud --at-- gmail --dot-- com | 0F96F755F5CA900773EE0D0E879D2294D3384B1C | none | webtunnel | 
+YuvalBridge | yuval.bloch2@gmail.com | 0FA2E7025F1EDED1E2FFDBC93181C47FC5B803E8 | N/A | webtunnel | 
 myNiceRelay | tor-operator@your-emailaddress-domain | 0FD8A00FA84F4A77B8ED4E9FACCD2F40C06F1DA2 | moat | obfs4 | 
 nonenone | dawidbaczkowski@icloud.com | 0FDA2B88C181F82EB1D6726C312E52ED9CE4DF3B | email | obfs4 | 
 circlcppsbridge | circl.lu <info AT circl dot lu> | 0FDE29CD70151FD03B7EE8AEEABBC4AC2F191B69 | https |  | ru
@@ -465,7 +466,6 @@ Unnamed | abuse_at_evilbit.nl | 28B69881B5D919D064737084573FE12A9AD24A00 | https
 Aramis58 | email:torix@protonmail.com url:https://torix-relays.org proof:uri-rsa hoster:alexhost.com ciissversion:2 | 2907AC87893797A2B9F5B7A6C2178BC40BAFD053 | email |  | 
 cnRunsTor | <toradmin@niekel.net> | 291C40EF6307F87FF0912DE64B95205186C5196D | settings | obfs4 | 
 maximator | 0xA11D67AA Peter Kornherr <tor@kornherr.IT> | 2944CCB3F4D5AEC4B2995227467BCC5670126434 | https |  | 
-AbsurdismTunnel | meursault.clamence@proton.me | 29568D6C6321EC7B67CF02BE9EC657B1B54F1560 | N/A | obfs4 | 
 AbsurdismTunnel | meursault.clamence@proton.me | 297C5AF42DCCA7A1B053DD7BE2CD3CC5745F99D4 | N/A | obfs4 | 
 KATRIN | bridges@relayon.org | 299A2081B9F62A739F2BACAE66B86C3DA503BD36 | settings | obfs4 | 
 KATRIN | bridges@relayon.org | 29A97F36DAE8CFD02DD72441FEA1448A2F825A44 | settings | obfs4 | 
@@ -865,7 +865,6 @@ ghostfire15 | ghostfire@simon-galland.fr | 4A00AB75B13B32C61BD7879050235803DDDA1
 ExitTheWall8459 | reply@mynetblog.com | 4A0B065DB3CF807C6910DFEF6D9CCCB95C59C585 | settings | obfs4 | 
 sh97BROBDETMP | tor at stealthprivacy dot de | 4A1514708C57C60B5B1F65EC8FCDE5ABFFD85F65 | settings | obfs4 | 
 zhi | kzjaaqwfnabb protonmail com | 4A39B49C01323C2CF69DA7B8090CF1BE862EDFC8 | email | webtunnel | 
-ki | N/A | 4A40E6EBC80293534D0C930D6F0624B0FBE35180 | N/A |  | 
 gionn | Giovanni Toraldo <me AT gionn dot net> | 4A4E9C7D43A31327C5E62A1BF36DB0E434353977 | email |  | 
 WTBrRNcgMOmCxy | corysanin@outlook.com | 4A4EC0436DC2D5311C7E2CC61163B0A711B636D8 | https | webtunnel | 
 Unnamed | N/A | 4A54C3AAED6F601E22F2261F2CCD4F3D1060726B | email | obfs4 | 
@@ -1355,6 +1354,7 @@ doadoa | <olokerunningtor at protonmail dot com> | 76BA4514AEAC75761F0C95DD43189
 ForPrivacyNETbr15 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 76C6DBAF64002B44A522C6B63BE3D4DCF1CC5528 | email | obfs4 | 
 BrookRameev2 | brookrameev@pm.me | 76CB6CE773A78D1D9DABB28C40EF1733054DF5F6 | https | obfs4 | 
 DockerObfs4Bridge | community.torproject.poppy034 AT aleeas dot com | 76D2DA37753B5CD925F84415E123B4B4A4F99CDE | email | obfs4 | 
+CanalStreetRelay | Marc <marcfleck AT free dot fr> | 76F96C386BFE89AEFFB2194230EE6C936B418358 | N/A | obfs4 | 
 tomh | torbridge@sladden.com | 7702FF59BCC6D0320F463328B52E595AEE7CFBE3 | settings | obfs4 | 
 Unnamed | N/A | 7715E3804907974DC21F8FCF260294E6F5E6D124 | settings | obfs4 | 
 dnCTFEX9u4G6JxHa2 | N/A | 772AB03A735738568335A787D27EC7EECF5716E6 | https |  | 
@@ -2450,7 +2450,6 @@ ritchie | N/A | D097475F808BC941055A579B5BA22320A58D8379 | email | obfs4 |
 AbsurdismTunnel | meursault.clamence@proton.me | D097B581ABC13754265BEA367548296994E7EE8A | N/A | obfs4 | 
 Sr2Bridge4554 | hello from onionland | D0CF73835A496A270FC4CA835607EE90D5A242DA | settings | obfs4 | 
 NTH1B7 | N/A | D0E635EDDB9F3335D254B3FB63A0C438A9A67A71 | settings |  | 
-ki | N/A | D0E96F7E69C1C0B1F797DB2ACAE9C39F9D5FC22B | N/A |  | 
 RaspiTorL | raspitor@habmalnefrage.de | D0F09B2E9CC1DE6E7B06FB4BC75DACD8E27CCD6F | https | obfs4 | distributed=false
 crackychanDOTorg2 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (2) | D0F24E87A1E0887E3FC1494DD87BB9F84BEDF2D3 | telegram | obfs4 | 
 PickANickname | address@email.com | D1065CD2219F191DDC1D11F06F20F3C6435053B9 | settings | obfs4 | 
