@@ -163,7 +163,6 @@ WTBr6EcjXJDcI1 | edonrot.0qfe9@dralias.com | 0F363C85957C22037D94D916EACF1779CD2
 WTBr82lWhnt6ja | maxbehr@gmail.com | 0F42E5AB7C6480165BA2A4EBFF16B4C6E38A4AAD | settings | webtunnel | 
 RAF | <<hollyhockmcquack@duck.com>> | 0F53A4803D6E3C1C041C0C4F8EC72B33444978E0 | telegram | webtunnel | 
 devnull | maxzrbn AT protonmail DOT com | 0F63362F6C01CA29F7BDA4EBD19E46AB91913FBB | settings | obfs4 | 
-bigballs | bigballs@gmail.com | 0F90127B8F8B3ECEEF66D8ED457112BB1287E7ED | N/A | obfs4 | 
 MeowMeowBridge | power of shai hulud --at-- gmail --dot-- com | 0F96F755F5CA900773EE0D0E879D2294D3384B1C | none | webtunnel | 
 YuvalBridge | yuval.bloch2@gmail.com | 0FA2E7025F1EDED1E2FFDBC93181C47FC5B803E8 | N/A | webtunnel | 
 myNiceRelay | tor-operator@your-emailaddress-domain | 0FD8A00FA84F4A77B8ED4E9FACCD2F40C06F1DA2 | moat | obfs4 | 
@@ -224,6 +223,7 @@ Unnamed | mendeleev[AT]riseup.net | 148A5D403888FEEAA29E4CF9C7BEE85C7E9979CD | N
 dhbr21 | Tor-Admins <toooor AT all DOT de> | 148C701D7E7BAB64DA5CAC99A68156C65CFA190B | email | obfs3, obfs4 | 
 LOLA | bridges@relayon.org | 14A11D2C0B88BD797672C964A4144D064AA795AF | https | obfs4 | 
 OpenHilbertHotel | 0xC0DA06642F14295E9E021DD1F8547A9AB32E897D jma <jma AT mbuf dot net> | 14C07819FDC0684C426659B37AB353BDE284EB1C | settings | webtunnel | 
+Unnamed | N/A | 14D63E041044D8510340E3FDEC8F5384874CCE33 | N/A |  | 
 Unnamed | <miry_outtake.58@icloud.com> | 14D7D5B00F2252B0B44C74E05BE67A45C3CCC962 | telegram | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 14FD5517100B43AEF7D382D8BD11ECCC972C081A | N/A | obfs4 | 
 DockerObfs4Bridge | tor@opentree.cz | 14FFD42347983C61ADC4DA2B3DA025FAAE1BEF06 | email | obfs4 | 
@@ -501,6 +501,7 @@ tgormaster | <ormaster@toppledgod.me.uk> | 2B2DDA9F3B942A295D6075208337DCFC14DAA
 ParadiseBridge4 | Dave Null <dave@null.net> | 2B461E67DC57D4B888D2627BAAE6FB5EF27ED9BC | https |  | 
 ki | N/A | 2B4A629EA5574CB1C336CB2364C3CE536D79957F | N/A |  | 
 tenno140 | zkpoint@pm.me | 2B627C56782D06704D83B62F7212508E3513EC40 | settings | webtunnel | 
+Unnamed | N/A | 2B7530E76343B5AB6BEAD6C4719C9297EE86D2B3 | N/A | obfs4 | 
 falaisa29 | Uu77bBt0eDko5iDrRNiXt2quIVPMNKvILk1eqJbAVk9e@posteo.ch | 2B812550FA57146A941850B12D19B433E6F4C091 | settings | obfs4 | 
 BakedBeans | 0xEDCD51ABC995850D Andreas Voegele <andreas@andreasvoegele.com> | 2B94DFE5AC41DE82BD988D12C2B019CF843E4289 | none |  | 
 BLACKPEARL | outlook.live2005@gmail.com | 2B97B28C77D65CF35A3334E0BBA8D0E42E3CD3F2 | N/A | obfs4 | 
@@ -539,7 +540,7 @@ WTBrOVJn5beXto | admin@gri.mw | 2D6286F560A62D180D6334DEAB649DAEEF663A42 | teleg
 Unnamed | N/A | 2D789FB22BD37F10D7ADC6AAE558BD1511E91713 | none | obfs3, obfs4 | 
 R3ykj4v1kIS1 | R3ykj4v1kIS1@SORRYNOEMAIL.LOCAL | 2D84601D660907E901BB6DD4882F8D85AF9089F7 | settings | obfs4 | 
 TriplebitAM | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2D896DF7C9D5296FE0A02C8EB065A54041F2AD24 | telegram | webtunnel | 
-DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | https |  | 
+DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | https | obfs4 | 
 TriplebitAP | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2DEE1C0E13D9AC7BEA1D9FC10896137B867BFC53 | telegram | webtunnel | 
 KATRIN | bridges@relayon.org | 2DF1F7E6B3C8B0BC6C3E3A9300357527AE16D73B | https | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 2DF24FD3AFBC3E65363A5ED6E00C926BD84F7FAD | N/A | obfs4 | 
@@ -1704,7 +1705,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
