@@ -111,7 +111,6 @@ Sr2Bridge4499 | hello from onionland | 0B9E3AD4F4A0C623064513634EAF5BEF558F7093 
 zTorBridge | tor-bridge@z0ny.net | 0BBBE0D5584370281C34F81081F0F4F5F5A122EC | settings | obfs4 | 
 fornix | 9xhq9qshl@mozmail.com | 0BC24C885F913F8159D5FF3F426EDB6AE271B52D | email |  | 
 DockerObfs4Bridge | kareen.3c82d3f9@tryninja.io | 0BF5DA8E1FCD4A8128B2FF94EE408F0F0C438158 | settings | obfs4 | 
-AlcyonTaygeta | gshaka@tuta.com | 0C01EC34A8E555E5508FE7147E6B8A7F85494C32 | N/A | obfs4 | 
 ParadiseBridge7 | Dave Null <dave@null.net> | 0C17C2CEE67C44FF3EED42EEAC283FD3E2E5EEA6 | https |  | 
 Prelude | <ph.ilippelatuli.pe+tb@protonmail.com> | 0C1963A315A82743AAE5D1A4D01B837A00153BD8 | https | obfs4 | 
 Unnamed | mendeleev[AT]riseup.net | 0C1A2619059F59871C0D7458709F36338B662310 | email |  | 
@@ -760,7 +759,7 @@ nthfirebridge1 | relays@nthpyro.dev | 3EE7C2AA4C5616D5F86B5A8ECA309AA044FB7A66 |
 NetDevPX | <tor@netdev.cloud> | 3EE7F58152106F66691AB014C3ED755E126BA2F1 | email | obfs4 | 
 DockerObfs4Bridge | rink_unstuffed719@simplelogin.com | 3F5874A90F66F1C1C98D7225907147ABA2574681 | https | obfs4 | 
 GallaRix | <charlieco@gmail.com> | 3F83E632108F6ECF58C09EB1511B2D57E3445B32 | https | obfs4 | 
-ZimaPotsdamNode | pauschalpunk@gmail.com | 3F9AC0FE42522004D63A48CDC2F41BA94E177C7B | N/A | obfs4 | 
+ZimaPotsdamNode | N/A | 3F9AC0FE42522004D63A48CDC2F41BA94E177C7B | N/A | obfs4 | 
 WTBrBopt3xikg1 | test@example.org | 3FC4FBA130B776EFF2D13C62884B320E68248EA0 | https | webtunnel | 
 BlueEntra | N/A | 3FD7C88990CF77E7AB777592CD7BAAD3925A6FA8 | moat | obfs4 | 
 NodNet01 | tor[@]nodnetwork[dot]org | 3FE2C3216C7A104EBF33EF8A12F21BBBDD6A02DC | https | obfs4 | 
@@ -825,6 +824,7 @@ laogai | fuck@put.in.net | 4579DBC246CE2D93C0CC28AE3B7CC49939AADBCE | email | ob
 Unfailing9640 | abnaw.prodigy803@simplelogin.com | 457B1EEDEA2D272C0D4DD7BD1EE07A3A688F0275 | https | obfs4 | 
 Unnamed | <address@email.com> | 459BA4EC5E133C2775D8A4DAE35653023FCFA128 | telegram | obfs4 | 
 ididnteditheconfig | KJ <tor.user058@simplelogin.com> | 45BD30FB8CB8780ADC9D79E9B444C5D92482A526 | https | obfs4 | 
+DockerObfs4Bridge | nobody@example.com | 45C2A683C57920CC5AF49C18AA26A0C54CFC51AF | N/A | obfs4 | 
 Siddhartha2 | 0x010BBAC502ECA3159A4BD6161CD3142065E93086 Siddhartha <siddhartha@i2pmail.org> | 45DD2D1D6454C00CA659A615A59E644DA0EC8B73 | email | obfs4 | 
 Klabauterbach3 | peca-relay@mailfence.com | 45E1449B8B87ACFE6AF40CD33E91DFC3CB9B7488 | https | obfs4 | 
 Hestia | hestiaort(at)protonmail(dot)com | 45EC3C65FF461214DA681E70841DF0AA2890791A | settings | obfs4 | ru
@@ -1709,7 +1709,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty11 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2183,6 +2183,7 @@ DockerObfs4Bridge | schumov.nn@gmail.com | B8D71050C234825328CC1A8D644F3EEF93F81
 toralf0borstel2 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | B8FD50DB168FAB615537D48A824E408E99D64D21 | N/A | obfs4 | 
 sassafras | Hostmaster <hostmaster AT djxmmx dot net> | B91524BE0552AEC6B4DE90652A9140FF6D4ED8A3 | settings |  | 
 ForPrivacyNETbr65 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | B93ACD3389857C37E1DAE07FE0274FD5574FF86E | https | obfs4 | 
+PickANickname2140 | ajoe04@gmail.com | B95B6D1741F9550BFC70E98D076B1671E635071E | N/A | obfs4 | 
 UnredactedWT5AMS | admin[@]unredacted.org | B9715C4B5F754653A2CD05B2ED5AF30E591E76DD | https | webtunnel | 
 Minitrue2 | teledep@mailhaven.com | B978320E93F5BFC415AE42F1F8B2F597036562F0 | email | webtunnel | 
 Unnamed | N/A | B9C3B17D7F9C3E08C923814FF2FD69E6BE257258 | none | obfs3, obfs4 | 
