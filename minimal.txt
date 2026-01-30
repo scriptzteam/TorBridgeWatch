@@ -450,7 +450,6 @@ Bifrost | Random Person <nobody AT example dot com> | 276828672CB370864C98AC4A2B
 DockerObfs4Bridge | test@example.org | 276FAD7E4389F11F689669888B059F10865CC15A | settings | obfs4 | ru
 limonenbridge | torrelay@limoneneis.de | 277E772ACB1336FC13457AD2A0D04BDFDAF42577 | N/A | webtunnel | 
 None | N/A | 278A809C938F10B681647D47F32E650E01195FD6 | settings | obfs4 | 
-TechBridge | techmaniac89@gmail.com | 279CB3573BB555F46B5ABC157E7CD0603C428BA8 | N/A | obfs4 | 
 bitBridge | lockesmith@coldforge.xyz | 27A7E02D7AE838A39942E5E7C5CDD4B4F78BCA4C | https |  | 
 sasoom | Foobar foo@bar.com | 27AA8EC511B7C80224FCB563D60E7FBCD7090D39 | email | obfs4 | 
 ki | N/A | 27CC7B0E0CCA3B58EB2E72BCF6FA8BD35A9F90E9 | N/A |  | 
@@ -489,7 +488,7 @@ NetDevPX | <tor@netdev.cloud> | 2A6BB0807A361D3F1C6792782B91E0C4D7FDDC28 | N/A |
 Unnamed | N/A | 2AB7B64CE9ED6B286142BD855DD9E8851AF0F467 | N/A |  | 
 BlueCopperDevTin | root@guardianproject.info | 2ABA824EFC0F8AF224B9377D26B880730F5A1222 | N/A | obfs4 | 
 Unnamed | N/A | 2AC5E5AE0C5CC3CC1B768A76D914134453BA4CC7 | https | obfs4 | 
-ForPrivacyNETbr10 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 2ACD01BF7E6079E8A22509BC9673554C2031173A | settings |  | 
+ForPrivacyNETbr10 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 2ACD01BF7E6079E8A22509BC9673554C2031173A | settings | obfs4 | 
 FortunaBridge | <tor@up.nl.eu.org> | 2ACD1216E085BA19A9BB39EAC3FE17CD27694A2D | telegram | obfs4 | 
 rodinux | rodinux07@rodinux.fr | 2AD46EA00473876C16D14A064F85EE64694396CF | email | obfs4 | 
 sh97BROBBG | tor at stealthprivacy dot de | 2AE52C4AE74B31F87EC624F386286659028D8CB8 | telegram | obfs4 | 
@@ -1078,6 +1077,7 @@ DockerObfs4Bridge | tor@four-hundred.one | 5AE4339C92037CE03A97E1E8D12FB0763FD26
 AbsurdismTunnel | meursault.clamence@proton.me | 5AE7AC0F046C41DEB831A673D66893AC8DB035FF | N/A | obfs4 | 
 Unnamed | N/A | 5B2675ACB0F30C9BDFD615953A98B3CA396D1DC7 | telegram | obfs4 | 
 Mesolvarde | admin@mesolvarde.eu | 5B2F4A7D1F555F5BE2E5FE13BC2882FA28C9175A | telegram | obfs4 | 
+WTBrpzknphBepm | admin@download.nachibo.org | 5B39AC2C33AC6272274060F74D367F2A58CFD6D6 | N/A | webtunnel | 
 3bdd6f | <alexusono@proton.me> | 5B3DCB76B44A86C7D1D62F7B3AEEAC5E910866EB | settings | webtunnel | 
 PickANickname | <address@email.com> | 5B4702D0E39C7676CE822A47E99D6A3F47CEC61A | email | obfs4 | 
 NotriddleWebtunnel9 | <notriddle@protonmail.com> | 5B67A82D2AEB6E9377EF7A9EE4CBD4DCCC651789 | telegram | webtunnel | 
@@ -1725,7 +1725,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty4 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2667,7 +2667,6 @@ bigre | mendeleev[AT]riseup.net | DD384EA7CFEB0ABED6853D99BB61CBDC1B046BD9 | res
 TFTPBridge | tom@hoerberg.de | DD445A5609755038FF6D23FE7430415173DD85A5 | settings | obfs4 | 
 clough | <alexusono@proton.me> | DD5F1FA13FF49AC7774F74FD216111086D5E0632 | reserved | webtunnel | 
 nezuwt | nezu@nezu.cc | DD71A808FE7704CFA54536448DB89E4011D3246F | none | webtunnel | 
-BridgeMeUp | Jingoro <jingoro@riseup.net> | DDABAA6BB58803AAF10C4B2E0EBC8C0BF69B2944 | N/A | obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | DDB94492EA5B9B544B1AB2B139BA6A29F994B5F8 | N/A | obfs4 | 
 F24oSecondBridge | admin@f24o.zip | DDC17EED543B5468CFC1EE72655A9632D4ADA07D | telegram | obfs4 | 
 None | N/A | DDFF75501BB734FD96FC95A65266F54CC0C66302 | settings | obfs4 | 
