@@ -418,7 +418,6 @@ metatron | myr AT mm DOT st | 2471066116277BA361136723C4673F5394F410A5 | N/A |  
 WTBrxNkTKkLVHm | gus@riseup.net | 247170B837F6B861EDB22A67BCA2DD1ECEC02940 | N/A | webtunnel | 
 ARCON | bridges@relayon.org | 2485C4EBC72ABDEB05F7BC36A74138E64269917D | https | obfs4 | 
 TriplebitAJ | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 24FA7F61A42E567DAE19A60C70CF9E1EBF40E332 | telegram | webtunnel | 
-BreizhEntropy | contact+torbridge@breizh-entropy.org | 25068481BCABF66D98DD73F5FFB0706CB4D48CCF | N/A | obfs4 | 
 moar12 | bridge-112415-moar12@cyberpostkarte.de | 25168DC13998E0A0D8FFBC56C26A87DFED33065B | settings |  | 
 Aramis56 | email:torix@protonmail.com url:https://torix-relays.org proof:uri-rsa hoster:time4vps.com ciissversion:2 | 2516D43965084F5E082D58D3884A059418D934CA | settings | obfs4 | 
 TunnelToFreedomX | admin@tor.utilizer.cloud | 2530A4A96CDD6A8D1C17FC4A05DDFBC5DF666582 | settings | webtunnel | 
@@ -1208,6 +1207,7 @@ sicknickfame2 | dont@contact.me | 67F8232D357771F9A4EC35C7C70275A7925F9CDC | tel
 oedinet | N/A | 6805E45C2341C8DE2A9D42969DD242A8A1C4C2D6 | email | obfs4 | 
 Obfs4BridgeDC | tor@four-hundred.one | 6810B0AF42409C5DE69EFCC15FDB7A592E4E2F01 | settings | obfs4 | 
 DockerObfs4Bridge | tormaster@tebibyte.org | 6815A89441962C28FD67D26D5BE8D658425C568A | settings | obfs4 | 
+DockerObfs4Bridge | n.a.buchholz@gmail.com | 68256EE74326A35E1006934068A847F60EFB2F6F | N/A | obfs4 | 
 KybesAwesomeBridge | kybe@kybe.xyz | 682A1F2402ED76D35C4CC0A6AA9AAD72C02F8B4E | email | obfs4 | 
 CODEISLAW | ziggie1984@protonmail.com | 6830E6A3944CF4DCDF22667AE7B5166158EAF2BB | settings | obfs4 | 
 dottorbridge | admin@datajack.org | 683312734A4AEB254C97A89B9A7CC3E2372F0D87 | email | obfs4 | 
@@ -1725,7 +1725,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty11 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty4 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2292,6 +2292,7 @@ TriplebitAX | url:https://www.triplebit.org mastodon:https://mstdn.plus/@tripleb
 HackBBS | korigan@hackbbs.org | BF3A87A7AAF922BEFB7BF61B39D435DA2F012C53 | N/A | obfs4 | 
 SnoopyTunnel | admin@snoopy.cat | BF6D87E8D041F5A92C5F2B3172DF4FA71BAE2E03 | email | webtunnel | 
 Unnamed | robin@haberecht.org | BF6EE1C207CCB7E2238848AA9CD5F26E43245C6F | settings |  | 
+WTBrQE7tFOQVj1 | torbridge@sl.lovett.email | BF6F269A1C2FBEE9206F7DF2D42FD4D4A58D2A8D | N/A | webtunnel | 
 Unnamed | N/A | BF78F88C8655824F4B364B3556C887DD0240E172 | N/A |  | 
 NotriddleWebtunnel2 | <notriddle@protonmail.com> | BF7A87DF2F06F727F3EFE27B5BB9E7A986E76653 | settings | webtunnel | 
 ZombCompTorBridge02 | ZombieComputers@Outlook.Com | BF90953C06F2091A39B71B0AEAA65CD2A7F759EE | https | obfs4 | 
@@ -2538,7 +2539,7 @@ TriplebitAW | url:https://www.triplebit.org mastodon:https://mstdn.plus/@tripleb
 bolarbridge | bolar@live.no | D3768FD7F933A4939A14CD172ED979F19606A958 | N/A | obfs4 | 
 BridgeRelay | bridgesysadmin@protonmail.com | D3845F238B38C4C2B7D9A527F8886336D2BA91DD | telegram | obfs4 | 
 snowwittchen | 0x1C5CB01C OnionGraph <oniongraph@protonmail.com> | D39658E94E0D377ED1980070D75F261F22CAF9DB | N/A | obfs4 | 
-aBitOfHelp | jingojngo at gmail.com 0xF8A61A2F | D3AA5560B98FC2464BEB0A4435CC62FAAD8BB2BA | email | obfs4 | 
+aBitOfHelp | jingojngo at gmail.com 0xF8A61A2F | D3AA5560B98FC2464BEB0A4435CC62FAAD8BB2BA | email |  | 
 toralf4gertrud | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | D3BFE062B456DF9E8288F95EA3E8BEDEBCDA9A35 | N/A | obfs4 | 
 rondieBridge15 | tor@rondie.nl | D3C83A4199923F3E2D2603CD5B273076CDE7E1EC | https | obfs4 | 
 tornba | Random TorAdmin <tor 4T soartist d0t net> | D3E06B12BFF93DEDAC1B2492DE1C7FDA2A4AAD51 | reserved |  | 
