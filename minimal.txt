@@ -235,7 +235,6 @@ ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 CYPNODE1B2 | 0xE1B3F181ABB91002 CypherNode Tor Abuse <tor-abuse AT cyphernode DOT net> | 1554224A8099EEF5540D925D4A956EA1064389BE | telegram | obfs4 | 
 MyBridge | bridge@localhost | 1558D0718E4F30772FC20037725EB9DD615DC81D | N/A |  | 
 LadyTremaine | jvoisin@torproject.org | 156D6AE34CA1C065840773AA6361B274240FBD41 | email | webtunnel | 
-2kxRelay | me@my.ass - jk, tbd | 157DF270F08674BABE9D1CF548C146F6D2194BDE | N/A | obfs4 | 
 obfs4Bridgezc97Txq9 | heiaisland@onionproject.org | 1580AB1906A76512052D64263E70B82EA9699E83 | none | obfs4 | 
 immerWTWww8 | admin+webtunnel@immerda.ch | 1599B8FFE08E06B8C6AAB320C974266FEC9AF794 | reserved | webtunnel | 
 BSDbridge01 | zwiebelrouter[at]protonmail[dot]com | 159DAE6BC567CAE6F87281077518B6593C49E131 | settings | obfs4 | 
@@ -409,6 +408,7 @@ DockerObfs4Bridge | obfs4-bridge@axelv.net | 22C606F46A6BB234C1A70A935D4AD765D0B
 bauruine | abuse@tuxli.org | 22E2530788E68B680CDCE861B65EC77389681BF3 | none | obfs4 | 
 bonkybridge4 | m@bianchi.dev | 22F80A36047FA72F802CEF2CBA58D8B4AFB9B8F9 | reserved | obfs4 | 
 hell2heaven4uk | <haute-dubious.0q AT icloud DOT com> | 22FEE0207EE8FE9C098490ED23E090E7107CDBFE | settings | obfs4 | 
+DockerObfs4Bridge | nobody@example.com | 231C3A25BAA2BC2A2A558FB8CC3F9454B6EE3A81 | N/A | obfs4 | 
 chicanerygremlin | chicanerygremlin@protonmail.com | 232D11771E30F72BF57D65DA4473285DE4207443 | N/A | obfs4 | 
 ParadiseBridge3 | Dave Null <dave@null.net> | 238EB53D363F5CA15DABE1F48966A64761A8A021 | https |  | 
 Sr2Bridge4501 | this used to be sanitised and I did not write the code to populate it yet | 23A2B20D5D4E69DFE8D1412CA86777D24CB54491 | none | obfs4 | 
@@ -1666,6 +1666,7 @@ Unnamed | N/A | 8C62129D2DFEBE46894FAF4B6D68001247402696 | N/A | obfs4 |
 Unnamed | N/A | 8C6FD771E9145FAAD411CEA3E54A40F8A2F122E0 | https | obfs3, obfs4 | 
 Unnamed | kimb@kimb.dev | 8C949FDEF3AAB68FAAF4EC5989D02205FC89FA4D | reserved | obfs4 | 
 FedsTookTheFridge | torabuse@exulan.com.au | 8CA9B26F155C0CC8BD93A0B4DA575384B3124364 | settings |  | 
+DockerObfs4Bridge | nobody@example.com | 8CACF2C26847D3C3FA89B464702E6E13AC913004 | N/A | obfs4 | 
 ovhee | geminittt2+tor@gmail.com | 8CC167F23FC00A51E0D0C6F01C6D68A28A756465 | N/A | webtunnel | 
 gnampf4i64 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | 8CCBC0BEB869488EB7F17F365A29C44C0B84E38E | https | obfs4 | 
 NotriddleWebtunnel6 | <notriddle@protonmail.com> | 8CD4B281A2C21656B2D6ADD6CE1522BBB79F317E | telegram | webtunnel | 
@@ -1743,7 +1744,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty3 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -3089,6 +3090,7 @@ bazalka | bazalka.bridge@seznam.cz | FECB7A3745103B5B3C9E97DF82EC113E23B72095 | 
 mwctunnel | no-contact@mwc.mw | FEDE60712DCD7D8DA2CE106E9A46B377768D8B8F | none | webtunnel | 
 Narr | edita@danwin1210.de | FEE00621ABF94841F52F1AD47BBDD011CD5033C9 | settings | obfs4 | 
 AhmadBridge | ahmadshahdota@gmail.com | FEFD2AEB3C761ABB9A4C477127A20812695DA5D0 | telegram | obfs4 | 
+DockerObfs4Bridge | nobody@example.com | FF11DF57F62CE69CB9DD709179F035BFF0272E02 | N/A | obfs4 | 
 portusigma1 | <Jean Paul Remy> jean.paul.remy (at) protonmail.com | FF1AE812094E2CC57E65D328E70D272730E21EF8 | email | obfs4 | 
 Sr2Bridge1466 | hello from onionland | FF32E9B11E290B8B09474E068D194FC07C9AB9E0 | N/A | obfs4 | 
 WebTunnelBr | random@email.com | FF4DBC75D7327CCC245933E70B86F5360E8029B6 | https | webtunnel | 
