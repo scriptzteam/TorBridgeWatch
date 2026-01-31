@@ -55,7 +55,6 @@ WebTunnelBr | random@email.com | 0603B0A2BB4DD8252E1681DD0C2BDC88B2EDC242 | http
 TORPEDO | root at minjus dot org | 060E65DD3B29DB333551A9DAD50A1E3971D3BD68 | settings |  | 
 ElephantBridgeDE1 | Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] | 0611C65066C3A3E0D39A7934210A0D0B95E7B5D4 | settings |  | 
 DockerObfs4Bridge | torops@cccfr.de | 061306F705C0A36F8EFCDCBD0C5AF1AA82A5C0A3 | moat | obfs4 | 
-MoscowNET | N/A | 0614700A2AEDFC3CF4D702DCE2B2AD00E062D655 | https | obfs4 | 
 BridgeToFreedom | admin@tor.utilizer.cloud | 064BCF438F11B150DACB17B7AB0C05497D2C3A73 | N/A | obfs4 | 
 Heisenberg1 | Heisenberg@example.com | 0653AD30C3E2A39C0357394A9339907AA1E74554 | settings | obfs4 | 
 GruncleStan1586 | 0x18FFB9259E11C3BC69ABC8857E65272B32D3C971 f19.4jbg3@gmail.com | 065EA370142CFFCB51FC93412D6C1552B4BFBFB2 | https | obfs4 | 
@@ -448,6 +447,7 @@ Bifrost | Random Person <nobody AT example dot com> | 276828672CB370864C98AC4A2B
 DockerObfs4Bridge | test@example.org | 276FAD7E4389F11F689669888B059F10865CC15A | settings | obfs4 | ru
 limonenbridge | torrelay@limoneneis.de | 277E772ACB1336FC13457AD2A0D04BDFDAF42577 | N/A | webtunnel | 
 None | N/A | 278A809C938F10B681647D47F32E650E01195FD6 | settings | obfs4 | 
+TechBridge | techmaniac89@gmail.com | 279CB3573BB555F46B5ABC157E7CD0603C428BA8 | N/A | obfs4 | 
 bitBridge | lockesmith@coldforge.xyz | 27A7E02D7AE838A39942E5E7C5CDD4B4F78BCA4C | https |  | 
 sasoom | Foobar foo@bar.com | 27AA8EC511B7C80224FCB563D60E7FBCD7090D39 | email | obfs4 | 
 ki | N/A | 27CC7B0E0CCA3B58EB2E72BCF6FA8BD35A9F90E9 | N/A |  | 
@@ -636,7 +636,7 @@ bauruine | abuse@tuxli.org | 347084323C43FD51B3D59DEA1AD1F5372A317589 | none | o
 ARCON | bridges@relayon.org | 347638F82E31823DE54DFBAF95475065E717FA83 | telegram | obfs4 | 
 vicer | 0x7F44CB8D Llu��s <viric@viric.name> | 347AB9CD8E5C36CAD3A029E538EB43F124161DDA | https | obfs4 | 
 Thessaloniki | thessaloniki.56yxv@slmail.me | 348552814B83B140264D2DA0C3F3ACBDD60580AF | email | obfs4 | 
-NerdVPN | @weidenwiesel:nerdvpn.de | 3498D7D11E51372082456D1F92C4A75613DC98BA | settings | obfs4 | 
+NerdVPN | @weidenwiesel:nerdvpn.de | 3498D7D11E51372082456D1F92C4A75613DC98BA | settings |  | 
 MyPrivacyDNS | My Privacy DNS <mypdns+tor AT danwin1210 d0t de> | 349A07025AE2DB1A4BFEFC164A51A674FD39D466 | https |  | 
 Unnamed | robin@haberecht.org | 34A8EDE3232C88C6B53BE0ADFD8577D364C2DF2E | email |  | 
 JamesTaggart | James <president@taggarttranscontinental.com> | 34BC137B2357B9B1B4FBFFB221EC9EFB89F40049 | settings |  | ru
@@ -1234,7 +1234,7 @@ TriplebitAN | url:https://www.triplebit.org mastodon:https://mstdn.plus/@tripleb
 DockerObfs4Bridge | N/A | 6A7C59C867FB067CA51801D2D23DA1127408342A | N/A | obfs4 | 
 MyBridge | bridge@localhost | 6A93E4EA726634539C819C4498B9407E484F9169 | N/A |  | 
 tttTOR | <20nmn02@gmail.com> | 6A9E4D752DAD47931FE375606AC80A85A34852EF | https | webtunnel | 
-TunnelToFreedomZ | admin@tor.utilizer.cloud | 6AA19E6C1954CD03208978B8AA58F1D3894330C6 | N/A | webtunnel | 
+TunnelToFreedomZ | admin@tor.utilizer.cloud | 6AA19E6C1954CD03208978B8AA58F1D3894330C6 | N/A |  | 
 Unnamed | N/A | 6AA7ACBE5D2E6EBC67EF0A98FA25B0E9B0BC1F54 | https |  | 
 redmercury2 | greyhound474@dismail.de | 6ACC2259D9BC102AB09EE8DE7828756EC0167FBC | email | obfs4 | 
 nightwitch | tor-relays <you know what belongs here> mmap <and here> at | 6AD463AD4CE6916D4E57663345C0F14124A8E7A0 | none | obfs4 | 
@@ -1711,7 +1711,7 @@ DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty11 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
