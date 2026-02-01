@@ -1,0 +1,5 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Torware | nobody@example.com | 18EA35368A5F4D518CBD026D20FCDDDD12AA1080 | true | Running, V2Dir, Valid | 2026-02-01 00:21:23 | 2026-02-01 00:21:23 | 2026-02-01 00:17:38 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.25.253.142:49733 | obfs4 | |
+|Torware | nobody@example.com | 580A15E88EC44DFA3AE135846900ED654A1162AB | true | Running, V2Dir, Valid | 2026-02-01 00:21:23 | 2026-02-01 00:21:23 | 2026-02-01 00:20:02 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.187.66.166:62610 | obfs4 | |
+|Torware | nobody@example.com | DD94545A2A4208511350568EBE475B4DA64F7AE1 | true | Running, V2Dir, Valid | 2026-02-01 00:21:23 | 2026-02-01 00:21:23 | 2026-02-01 00:15:36 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.31.155.197:63717 | obfs4 | |
