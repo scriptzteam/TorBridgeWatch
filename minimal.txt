@@ -152,7 +152,6 @@ Torware2 | nobody@example.com | 0DFBD55057481EBF37C00700DF309FA6AB940569 | N/A |
 Sr2Bridge1459 | did not write the code to populate yet | 0E10113D4860F7A30969CFF97EEF4BA1803FFC39 | N/A | obfs4 | 
 hellowebtun5 | iliketorrelays@protonmail.ch url:pub-be6c349657984fa18e793514ebe2d7a8.r2.dev proof:uri-rsa ciissversion:2 | 0E1640991D3E44DA6CFC8395F7CC6D0996F44704 | https | obfs4 | 
 psylobbit | <admir@tor.mailia.me> | 0E1A9CD9EFA8F9EC1AF2B471F262BE767317CB33 | N/A | obfs3, obfs4 | 
-Unnamed | N/A | 0E1C0BAFC30D7B7961A0AE8BD2A3B8BCB8C843FD | email |  | 
 Panicstations | therockhardens@protonmail.com | 0E3C073CDD9D42E4484EB052BD880CECB1555170 | N/A | obfs4 | 
 nr18 | Tor Admin <tor@nr18.space> | 0E46C0826425EE2256C7541375EED505038CDE6D | telegram | obfs4 | 
 khaarsaa32 | nobody@example.com | 0E4EE6318FB8E85A0FB462A5B50FED7513A13FAC | N/A | obfs4 | 
@@ -574,7 +573,7 @@ WTBrOVJn5beXto | admin@gri.mw | 2D6286F560A62D180D6334DEAB649DAEEF663A42 | teleg
 Unnamed | N/A | 2D789FB22BD37F10D7ADC6AAE558BD1511E91713 | none | obfs3, obfs4 | 
 R3ykj4v1kIS1 | R3ykj4v1kIS1@SORRYNOEMAIL.LOCAL | 2D84601D660907E901BB6DD4882F8D85AF9089F7 | settings | obfs4 | 
 TriplebitAM | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2D896DF7C9D5296FE0A02C8EB065A54041F2AD24 | telegram | webtunnel | 
-DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | https |  | 
+DockerObfs4Bridge | rjmxhuthb@mozmail.com | 2DE12F9C64D19873F282FF1856B3DDBFC2A3E94E | https | obfs4 | 
 TriplebitAP | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 2DEE1C0E13D9AC7BEA1D9FC10896137B867BFC53 | telegram | webtunnel | 
 BlueCopperDevTin | root@guardianproject.info | 2DF24FD3AFBC3E65363A5ED6E00C926BD84F7FAD | N/A | obfs4 | 
 merwedebrug | 2048R/B640BF1A Tor Relay <tor AT sec dot nl> | 2DFD823434FF3EC1717C0974A7092606D029C8AD | email |  | 
@@ -1186,6 +1185,7 @@ Sr2Bridge4524 | this used to be sanitised and I did not write the code to popula
 ki | N/A | 60668B6D2E8A562E9507F8FD254BA1623B77D31A | N/A |  | 
 MyWatchBegins | mywatchbegins@atomicmail.io | 607114A5A9F94442944B49A65E5757678BC83C7B | settings | obfs4 | 
 ki | N/A | 60B4339327D211D313F84D05045794284A4CB642 | N/A |  | 
+Torware | nobody@example.com | 60BC74424A4EA37190BEC3100A20C1F45E4F0E4A | N/A | obfs4 | 
 dimsum2 | gus@riseup.net | 60DE913C42B8D7BB34148092B5879374D9F409EA | settings | obfs4 | 
 Torware | nobody@example.com | 60F3B1EB93697A4EC6752A22C1BCEFF4842BA8EC | N/A | obfs4 | 
 FuckedOpBridge | fuckedop2@proton.me | 61119682EA43BFCD6A98304723E3D89F3A10136C | telegram | obfs4 | 
@@ -1829,7 +1829,7 @@ aminemonz | memarimohammad56@gmail.com | 91C56BF1F2D5AAE02C8761111311E2A42E48A5B
 Torware | nobody@example.com | 91CC0A68F630CC7DB640F203DA4E2F7075F64ED2 | N/A | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty8 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 Torware2 | nobody@example.com | 91DA9DB2C5A872F4E45035963D40002E3925E3AD | N/A | obfs4 | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
@@ -2426,7 +2426,6 @@ egg2 | <josh@thecybers.net> | BEEAFAA0198980C63E5DC99B212D33ACDFA6B85A | none | 
 L0vEAlL | <needamedic99@gmail.com> | BF0F3573EF310898EA93D31BEF10885F2F7345F1 | email | obfs4 | 
 Unnamed | Random Person lsd.tor@mailnull.com | BF109575AA5A03772835C74B018E1C130E23105C | email | obfs4 | distributed=true
 DemonsysBridge | contact@demonsys.net | BF218D5C1609CD92972605F17E53678A292AB87D | N/A |  | 
-Unnamed | N/A | BF29483E408AA8D2BFD99FB0B170116DF88E9174 | N/A |  | 
 TriplebitAX | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | BF32B9C30DFE5D142D909A5367E72AE715BAC628 | N/A | webtunnel | 
 HackBBS | korigan@hackbbs.org | BF3A87A7AAF922BEFB7BF61B39D435DA2F012C53 | N/A | obfs4 | 
 SnoopyTunnel | admin@snoopy.cat | BF6D87E8D041F5A92C5F2B3172DF4FA71BAE2E03 | email | webtunnel | 
