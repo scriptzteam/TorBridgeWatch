@@ -616,6 +616,7 @@ DockerObfs4Bridge | fred@dead.com | 30BEFF814A06AC8D86422025439E39CCFE6DB8A5 | s
 Unnamed | N/A | 30D6BB2F88043E30CF52DCD3DFC06BCD60F6C9BB | N/A | obfs4 | 
 NTH1B5 | N/A | 30DD7E56AE8B1BF6A671E84025ED29BCBC982757 | settings |  | 
 TwinForks5 | il.mikh98@gmail.com | 30E4890E9B2C66F6DEF3E07F5285FCA03DD65D66 | email |  | 
+Unnamed | N/A | 30E76EC237F035EAD5B0D0C12B8B6581700FBD27 | N/A | obfs3, obfs4 | 
 methylphenidate | tor-relays <you know what belongs here> mmap <and here> at | 310200B62D50E98E8168F3983D04AAB861D19283 | email | obfs4 | 
 NoBorderNoNation | Johan Debourg <uneadresseemail -arobaz- riseup net> | 31038E052FE11529083718D65CAB0A7BB470EFCF | settings | obfs4 | 
 Torware | nobody@example.com | 31127D7C5F47B3AE476FF1970F1C3EB4B891EEC1 | N/A | obfs4 | 
@@ -1063,7 +1064,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | settings | obfs4 | 
-flakey7 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
+flakey11 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 dxxdxdx | Random Person <info AT dxx dot eu> | 54BA472B350E8838867AD44BE70AD7B4F4F1CBEB | settings |  | 
@@ -1595,7 +1596,6 @@ DockerObfs4Bridge | alexandru.pentilescu@disroot.org | 80043D4F249E7E2D084D3E525
 Gaki218jazlzmams8n | <toad@schloop.win> | 800E18F9452D5AE56E157357D5F3F8277292FD23 | telegram | obfs4 | 
 Unnamed | qh9p38egaas.manhunt110@slmails.com | 802616772E0CD5C28C53C1F70A0A022EE661C6E3 | settings | obfs4 | 
 9500 | toma.marini@gmail.com | 808F69CB9E9D6433FCA15796B5E21CA773131B2F | email | obfs4 | 
-Default | anon@nowhere.com | 809B483A9B7D8D0B0D6F45DD0642B6F60916F3A8 | settings | obfs4 | 
 obfs4bears | obfs4@fishbear.com | 809E9ECB0F1517993D49EA135EB64D2DD031FE94 | settings | obfs4 | 
 MyWatchBegins | mywatchbegins@atomicmail.io | 80A7C6970D13A21D00DED3974534D1A7AEAD5F6C | settings | obfs4 | 
 Baerchen2 | jke-webtunnel[at]tutamail[dot]com | 80EC1FEF39899CDEAA4D795B6D6B50643427AA34 | https | webtunnel | 
@@ -1834,7 +1834,7 @@ aminemonz | memarimohammad56@gmail.com | 91C56BF1F2D5AAE02C8761111311E2A42E48A5B
 Torware | nobody@example.com | 91CC0A68F630CC7DB640F203DA4E2F7075F64ED2 | N/A | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty1 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 Torware2 | nobody@example.com | 91DA9DB2C5A872F4E45035963D40002E3925E3AD | N/A | obfs4 | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
@@ -2039,7 +2039,7 @@ letsdoitHD2nd | letsdoit <letsdoit@gmx-topmail.de> | A105D9E0595AEB7E69D69341DF8
 Anthrax99Book | leotito201@outlook.com | A12C806188C9456632B86556512EB0FB56167A7E | email | obfs4 | 
 payamSwedenBridge | payam <sade.payam@gmail.com> | A154089634A5DBAE9BB0A99B0AE42569AE46B04C | N/A | obfs4 | 
 dumdum | <olokerunningtor at protonmail dot com> | A17B1AB5BBD0F1A8B753023BA0B761AE356EBE0D | N/A | webtunnel | 
-Unnamed | N/A | A198F9FE3CEC68DECEDEB2DFFC3CAE2CB44427C6 | N/A |  | 
+Unnamed | N/A | A198F9FE3CEC68DECEDEB2DFFC3CAE2CB44427C6 | N/A | obfs4 | 
 kropotkin3 | gus@riseup.net | A1B261E35EE7E71431264538B367A5C2217AFADA | settings | obfs4 | 
 ki | N/A | A1C19A15F29D61F956A21C2E677C6F6E957D9BE5 | N/A |  | 
 Entonnoir | <support@globenet.org> | A1D34A5A3E5FC157A8287B5970A67C9F1D1C0549 | https |  | 
