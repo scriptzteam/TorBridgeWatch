@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Johnycash2 | nobody@example.com | 15FD59E909BC26B6C00B565D486A2645DC3B5F9A | true | Running, V2Dir, Valid | 2026-02-06 02:51:44 | 2026-02-06 00:21:44 | 2026-02-06 00:04:48 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | 10.84.41.179:49557 | obfs4 | |
+|Johnycash | nobody@example.com | 793B5D6FC3F7827A8D004E4408B0894C88E0490B | true | Running, V2Dir, Valid | 2026-02-06 02:51:44 | 2026-02-06 00:21:44 | 2026-02-06 00:04:48 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | 10.111.148.114:59053 | obfs4 | |
+|snowbridge | snowbridges@proton.me | F83AA20239FF2BEB733EA773380F835048D9382A | true | Running, V2Dir, Valid | 2026-02-06 02:51:44 | 2026-02-06 02:51:44 | 2026-02-06 02:33:24 | 7247872 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | settings | 10.172.84.10:55958 | obfs4 | |
