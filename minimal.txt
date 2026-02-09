@@ -1057,7 +1057,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 Unnamed | N/A | 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 | N/A | obfs3, obfs4 | 
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | settings | obfs4 | 
-flakey5 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
+flakey1 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | none | snowflake | 
 aliceinwonderlan | Paco <paco@cocaine.ninja> | 5482CAED0D4E0680D20CA134E1C53C5B8EEEAD6D | settings | obfs4 | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | ru
 dxxdxdx | Random Person <info AT dxx dot eu> | 54BA472B350E8838867AD44BE70AD7B4F4F1CBEB | settings |  | 
@@ -1237,6 +1237,7 @@ Unnamed | Random Person <torrelay.heaviness092@passmail.net> | 64B953671212B21B7
 Unnamed | N/A | 64C4115B44816A2DC170A9C7E5277FE105B3A883 | settings |  | 
 SillyWebTunnelNya | <me AT k4m1 DOT net> | 64D1DC5AB814513C164FB094B4949164CC083DC6 | settings | webtunnel | 
 Snapper | blackflag /at/ cock /dot/ li | contact/donation: blackflag774dd6puqjyx4iv3he74owovoyzgbx6ggt5eebs7rdn3xid.onion | 64DEFCFD643D692EDFD10DAA604C9DCBC4D0B117 | settings | obfs4 | 
+vault2 | admin@shadowvault.eu | 64F5542D82990EA11EC81DA9FDD5F7C35AA0BE84 | N/A | webtunnel | 
 BlueCopperDevTin | root@guardianproject.info | 65168F81254514BD2944AA68BA8006F41A19C831 | N/A | obfs4 | 
 mwctunnel | no-contact@mwc.mw | 6528E78936BDDEF46D61FCF17C306308CBFB0703 | none | webtunnel | 
 Glaerchon | tor@tredalor.org | 6535A2B9FB2A9F22572B2EAD16E6D1742D507DB5 | settings | obfs4 | 
@@ -1822,7 +1823,6 @@ YourWindowsBridge | your-email@example.com | 91197A9143899B3897EDD57848CB4CFBA33
 goagoa | <olokerunningtor at protonmail dot com> | 91199664F85A6052140431474CD02BF4C14C911C | https | webtunnel | 
 Torware | nobody@example.com | 91272007A161FE9708C4BBFCD59ABFB80B7B9E0A | N/A | obfs4 | 
 Bridge | tor@ybti.net | 9133FE358254367025DDB2D6BBD3DE9EA2612049 | telegram | webtunnel | 
-Torware | nobody@example.com | 9142EF9877ABD442E1D7BEFF7E9CBAE209EF2BDD | N/A | obfs4 | 
 Unnamed | me (a) inferior.network | 915B968904F75E20100D2046BE02111AF4987E0B | N/A | obfs4 | 
 FreeDumbz | ekb4@protonmail.com | 916C6C1B97EC3BDB2F9063A44DEE79984C3651EE | settings | obfs4 | 
 VultrBridge | nobody@example.com | 9176DB2D6D565481F9235A74838B699ECD176514 | settings | obfs4 | 
@@ -1835,7 +1835,7 @@ aminemonz | memarimohammad56@gmail.com | 91C56BF1F2D5AAE02C8761111311E2A42E48A5B
 Torware | nobody@example.com | 91CC0A68F630CC7DB640F203DA4E2F7075F64ED2 | N/A | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty10 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty12 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 Torware2 | nobody@example.com | 91DA9DB2C5A872F4E45035963D40002E3925E3AD | N/A | obfs4 | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | settings | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
@@ -3227,6 +3227,7 @@ Torware | elector-ovens69@icloud.com | FDC75290DDFB3D47D7B26EE50BAEB697FEFEFE49 
 Quetzalcoatl3 | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh ciissversion:2 | FDC884AFDA8ED3D685F28EE812A724CA2A260B2E | email | obfs4 | 
 TriplebitBF | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | FDE5E5442A24CCD4FA6F1ABC6771139ECD9543D5 | N/A | obfs4 | 
 DockerObfs4Bridge | blah@example.com | FE0E5CE0C22A89FB486337B57F345D52EC13E6C0 | telegram | obfs4 | 
+vault1 | admin@shadowvault.eu | FE116127867717F7C43185FC2930BAAB6B305718 | N/A | webtunnel | 
 lfg10 | gus@riseup.net | FE11A8F9555B39556B7C325A71B399F2509160F9 | https | obfs4 | 
 schnegge | none@done.de | FE1E7D445910AD6B2B9104E6BF8D7BA63E37E951 | N/A | obfs4 | 
 rondieBridge16 | tor@rondie.nl | FE21D89808C6D75FB7F05F3F25B6146BE651CC11 | https | obfs4 | 
