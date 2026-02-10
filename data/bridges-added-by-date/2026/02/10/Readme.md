@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|gigama | <gigama@pm.me> | 15D4DC07BC0A7EB8143CD662B5E6BF9761B33928 | true | Running, V2Dir, Valid | 2026-02-10 02:51:48 | 2026-02-10 01:21:48 | 2026-02-10 01:19:18 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | 10.12.233.153:59853 | obfs4 | |
+|Unnamed | N/A | 408553AAF5C6C1556325A447D0DAAC982A3962EB | true | Running, V2Dir, Valid | 2026-02-10 02:51:48 | 2026-02-10 01:21:48 | 2026-02-10 01:18:14 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | 10.24.162.72:62294 |  | |
+|DK | vahidd@duck.com | E3BE6B1A030955A7F9C430723FC687D2BC424C1E | true | Running, V2Dir, Valid | 2026-02-10 02:51:48 | 2026-02-10 00:21:48 | 2026-02-10 00:05:44 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.213.90.220:55113, [fd9f:2e19:3bcf::a8:48d7]:55113 | obfs4 | |
