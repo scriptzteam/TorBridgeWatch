@@ -44,7 +44,7 @@ trolljaeger | <mesh@mk16.de> | 03B365CED578CEABACA9EFE92E17B67CF9E9E698 | email 
 FunGru | Funcy Guru <fungru at proton dot me> | 03D02BA8E51A95084AE0745C84CBD2192EBE1324 | telegram | obfs4 | 
 sascafa | tazoi[at]tiscali[dot]it | 042A617439DCA6CF126EF9C607ACD42B909D5CE5 | telegram | obfs4 | 
 valis2 | gus@riseup.net | 042D49E29820A22137138568AE8CD43E9BB6E28F | settings | obfs4 | 
-hrbozorg1 | N/A | 0450917C64BC90765CAF8FEE674498E8B1D56786 | none | snowflake | 
+hrbozorg2 | N/A | 0450917C64BC90765CAF8FEE674498E8B1D56786 | none | snowflake | 
 as215248bridge02 | Bastiaan Brink <b@stiaanbr.ink> | 0457CF0BC2CC0BA1E1684CF93464493623B2A354 | https | obfs4 | 
 TriplebitBC | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 04DEE38FC0071717DE91AADB22B4634361D1F400 | N/A | obfs4 | 
 StarWars | <address@email.com> | 05141783FF1BDD475CF65C60F017366131ADBB69 | email |  | 
@@ -242,7 +242,7 @@ Torware | nobody@example.com | 14D668B5E5B4710ED762E601A04788A9D51B5DEA | email 
 Unnamed | <miry_outtake.58@icloud.com> | 14D7D5B00F2252B0B44C74E05BE67A45C3CCC962 | telegram | obfs4 | 
 apps2srv | apps2srv-tor@syring.name | 14FC3FF9BCC76F3C23DE8CA59017819125E3F6D6 | https | obfs3, obfs4 | 
 BlueCopperDevTin | root@guardianproject.info | 14FD5517100B43AEF7D382D8BD11ECCC972C081A | N/A | obfs4 | 
-DockerObfs4Bridge | tor@opentree.cz | 14FFD42347983C61ADC4DA2B3DA025FAAE1BEF06 | email |  | 
+DockerObfs4Bridge | tor@opentree.cz | 14FFD42347983C61ADC4DA2B3DA025FAAE1BEF06 | email | obfs4 | 
 HumbleDumbleMicroLy | N/A | 152891E7726EFBDAFCCA5E6F069C9BA872212CC8 | telegram | obfs4 | 
 tenet06 | gus@riseup.net | 152AD5E093401A9D5BC89125A6ACB6568B6C9B52 | settings | obfs4 | 
 ForPrivacyNETbr29 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | 15517C406DF9E8FEA99E9AEA48A6784667CE67C1 | email |  | 
@@ -486,6 +486,7 @@ limonenbridge | torrelay@limoneneis.de | 277E772ACB1336FC13457AD2A0D04BDFDAF4257
 None | N/A | 278A809C938F10B681647D47F32E650E01195FD6 | settings | obfs4 | 
 TechBridge | techmaniac89@gmail.com | 279CB3573BB555F46B5ABC157E7CD0603C428BA8 | https | obfs4 | 
 bitBridge | lockesmith@coldforge.xyz | 27A7E02D7AE838A39942E5E7C5CDD4B4F78BCA4C | https |  | 
+sasoom | Foobar foo@bar.com | 27AA8EC511B7C80224FCB563D60E7FBCD7090D39 | N/A | obfs4 | 
 ki | N/A | 27CC7B0E0CCA3B58EB2E72BCF6FA8BD35A9F90E9 | N/A |  | 
 trwr2 | nobody@example.com | 27D4D18FDEC0F11AADB04AEE8FD9332DA6C107B7 | https | obfs4 | 
 parousiamania | N/A | 28004030A8FB4DD3A5FB059FE05B8AB0072C04FE | https | obfs4 | 
@@ -1262,6 +1263,7 @@ bridge12 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]ar
 sicknickfame2 | dont@contact.me | 67F8232D357771F9A4EC35C7C70275A7925F9CDC | telegram | obfs4 | 
 oedinet | N/A | 6805E45C2341C8DE2A9D42969DD242A8A1C4C2D6 | email | obfs4 | 
 Obfs4BridgeDC | tor@four-hundred.one | 6810B0AF42409C5DE69EFCC15FDB7A592E4E2F01 | https | obfs4 | 
+hipletBridge | nobody@nowhere | 6817520973450CB11BDA22E403785A8DC99A6D16 | N/A |  | 
 DockerObfs4Bridge | n.a.buchholz@gmail.com | 68256EE74326A35E1006934068A847F60EFB2F6F | email | obfs4 | 
 KybesAwesomeBridge | kybe@kybe.xyz | 682A1F2402ED76D35C4CC0A6AA9AAD72C02F8B4E | email | obfs4 | 
 CODEISLAW | ziggie1984@protonmail.com | 6830E6A3944CF4DCDF22667AE7B5166158EAF2BB | settings | obfs4 | 
@@ -1809,7 +1811,7 @@ aminemonz | memarimohammad56@gmail.com | 91C56BF1F2D5AAE02C8761111311E2A42E48A5B
 Torware | nobody@example.com | 91CC0A68F630CC7DB640F203DA4E2F7075F64ED2 | settings | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty8 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty2 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | N/A | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | reserved | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
