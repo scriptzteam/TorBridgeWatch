@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | ssj4mgke@gmail.com | A6104F80AFF31D6019AFD8BCB89714D309605557 | true | Running, V2Dir, Valid | 2026-02-12 00:15:13 | 2026-02-12 00:15:13 | 2026-02-11 23:15:32 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | 10.106.108.215:64867 | obfs4 | |
+|need4speed | tor@limeskey.com | D6D8702E17D58A53D50A46DF860D0341C9594C83 | true | Running, V2Dir, Valid | 2026-02-12 00:15:13 | 2026-02-12 00:15:13 | 2026-02-12 00:05:06 | 1052672 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | settings | 10.201.205.66:49404 | obfs4 | |
