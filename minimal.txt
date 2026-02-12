@@ -43,7 +43,7 @@ trolljaeger | <mesh@mk16.de> | 03B365CED578CEABACA9EFE92E17B67CF9E9E698 | email 
 FunGru | Funcy Guru <fungru at proton dot me> | 03D02BA8E51A95084AE0745C84CBD2192EBE1324 | telegram | obfs4 | 
 sascafa | tazoi[at]tiscali[dot]it | 042A617439DCA6CF126EF9C607ACD42B909D5CE5 | telegram | obfs4 | 
 valis2 | gus@riseup.net | 042D49E29820A22137138568AE8CD43E9BB6E28F | settings | obfs4 | 
-hrbozorg1 | N/A | 0450917C64BC90765CAF8FEE674498E8B1D56786 | none | snowflake | 
+hrbozorg2 | N/A | 0450917C64BC90765CAF8FEE674498E8B1D56786 | none | snowflake | 
 as215248bridge02 | Bastiaan Brink <b@stiaanbr.ink> | 0457CF0BC2CC0BA1E1684CF93464493623B2A354 | https | obfs4 | 
 TriplebitBC | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 04DEE38FC0071717DE91AADB22B4634361D1F400 | N/A | obfs4 | 
 StarWars | <address@email.com> | 05141783FF1BDD475CF65C60F017366131ADBB69 | email |  | 
@@ -190,6 +190,7 @@ aiurxBridge | josh@aiurx.com | 10C2374ABE68DB1C4A09FF0264FD379A09291E4D | https 
 TorwareC | nobody@example.com | 10CCCF85E3E4DF9FCED4B7B0927B85B40E39541F | N/A | obfs4 | 
 hellothere | N/A | 10D1A10BB63B11A074EFA50C6DF5DEB1DA2967CB | https | obfs4 | 
 DockerObfs4Bridge | sognen@gmail.com | 10F12B918E5A664B3BC91BC4CE89417D85CA7E7E | settings | obfs4 | 
+MyObfs4Bridge | admin@example.com | 10F33E6F0D35D31B3AFD894DDF4973A9A07A9590 | N/A | obfs4 | 
 ForIran | nobody@example.com | 1124C63F3B7AD8BCD2B545D60082AD11B06EA096 | telegram | obfs4 | 
 ShadowBridge1337 | anonrelay@protonmail.com | 113F861E2784641E0111AA982D15908A1923EEB3 | reserved | obfs4 | 
 frsgc | sg1@sgc.ynh.fr | 114A3D68F1F64359B8D21C75383426F64477EFCC | email | obfs4 | 
@@ -1017,7 +1018,6 @@ Obfs4Bridge | email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abu
 Unnamed | Grandmaster Polymath <tor.315b9ae4@bildschirm-sperren.de> | 531700A6B934FF111FEE2FFC66C64D4C61C19D32 | settings | obfs4 | 
 MeasureOfAMan | <admin-tor-20260212@bfccomputing.com> | 534759A04DB603994A7824930F18035ECB82DF63 | settings |  | 
 FuschiaIronNumbat | N/A | 534AC52710A217FDF7015887F99E970EC2FEF765 | telegram | obfs4 | 
-7a65726f | <xx@ccxx.cc> | 536F5671E416006B21F563659308B89422F2A0A8 | N/A | obfs4 | 
 FireKnight | Dr Andy Hill <andyhill242 AT gmail dot com> | 53C18206B8E7645A6B568B05BFB9682FFEA203A3 | https |  | 
 DockerObfs4Bridge | nobody@example.com | 53C973814E93DABBB7E5F8F151031158DE5E6473 | email | obfs4 | 
 Torware | nobody@example.com | 53CE87E4F24C3A2F16FE6FD3D122FFE244EB9594 | https | obfs4 | 
@@ -1795,7 +1795,7 @@ aminemonz | memarimohammad56@gmail.com | 91C56BF1F2D5AAE02C8761111311E2A42E48A5B
 Torware | nobody@example.com | 91CC0A68F630CC7DB640F203DA4E2F7075F64ED2 | email | obfs4 | 
 Tuva | 40x07{at}protonmail(dot)com | 91D2C84A74D58BC22E64897C70A3E5FBB43F3591 | N/A | obfs4 | 
 Unnamed | gerontius@tuta.io | 91D85D834C22613A82E02109864CCFA1ED4FC80F | settings | obfs4 | 
-crusty6 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
+crusty11 | N/A | 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 | none | snowflake | 
 DanceArmeniaFree | root@localhost | 921E146496825F7DA13A518BEF6F47614EDC5EB0 | N/A | obfs4 | 
 mickbot92 | zesty-crux-oval[at]duck[dot]com | 922F094A8B5FB438666D3040BC5C495B09ABA55C | N/A | obfs4 | 
 crackychanDOTorg1 | url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (1) | 9235B0FAAA7C592B1A13456EA31127278CC4308C | https | obfs4 | distributed=false
@@ -2516,6 +2516,7 @@ AngMohBridge | mail@guillaumea.fr | CAD2FD8622EB0BB591DD609D9536585F43427186 | s
 Unnamed | hawk [common_email_symbol] aha [dot] ru | CAD66D0515644FE6011DD236688D4887AB827B79 | email |  | 
 LoPonte | Pontazzicadenti@lovecat.com | CAE9EF9A1CCBB2C131AB6B7DC1C0A5DE8D314D0D | reserved | obfs4 | 
 phiphi | nobody@example.com | CAF191AC6937487376716F3D0DA2DDA63B502690 | N/A | obfs4 | 
+SenkoPrivateBridge | N/A | CAFFE6BF1424472BAA1F51A9D65756AB1C222F43 | N/A | obfs4 | 
 Poltoro2 | ruzbehm2@gmail.com | CB29F20E19682085885C1EA6852BD7E1FA32D546 | email | obfs4 | 
 DaRealNigerianPrinz | <address@email.com> | CB35F006CAA8DEF806547B638AC1306DB1F96A99 | telegram | obfs4 | 
 AntonPann15 | tzancauraganul@proton.me | CB48442EDA814347167772888491ADDC947B8272 | settings | obfs4 | 
