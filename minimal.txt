@@ -138,7 +138,6 @@ Torware | nobody@example.com | 0B4F05D44CB5856ABC0A2FB90FE1CB3CBF7F4385 | N/A | 
 prsv2 | admin@prsv.ch | 0B6119E2600D0FF8AF00EF47ADEAB03C9FF7C344 | settings | obfs4 | 
 Sr2Bridge4585 | hello from onionland | 0B65C12D3AB07776E8A2CD49E19CD3460360C4A5 | N/A | obfs4 | 
 salerosa | gus@riseup.net | 0B67817D98FD3B1C3420FB20B25DD574DD10DC6E | settings | obfs4 | 
-Sr2Bridge4582 | hello from onionland | 0B7AF3FC73342312446B6FA261975423D40AF32C | N/A | obfs4 | 
 Sr2Bridge4499 | hello from onionland | 0B9E3AD4F4A0C623064513634EAF5BEF558F7093 | none | obfs4 | 
 DockerObfs4Bridge | nobody@example.com | 0B9EF6097A82DF6A0CC26D63B2DB43A532362270 | settings | obfs4 | 
 zTorBridge | tor-bridge@z0ny.net | 0BBBE0D5584370281C34F81081F0F4F5F5A122EC | settings | obfs4 | 
@@ -255,7 +254,7 @@ BatOnion | 0x85770A9EE0DCC79C Joshua Mangas <jmangas at waynetec dot us> [tor-re
 WTBrOVJn5beXto | admin@gri.mw | 130159CC36A5FAB9F645FF5AF431B3AEAFCB98F0 | settings | webtunnel | 
 TankMan | N/A | 1302D3F1C1646F7730A1D019EDEC9FDB199A4FEC | settings |  | 
 zombiekiller | <gawrgurafan@disroot.org> | 130D1BB4073E4F1B456C8E91BF0FF7A21232D042 | telegram | obfs4 | 
-WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https | webtunnel | 
+WebTunnelCN | gus@riseup.net | 13212F2CE0529805CA03B9CC6A0D446055B5987E | https |  | 
 TriplebitBJ | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 133267D91CE7774A22FDE85F36AF156CC6F6D457 | none | obfs4 | 
 Unnamed | N/A | 13396945DE64D3C299E8B863F138B0462D5995B9 | settings |  | 
 hobobridge | hobosoft.production@gmail.com | 133D07D3D09FF8000D50AE0E8308C97B62C77E53 | settings | obfs4 | 
@@ -530,7 +529,6 @@ Aramis56 | email:torix@protonmail.com url:https://torix-relays.org proof:uri-rsa
 TunnelToFreedomX | admin@tor.utilizer.cloud | 2530A4A96CDD6A8D1C17FC4A05DDFBC5DF666582 | https | webtunnel | 
 Sr2Bridge4582 | hello from onionland | 25362C1DFE2EB3AE1EE7B6FFB01CE96FBE8846B9 | N/A | obfs4 | 
 AgileSurfTunnel | relays.6bnqm@passinbox.com | 25A6360C1FF4640B54D2A54A683F8A64F04AF5C1 | https | webtunnel | 
-Sr2Bridge4582 | hello from onionland | 25C08FEEAF22EA155B78124B7C0E7ED10FE583D9 | N/A | obfs4 | 
 xalicex | alice.climent.red | 25DFEB35B7641311D12A8778B4A934BCB08BA83D | telegram | obfs4 | 
 Unnamed | N/A | 25E4623447192B55901B4A8AF2FBA8AF147CEC0C | https |  | 
 BlueCopperDevTin | root@guardianproject.info | 25F68D408A77DFAFB647C7CB29B21E48A4BB9E13 | N/A | obfs4 | 
@@ -931,6 +929,7 @@ BlueEntra | N/A | 3FD7C88990CF77E7AB777592CD7BAAD3925A6FA8 | moat | obfs4 |
 NodNet01 | tor[@]nodnetwork[dot]org | 3FE2C3216C7A104EBF33EF8A12F21BBBDD6A02DC | https | obfs4 | 
 BabaJagasCabin | Olafur <olafuringvason@posteo.is> | 3FE5DD49CD0120BA9176CC8A6479312B4126F13A | settings | obfs4 | 
 WTBrrXkBUUxWSg | your@email.org | 3FF062704213BCE3C7C744A01E985B25FB881BF1 | none | webtunnel | 
+Sr2Bridge4584 | hello from onionland | 4012D450410B3C99B9828258D68502130F592204 | N/A | obfs4 | 
 BridgeOverTheWall | g30g43br4[at]protonmail.com | 401BDCE68966BC1A5783AAC0EA97AE995F688853 | telegram | obfs4 | 
 Unnamed | N/A | 40244B1A2174C126E1ABFFE66680282E171BA2DF | email |  | 
 MainFTR2K20 | RandomUser <trlay.unedging@slmail.me> | 406426FBF18A5DC9019D2616FCACE8E0D9591D7E | email |  | 
@@ -1072,7 +1071,6 @@ ghostfire15 | ghostfire@simon-galland.fr | 4A00AB75B13B32C61BD7879050235803DDDA1
 Sr2Bridge4584 | hello from onionland | 4A074274F2FC52730A1D272CF95BFE7FE5B1E755 | N/A | obfs4 | 
 ExitTheWall8459 | reply@mynetblog.com | 4A0B065DB3CF807C6910DFEF6D9CCCB95C59C585 | settings | obfs4 | 
 sh97BROBDETMP | tor at stealthprivacy dot de | 4A1514708C57C60B5B1F65EC8FCDE5ABFFD85F65 | settings | obfs4 | 
-Sr2Bridge4584 | hello from onionland | 4A38080A0F2EAC9FDEE25D21A85170266BAE317A | N/A | obfs4 | 
 zhi | kzjaaqwfnabb protonmail com | 4A39B49C01323C2CF69DA7B8090CF1BE862EDFC8 | settings | webtunnel | 
 gionn | Giovanni Toraldo <me AT gionn dot net> | 4A4E9C7D43A31327C5E62A1BF36DB0E434353977 | email |  | 
 WTBrRNcgMOmCxy | corysanin@outlook.com | 4A4EC0436DC2D5311C7E2CC61163B0A711B636D8 | https | webtunnel | 
@@ -1268,7 +1266,6 @@ BlueCopperDevTin | root@guardianproject.info | 56AC34923AA2D0922A323EDE46F1850DD
 Sr2Bridge4582 | hello from onionland | 56B7A36CA3598DFBA985B60A75D5ADB7D2CDF39D | N/A | obfs4 | 
 UnredactedWT1AMS | admin[@]unredacted.org | 56BED179BDECE19A81EE62485A2CAB8DC0A171CF | settings | webtunnel | 
 Sr2Bridge4585 | hello from onionland | 56EED741ADEF9970EF613338187F17AEE28ECA08 | N/A | obfs4 | 
-RobertResistance | r.delord@mail.com | 5700BD7CA78777E868EEF0301FC634F060B5A44F | N/A | obfs4 | 
 UmiKerus | N/A | 570C9469429D1E7C269708FD06BC90FB37EDE2FE | reserved |  | 
 tenno133 | zkpoint@pm.me | 5721FB8F054546535D0A3A231C1DB240BF2C6A2C | settings | webtunnel | 
 DockerObfs4Bridge | <contact AT moe DOT ph> | 5736E5F3E04A7B9A5F730185B7ADF6F5185A79A7 | telegram | obfs4 | 
@@ -1357,7 +1354,6 @@ Maxpumpe | maxpumpe <maxpumpe@dev-nook.de> | 5DE21677132DCCFA5AF37F4BD612F6646A6
 CyberWatch | N/A | 5E04409455619A2E09732E72DBBF3F6317B28BB3 | moat | obfs4 | 
 DockerObfs4Bridge | arianw@outlook.com | 5E281FF13C10D276E8C781F27617F35C34957D2A | N/A | obfs4 | 
 TriplebitAR | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 5E331068DE010ED8A56DA227FDE07824DA560535 | settings | webtunnel | 
-Sr2Bridge4584 | hello from onionland | 5E37297263EEBC5169DA723C495B1C5E885CE817 | N/A | obfs4 | 
 Sr2Bridge4585 | hello from onionland | 5E5DA72F3DD8B5EC20F37AE476A1E706571238D2 | N/A | obfs4 | 
 ki | N/A | 5E63F7A59944FD4AF6215B0277E0C7FAC8DD3191 | N/A |  | 
 Sr2Bridge4582 | hello from onionland | 5E67BB748EA87BB9FA1E02344302F3D0FF9FDF90 | N/A | obfs4 | 
@@ -1527,7 +1523,6 @@ gunnar | N/A | 68AF6FBF6D468E792D7720CA28BE70EDA0D2891B | email | obfs4 |
 Sr2Bridge4582 | hello from onionland | 68B12E90AD74063C306FF9E791BE793B66BF75ED | N/A | obfs4 | 
 sailingSea | tor-relay+sailingSea@herocc.com | 68DE0D1F3A7C42CC231CDE681E4B9807BCAD4214 | telegram | obfs4 | 
 Unnamed | N/A | 68E30A4A6E9E9059E15C56347BBF15B7748FE367 | N/A |  | 
-Sr2Bridge4585 | hello from onionland | 68EF551E8CCF4C4F4FFDEFD954D8FF7486A5A15E | N/A | obfs4 | 
 Torware | nobody@example.com | 68FE34AF32ED6639AEC54B16632817506C681CB9 | telegram | obfs4 | 
 UV6 | voidrefdrteg@ghdghgfvoid.com | 69216806E152E22FF4C17BD2B43735DFB6D94A2F | https | obfs4 | 
 Sr2Bridge4583 | hello from onionland | 69222FA4B4ED2DB702DE04193059F293918F17FA | N/A | obfs4 | 
@@ -1988,6 +1983,7 @@ Unnamed | N/A | 878215AD73E4576DFAAD3F468026DAAC47ECA18D | none | obfs4 |
 cstb6 | 0x37C6224D225BCD7D Jon Proulx <jon AT jonproulx dot com> | 87852B81899CBA03312A2A3E5747EB4C049527B6 | N/A |  | 
 ScReW | <tvaz@riseup.net> | 879A14B11B4B294049DD32B49B373FAB5B396857 | settings | obfs4 | 
 Sr2Bridge4585 | hello from onionland | 879CBAF3E2C3E8498721B9951BA9912693898129 | N/A | obfs4 | 
+Sr2Bridge4582 | hello from onionland | 87A04839EBEC414EE7984C6A516BE8300ADD2511 | N/A | obfs4 | 
 Unnamed | N/A | 87A3644B8612294B487D0EF169D6AC430A9FE842 | settings | obfs4 | distributed=false
 Bridge | tor@ybti.net | 87B8B448A281812B4B9BFACF12DEEAA852E73138 | https | webtunnel | 
 Sr2Bridge4582 | hello from onionland | 87BE8415288D6BA7D3C3FC634C543793B330A7F7 | N/A | obfs4 | 
@@ -2150,7 +2146,6 @@ VultrBridge | nobody@example.com | 9176DB2D6D565481F9235A74838B699ECD176514 | te
 RoyalObfs4TorBridge | rost.bel@gmail.com | 917EC3957A5A1C7E7FE76095C48D59DEA2A09A55 | N/A | obfs4 | 
 Unnamed | N/A | 917F0416D69309FBB6DBC6FB4E95EC9BB15E48C5 | settings | obfs4 | 
 SweRaspiTor3 | 0x346D5914BD62CAFE38B6E973595FFEED9F2F39FD Random Person <tfn50 AT hotmail dot com> | 9184A62621124DB10E42AB82CAFEC307DAFB467B | reserved | obfs4 | 
-Sr2Bridge4583 | hello from onionland | 918F4DAECFCD36977EEA658CCCE70C388FAA0963 | N/A | obfs4 | 
 Unnamed | N/A | 91971387866DA48F8CB2E298BBC3961746721331 | settings | obfs3, obfs4 | 
 DockerObfs4Bridge | Guiorgy123@gmail.com | 91A2E4B26526CB26A34C0B460E77F36D886CF7B9 | settings | obfs4 | 
 Unnamed | N/A | 91A3D5D253130891313E99C61162D3CE04E6E694 | email |  | 
@@ -2658,6 +2653,7 @@ ws04fmgn7lr | ws04fmgn7lr@temp.mailbox.org | B3B39E70BB76ABF49F6BAE4EE09EB4C841A
 Unnamed | br56(at)riseup(dot)net | B3D84C22FA85934103AB29121ABEF8C05E5A021D | settings | obfs4 | 
 Sr2Bridge4585 | hello from onionland | B4188C2B2EEF1A03EDE8B80E2F3B2C05107BD747 | N/A | obfs4 | 
 JPTOR | jptor999@mail.com | B42B5637D0A8556766E35A9517F03F636BA89287 | settings | obfs4 | 
+Sr2Bridge4583 | hello from onionland | B45A52D1ED20564D8AE247006E83FC3DDA66E6C9 | N/A | obfs4 | 
 sh97BRWTUS | tor at stealthprivacy dot de | B45FE5D617F299E77795A1AEB97B9467D10ED3F2 | telegram | webtunnel | 
 AntonPann13 | tzancauraganul@proton.me | B4679D9D88C53199F1FAFDD212A54A68625A2315 | settings | obfs4 | 
 Sr2Bridge4585 | hello from onionland | B46E8EFC1949BA949E77301688A2649892A2B36E | N/A | obfs4 | 
@@ -2718,7 +2714,6 @@ lfg04 | gus@riseup.net | B7DA5D1B86512963E896CABE198BEA02301D1812 | settings | o
 bridge | @ | B7DB7B98B504F7F6D70DD51E2E6DF0D0991C4007 | https | obfs4 | 
 zwiebelfoo1 | katze@kunfoo.org | B7DD61923F064045D25DD68B12273B8FFEAF90B7 | settings | obfs4 | 
 Sr2Bridge4584 | hello from onionland | B7EC0E3D1C95919CE2936A7CBBD992DB5BC448E9 | N/A | obfs4 | 
-CZGate6892015 | czechstudent@iamfozz.net | B7F52991011EDDCFA0CC5E77A1FDE0A3DBF49F6D | N/A | obfs4 | 
 Unnamed | iioonnee@proton.me | B8048D04953E3D33A07CB18B0E884C2517B604BB | email | obfs4 | 
 QuatBridge | no.closure714@aleeas.com | B821DC0D6A8DB85F9C596E11C375541098E5ADF4 | https | obfs4 | 
 toralf0struppi5 | email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 | B82D8D2DE2B548371B99753C0C7E6FAFB780ACF5 | N/A | obfs4 | 
@@ -2934,6 +2929,7 @@ Sr2Bridge4585 | hello from onionland | C55AF72EA19C4D10EAF69FCEC85220353BE6DF4B 
 FreshOuttaC0ffee | Random Person <nobody AT example dot com> | C5616F2B31563AA12FA4BCE280D4092789A36A9D | none | obfs4 | 
 Sr2Bridge4582 | hello from onionland | C56469C374F8A6253E966F18BF5CC77675BFA9DC | N/A | obfs4 | 
 ffggrznamespace | sven(at)ffggrz(dot)de | C58252DBDB98B73E475A029BE5389394535486B4 | email | obfs4 | 
+TheSpicyBridge | tor@thespicyittechnician.com | C587C7558EA245212BB915FFC501C73806DF3A71 | N/A | obfs4 | 
 DockerObfs4Bridge | none@none65dfh4.org | C5898C0B1919DB54C5B28C361DA60294500024C1 | email | obfs4 | 
 SubstationBridge | substation@cwmfam.farm | C597EBBB1F78F51F03DFBE126A4B06BE9DF125D2 | email | obfs4 | 
 reverence | noc@0x7c0.com | C59C3C326E2F7B78C05C2AA31EDAE9AF9A52FAC2 | email | obfs4 | 
@@ -3074,7 +3070,6 @@ Rapps | N/A | CFA71E2724DE6249E1283BF6B4A0678C72078265 | N/A | obfs4 |
 RelayUliBridge | tor-operator@theu.li | CFB13051CF65E97FEBE185668EBD7262CA3B8712 | settings |  | 
 TriplebitBK | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | CFB737FDE14C8D8C9328B926C1B71228C122620A | settings | obfs4 | 
 TheGreatFirewall | poipoi@zaclys.net | CFCDD62A78D690178219867F5E76E6D2F86CB7E2 | https | obfs4 | 
-Unnamed | eatme@bitemy.org | CFD4F43D5F5695016EDDD565060CFC417690599F | N/A |  | 
 Sr2Bridge4518 | hello from onionland | CFE387A7DCFE2CA6FD46D18BAF445566201EEF9E | none | obfs4 | 
 Sr2Bridge4583 | hello from onionland | CFF9DCC00044D74D95555E3C7C61D607E1471597 | none | obfs4 | 
 Unnamed | N/A | D00693ED810F626187BAC77067FB7238A81C79C8 | settings | obfs3, obfs4 | 
@@ -3327,7 +3322,7 @@ Aex | noreply@gmail.com | DFB1AE39189ACD916C6898FA4BD0643A1F9CCB01 | settings | 
 Sr2Bridge4582 | hello from onionland | DFC14A277BB70A35B000185102E6CC96622674C8 | N/A | obfs4 | 
 Sr2Bridge4583 | hello from onionland | DFC1AE9CD317B0EABE1505755064047C00CAF2F3 | none | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS11 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS51 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 Sr2Bridge4582 | hello from onionland | DFD2ABF56DE6EAC5B207081936B92DDCC2168463 | N/A | obfs4 | 
 DockerObfs4Bridge | your_email@example.com | DFD9063824B1A8DCEAB5426566566F208D59E9E1 | telegram | obfs4 | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
@@ -3423,6 +3418,7 @@ WebTunnelTest | <address@email.com> | E572E50DAFDC713BC729FD0B6B566B8FC64502D0 |
 annasbridge | pookiepies@proton.me | E581EB787CEFADAE0D19052F36C3DC94E275C89C | settings | obfs4 | 
 Alice | harlock1@dnmx.onion | E5B80123016789ADE1562B50E0CD6A1F6B855208 | email | obfs4 | 
 LocalenbyWebTunnel1 | Email: tor[at]localenby[dot]is XMR: 83XuMrHLbrn18f4VhvYY6EWpFipiG4zxtg6VN3QCtWvzZFJL8M68snLPj1F4T2TPgNAfjMtjHfg3JXBz9x7ECaNWLyetdEc | E5BF081A43AB053780A090C605F269FDADE08A64 | https | webtunnel | 
+Sr2Bridge4585 | hello from onionland | E5C27D1A4BF68408E913B610A53B53F7D5B70016 | N/A | obfs4 | 
 DockerObfs4Bridge | nobody@example.com | E5CA32D8A329315D4995E7890013B0F388D3B3B4 | telegram | obfs4 | 
 monasahlin | 10028@mailbox.org | E5DD0946E18D57F7B0EE99D8C062AE592FFECB68 | N/A |  | 
 NetDevPX | <tor@netdev.cloud> | E5F3A3BF609E8FD250A4DF22DE74A98ED0F29CF7 | settings | obfs4 | 
@@ -3589,7 +3585,6 @@ vtechbox | nobody@example.com | F16EA0B94F8B2AE6D675EFE00F587ADB77201E52 | teleg
 joe04 | 04joe@proton.me | F16F96651B46A7B76FFF812E4800BFCA8421988A | N/A | obfs4 | 
 Sr2Bridge4585 | hello from onionland | F16F9F401BBF986A5F71F983F42754D1C0F744B5 | N/A | obfs4 | 
 LeonardPeltier | flev @ kpnmail . nl | F175EA991FFF59BD7C833099617D8BF1B12252C8 | settings |  | 
-Sr2Bridge4583 | hello from onionland | F17667265F387E2961DB16641C62D225A13D4122 | N/A | obfs4 | 
 Sr2Bridge4583 | hello from onionland | F1773776C605C8EED6DE24BDE6994D30B1362922 | N/A | obfs4 | 
 Estemirova | athena202202 at gmail dot com | F1817DC42F8BA27DF7F9D3A8F6B853F29B251BD4 | https | obfs4 | 
 Bridge1K | torrelaysaregreat@gmail.com xmr:84czj1u2Q4dJ7bzf41TyDFS1i1GPKX5DQGgqZFg85LFge7LLUpCvEMyfjDfAnsZv291gtyMqUsTmxZojB7cRVckyUuih9ar | F1A70DA1A43736D3B2DCC13A2C13566C614FD0DB | https | obfs4 | 
@@ -3663,7 +3658,6 @@ LocalenbyWebTunnel3 | tor[at]localenby[dot]is XMR: 83XuMrHLbrn18f4VhvYY6EWpFipiG
 DockerObfs4Bridge | tor-bridge7786@proton.me | F699DC126A549D5301DB15994B685DB1CC8DD997 | settings | obfs4 | 
 Sr2Bridge4582 | hello from onionland | F69B7A9160CC9A7A88EA07CCD2C6C8490163D104 | N/A | obfs4 | 
 pacifico | ultramar@acuare.la | F69E1AFF03D848ABD6B8DD7ABE0696CA93A5D8B7 | N/A | webtunnel | 
-Sr2Bridge4585 | hello from onionland | F6AD4CB125801BE5DF4A8E856480DBE34D5704B2 | N/A | obfs4 | 
 Sr2Bridge4585 | hello from onionland | F6B9D352EF95F3520981FDE3067A99F9BF0324B4 | N/A | obfs4 | 
 Sr2Bridge4584 | hello from onionland | F6C7EB8FA11941909ECC9669F2069BEACFB3297F | N/A | obfs4 | 
 skaggsm | skaggsm333@gmail.com | F6E7EB8ADDCFD54B80580CD4228C0D1DC905365F | settings | obfs4 | 
