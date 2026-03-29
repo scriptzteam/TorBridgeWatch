@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | 5DC175979A08EB603723F57BD718BD9FF85C3543 | true | Running, Valid | 2026-03-29 01:00:46 | 2026-03-29 01:00:46 | 2026-03-29 00:37:37 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.156.226.241:54062, [fd9f:2e19:3bcf::17:4170]:54062 | obfs4 | |
+|Sr2Bridge4585 | hello from onionland | ABCB029F0E14E21143AADBE176FDDC1FCA641B3E | true | Running, V2Dir, Valid | 2026-03-29 01:00:46 | 2026-03-29 00:30:46 | 2026-03-29 00:04:29 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.0.86.107:50575, [fd9f:2e19:3bcf::3a:2b73]:50575 | obfs4 | |
