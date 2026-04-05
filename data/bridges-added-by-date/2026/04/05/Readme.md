@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|LibreNet | <S0gs2004@gmail.com> | 02F532873FFC80388F410FA7CAD6BDC870F8E5B7 | true | Running, V2Dir, Valid | 2026-04-05 00:00:57 | 2026-04-05 00:00:57 | 2026-04-04 23:30:22 | 2048000 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | settings | 10.214.204.190:50189 | obfs4 | |
