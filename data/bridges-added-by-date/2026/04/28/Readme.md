@@ -1,0 +1,6 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Sr2Bridge4582 | N/A | 897ABBE13C797016842751AC174AFF3ACFE69BDD | true | Running, V2Dir, Valid | 2026-04-28 00:46:58 | 2026-04-28 00:16:58 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.239.46.79:60981, [fd9f:2e19:3bcf::e8:1e35]:60981 |  | |
+|Sr2Bridge4583 | N/A | CA57BB765D2796B4E3F0ABD505C355C0C3683947 | true | Running, V2Dir, Valid | 2026-04-28 00:46:58 | 2026-04-28 00:16:58 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.176.44.136:60032, [fd9f:2e19:3bcf::aa:b503]:60032 |  | |
+|Sr2Bridge4585 | N/A | D34ABD97545C559B1583044CD606109060302ADD | true | Running, V2Dir, Valid | 2026-04-28 00:46:58 | 2026-04-28 00:16:58 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.208.31.210:59090, [fd9f:2e19:3bcf::db:5ceb]:59090 |  | |
+|Sr2Bridge4584 | N/A | E4531018655B68512DEC323B477989525D9B0F92 | true | Running, V2Dir, Valid | 2026-04-28 00:46:58 | 2026-04-28 00:16:58 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.178.147.168:51026, [fd9f:2e19:3bcf::d3:9294]:51026 |  | |
