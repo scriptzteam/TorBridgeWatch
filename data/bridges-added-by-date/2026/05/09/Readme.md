@@ -1,0 +1,7 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Sr2Bridge4584 | N/A | 71441ECC56C7DA674B07741717F2D02920B66E4F | true | Running, V2Dir, Valid | 2026-05-09 01:00:51 | 2026-05-09 00:30:51 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.246.35.90:56070, [fd9f:2e19:3bcf::2c:592b]:56070 |  | |
+|Sr2Bridge4583 | N/A | ABCCA88F32536257B440F27F08A902271806C389 | true | Running, V2Dir, Valid | 2026-05-09 01:00:51 | 2026-05-09 00:30:51 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.100.1.42:60293, [fd9f:2e19:3bcf::35:1ba6]:60293 |  | |
+|davidndfdn | david norris1297 <AT gmail dot com> | BC491CFC702EED4560CC0CBDF46BE293723E7D07 | true | Running, V2Dir, Valid | 2026-05-09 01:00:51 | 2026-05-09 00:00:51 | 2026-01-22 09:08:13 | 62464 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | 10.118.194.161:65196 |  | |
+|Sr2Bridge4582 | N/A | C46B350B8048CAC7C5C5D334A43500696A445DCE | true | Running, V2Dir, Valid | 2026-05-09 01:00:51 | 2026-05-09 00:30:51 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.55.57.127:58088, [fd9f:2e19:3bcf::19:5b36]:58088 |  | |
+|Sr2Bridge4585 | N/A | C7D1D8F461EF4A052CD39C306010270409049850 | true | Running, V2Dir, Valid | 2026-05-09 01:00:51 | 2026-05-09 00:30:51 | N/A | 0 | N/A | N/A | N/A | false | N/A | 10.76.67.155:54770, [fd9f:2e19:3bcf::64:a912]:54770 |  | |
