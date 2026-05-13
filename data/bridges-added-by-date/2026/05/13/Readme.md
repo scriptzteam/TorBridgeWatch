@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|KapokBridge01 | N/A | 5134D0AD85568D7C6C3C468E1E6F2C5551DE9240 | true | Running, V2Dir, Valid | 2026-05-13 04:56:57 | 2026-05-13 02:56:57 | 2026-05-13 02:38:46 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.26.184.187:56489 | obfs4 | |
+|permutationLock | upscailThumbnail@proton.me | A1B04507AE4ED9EA3107743FE7BA5634BBDFFC24 | true | Running, V2Dir, Valid | 2026-05-13 04:56:57 | 2026-05-13 01:56:57 | 2026-05-13 01:50:01 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.94.94.24:51690 | obfs4 | |
