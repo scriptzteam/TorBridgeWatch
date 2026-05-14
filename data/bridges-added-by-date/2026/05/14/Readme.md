@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | thecubic@thecubic.net | 07092793F16AA842E1F0256E33D1B431C07BE6FA | true | Running, V2Dir, Valid | 2026-05-14 02:57:01 | 2026-05-14 02:27:01 | 2026-05-14 01:04:24 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | 10.20.224.67:57693 | obfs4 | |
