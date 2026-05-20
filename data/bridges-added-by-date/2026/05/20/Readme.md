@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|obfs4bridgebffb2097 | obfs4-test@example.com | 64BBE747021F97FCB119B13154E8A814752F0270 | true | Running, V2Dir, Valid | 2026-05-20 06:57:13 | 2026-05-20 05:27:12 | 2026-05-20 05:10:59 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.196.14.75:49585 | obfs4 | |
+|YourBridgeName | your-email@example.com | 83691AD8C8F568423D82A6F36A34CFED6DB7C018 | true | Running, V2Dir, Valid | 2026-05-20 06:57:13 | 2026-05-20 06:57:13 | 2026-05-20 06:47:35 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.140.178.45:51897 | obfs4 | |
+|Hanaysha | N/A | 84B477F4FBD47DB9BF8078F6E7665B09C8E4A571 | true | Running, V2Dir, Valid | 2026-05-20 06:57:13 | 2026-05-20 04:27:12 | 2026-05-20 04:11:01 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.13.80.58:63353 |  | |
