@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | admin <nobody AT example dot com> | EFF833983BE090EB83012D53837E14E80DDB7A7B | true | Running, Stable, V2Dir, Valid | 2026-05-30 05:06:26 | 2026-05-30 04:36:26 | 2026-05-30 04:15:35 | 1024000 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.65.33.57:52627, [fd9f:2e19:3bcf::9f:da33]:52627 |  | |
