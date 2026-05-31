@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Mameko | mameko@tutanota.com | 89C156DB6B7A09269D03E38946D78362D559B3D3 | true | Running, V2Dir, Valid | 2026-05-31 01:36:27 | 2026-05-31 01:36:27 | 2026-05-31 01:34:56 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.141.13.237:60365, [fd9f:2e19:3bcf::5c:32b1]:60365 | obfs4 | |
