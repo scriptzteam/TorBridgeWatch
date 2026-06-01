@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|GidiSoluciones | tu@email.com | 5A37C3584747438DDA4E0893021A02D2BAB8157E | false | V2Dir, Valid | 2026-06-01 04:06:29 | 2026-06-01 00:06:28 | 2026-06-01 00:22:11 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.115.129.203:54193 | webtunnel | |
+|Unnamed | anonymous | 89502CFA7FF2B71688F57CDD131F867C87F58778 | true | Running, Valid | 2026-06-01 04:06:29 | 2026-06-01 02:36:29 | 2026-06-01 02:12:44 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.170.162.243:53596 |  | |
+|GaeckaTorBridge | gaechka-moscow-operator@proton.me | F671B3851BE09BEF1EC0A68E4EC22266550E7406 | false | Valid | 2026-06-01 04:06:29 | 2026-06-01 00:06:28 | 2026-06-01 00:00:00 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.54.67.3:56962 | obfs4 | |
