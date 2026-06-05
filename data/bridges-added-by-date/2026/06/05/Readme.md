@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|mokou | N/A | 13F090C632A5944C4E8578C0A273DB692B3CB49A | true | Running, V2Dir, Valid | 2026-06-05 04:47:40 | 2026-06-05 04:17:40 | 2026-06-05 02:21:35 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.84.68.109:62969, [fd9f:2e19:3bcf::0c:8d74]:58003 | obfs4 | |
