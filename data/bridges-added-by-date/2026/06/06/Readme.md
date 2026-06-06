@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Hanaysha | N/A | FD0A2DACB9972C7E80361D0A5DAEFBFB5A1E4700 | true | Running, V2Dir, Valid | 2026-06-06 00:47:45 | 2026-06-06 00:17:45 | 2026-06-06 00:03:38 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.238.63.228:59857 |  | |
+|RafexRelay | Random Person <rafex AT rafex dot dev> | ABF8271B4F06D463B49B2742BD489913E75792A1 | true | Running, V2Dir, Valid | 2026-06-06 04:47:46 | 2026-06-06 02:17:45 | 2026-06-05 00:06:51 | 18432 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.209.252.146:64544 | obfs4 | |
+|Hanaysha | N/A | FD0A2DACB9972C7E80361D0A5DAEFBFB5A1E4700 | true | Running, V2Dir, Valid | 2026-06-06 04:47:46 | 2026-06-06 00:17:45 | 2026-06-06 00:03:38 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.238.63.228:59857 |  | |
