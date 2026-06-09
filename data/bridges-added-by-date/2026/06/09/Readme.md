@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|cubane | molding@national.shitposting.agency | 6DE053A542C35E3724467B7D17473285705A29D8 | true | Running, V2Dir | 2026-06-09 06:47:52 | 2026-06-09 05:47:52 | 2026-06-08 21:00:51 | 5137408 | Tor 0.4.9.6 on OpenBSD | 0.4.9.6 | recommended | true | N/A | 10.203.133.234:60789 | obfs4 | |
+|TFTPBridge | tom@hoerberg.de | 8420761AD3AE4C8FE629789A27FB5FE6CC44A14A | true | Running, V2Dir, Valid | 2026-06-09 06:47:52 | 2026-06-09 03:47:52 | 2026-06-09 02:09:13 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.143.118.212:63687 | obfs4 | |
+|DockerObfs4Bridge | tor@schmidtie.net | 8F146B407481CDC9DEE752F3B72341ADD48BFED3 | true | Running, V2Dir, Valid | 2026-06-09 06:47:52 | 2026-06-09 03:47:52 | 2026-06-09 05:08:57 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.237.160.206:56949 | obfs4 | |
