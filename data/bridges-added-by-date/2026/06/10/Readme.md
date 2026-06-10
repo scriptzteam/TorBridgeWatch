@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | ianred100[DOT]gmail(dot)com | 3EF48C2D55353FCBC9C3674CFAED2FEFC79EA140 | true | Running, V2Dir, Valid | 2026-06-10 00:47:52 | 2026-06-10 00:17:52 | 2026-06-09 23:43:51 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.89.195.191:54802 | obfs4 | |
