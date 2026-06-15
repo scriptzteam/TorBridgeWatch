@@ -1,3 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|TOR1 | N/A | FB183454CEC2167539BCC49325AF3CF053E719EF | true | Running, V2Dir, Valid | 2026-06-15 01:47:57 | 2026-06-15 00:47:57 | 2026-06-10 23:21:04 | 48377 | Tor 0.4.8.21 on Linux | 0.4.8.21 | obsolete | false | N/A | 10.74.146.209:65397 | obfs4 | |
+|Freedom | N/A | 37C42B234D89ABB980A1328BB565EBCE823E127E | true | Running, V2Dir, Valid | 2026-06-15 07:47:57 | 2026-06-15 07:17:57 | 2026-06-15 07:02:32 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.230.163.20:61562 |  | |
+|public | N/A | C7BD59240E2F12F2D39F2B9672045AA66D2B2DE4 | true | Running, V2Dir, Valid | 2026-06-15 07:47:57 | 2026-06-15 02:17:57 | 2026-06-15 06:11:13 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.136.203.9:52294 | obfs4 | |
+|TOR1 | N/A | FB183454CEC2167539BCC49325AF3CF053E719EF | true | Running, V2Dir, Valid | 2026-06-15 07:47:57 | 2026-06-15 00:47:57 | 2026-06-10 23:21:04 | 48377 | Tor 0.4.8.21 on Linux | 0.4.8.21 | obsolete | false | N/A | 10.74.146.209:65397 | obfs4 | |
