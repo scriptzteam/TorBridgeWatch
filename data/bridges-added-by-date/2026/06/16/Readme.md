@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PraxedisGuerrero | Louis-Philippe Véronneau email:pollo[]debian.org url:veronneau.org proof:dns-rsa ciissversion:2 | B35B0E377EBB633C926FB93D81749DB01A030A44 | true | Running, V2Dir, Valid | 2026-06-16 04:47:58 | 2026-06-16 03:17:58 | 2026-06-16 03:15:43 | 23552 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.37.230.253:50882 | obfs4 | |
