@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|AltCunningham | Anonymous <tor-bridge@005184.xyz> | 123059EE575A87FEC3D4D405C38BBD2E1D940412 | true | Running, V2Dir, Valid | 2026-06-19 04:48:03 | 2026-06-19 02:48:03 | 2026-06-19 02:56:21 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.62.137.78:57552 | webtunnel | |
+|bridge | @ | 2FD5533D6A3790419ED2F29275E5FB4F988226C2 | true | Running, V2Dir, Valid | 2026-06-19 04:48:03 | 2026-06-19 04:48:03 | 2026-06-19 04:41:52 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.240.94.179:65096 | obfs4 | |
