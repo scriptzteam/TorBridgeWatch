@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|pissnisseBRIDGEbrk | tor 'at sign' rymdfartstyrelsen 'dot' se | 7BFF04E71BA966B0E57991A68B90D0D1384C795C | true | Running, V2Dir, Valid | 2026-06-20 02:48:04 | 2026-06-20 00:18:04 | 2026-06-20 00:13:40 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.14.188.249:59941 | obfs4 | |
+|HunterFiber2 | N/A | 8375C5FB1C13681B56F5C0019CF0B9A77FEA357C | true | Running, V2Dir, Valid | 2026-06-20 02:48:04 | 2026-06-20 02:48:04 | 2026-06-20 02:20:25 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.66.183.183:57594 | obfs4 | |
