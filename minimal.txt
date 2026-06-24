@@ -2328,7 +2328,6 @@ Quetzalcoatl29Steve | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-rel
 Sr2Bridge4584 | hello from onionland | AF68670B6A14891C9EF38785FBB607FFC496BFF1 | none | obfs4 | 
 NimadoBridge | none | AF70244AB82E4FAD1C8844940D688F8AA3AECBC1 | settings | obfs4 | 
 TORBridge | bridge@placeq.com | AF77195E2975036FBEE20405C91BE52F3EE9B71C | settings | obfs4 | 
-hadesblue | <torcontact[]hades[]blue> | AF9D493D4ADD04119E9F4EE5BC4EE12F65EB2135 | N/A | obfs4 | 
 DockerObfs4Bridge | domains+torbridge[at]gapple[dot]ca | AFA3149B332982FE405517DFE8F41E8D3754F127 | telegram | obfs4 | 
 Alfa31 | <alfa31@mail.com> | AFA3B26D5881564F3AF25AA503579647631FA65C | telegram | obfs4 | 
 ILoveYou | <wbasler899@proton.me> | AFAD0A4791AB1E0EAFF086D64C73D03DBE456FF8 | https | obfs4 | 
@@ -2466,7 +2465,7 @@ freenator | Felix <zwiebel ta quantentunnel tod de> | B9F5319D335745CDFE7FE6C97D
 Sr2Bridge4583 | hello from onionland | BA1842BDD636875106E6DA1B9A72E604E4B98016 | N/A | obfs4 | 
 Sr2Bridge4585 | hello from onionland | BA1C04CAE6AA2DACF1C21DF5285769022246CC4C | N/A | obfs4 | 
 DockerObfs4Bridge | N/A | BA2F96E4DBA01411FA0CDE2EE1416C4E15723DB0 | telegram | obfs4 | 
-PhantomBridge2 | hello@phntm.pro | BA4F021CBF8D9D0EAA9FB363CC727064B671E2DC | https | webtunnel | 
+PhantomBridge2 | hello@phntm.pro | BA4F021CBF8D9D0EAA9FB363CC727064B671E2DC | https |  | 
 Sr2Bridge4572 | hello from onionland | BA57454E253B2F063D98902FA0F4FFCA2E315F22 | none | obfs4 | 
 uberone | N/A | BA6FD2CF893EA4C8C71E20EC85CBA804AD27E302 | https | obfs4 | 
 MXIBridgeObfs4 | flygeek.mega@gmail.com | BA72E844B30206D26026387E4E1BBD30E87726C2 | https | obfs4 | 
@@ -3205,7 +3204,6 @@ DockerObfs4Bridge | twoj@email.com | EDA5FA13DE01F367B9A4DA1A2FF9FB028118F2B4 | 
 wg1tor1 | WG-1 alert.wg1@gmail.com | EDD003A1594D6779AC4A6FC34CE463CC8F347A0A | reserved | obfs4 | 
 imgcdn1 | <salmon@pm.me> | EDE0E0568D1AB2753EFE16414D4D155400FB9431 | settings | webtunnel | 
 BNDBruecke1 | 0xD4F82291A4E3724A70A69474F79A2161E8CC9372 | EE03199B9D4DF9D44AE7095B1DFBB99FE3DA18FE | telegram | obfs4 | 
-quietnode7 | N/A | EE0FC0BF72EB5AE491532465FDB676BC9462F14E | N/A | webtunnel | 
 Sr2Bridge4580 | hello from onionland | EE33CDB7B575E638EAD67D753E8D34C9A3742617 | none | obfs4 | 
 Unnamed | N/A | EE376EAB461B355E325DCAEDA02612DB89F9299A | settings |  | 
 DedicatedVolunteer | loucamalerba@proton.me | EE5759E624DCCE214FEC8D1C1B977C58AA5191AE | settings | obfs4 | 
@@ -3381,7 +3379,6 @@ Aex | noreply@gmail.com | FD5DC8973C5F82B9380AAB52F40DBB96C90DF63C | settings | 
 BridgeZwiebel | N/A | FD8F0AD3E771D96AD388E2A172619D3E03EFAD17 | none | obfs4 | 
 ShinobiKage | email:r3bo0tbx1[]brokenbotnet.com pgp:33727F5377D296C320AF704AB3BD6196E1CFBFB4 mastodon:https://infosec.exchange/@r3bo0tbx1 ciissversion:3 | FD986C182E6F2797E2B87A31401866FAC8DD5B0F | settings | obfs4 | 
 imprezahostua01b | abuse@imprezahost.com url:https://impreza.host proof:uri-rsa ciissversion:2 pgp:3C2965342A3DEE7AD712C227B67B73DDD6B62929 abuse:abuse@imprezahost.com hoster:imprezahost.com uplinkbw:1000 trafficacc:metered virtualization:kvm os:Linux/Debian autoupdate:yes offlinemasterkey:yes signingkeylifetime:90 | FD9C31537BEBAC8A23C18E4D3D0824306DDD427A | N/A | obfs4 | 
-Sr2Bridge4496 | hello from onionland | FDAAB990D061B10A7F3259056F74DA21024AAEDE | N/A | obfs4 | 
 Torware | nobody@example.com | FDB2588B62F47A65E492DCA758780C7B588FD53C | telegram | obfs4 | 
 Quetzalcoatl3 | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh ciissversion:2 | FDC884AFDA8ED3D685F28EE812A724CA2A260B2E | email | obfs4 | 
 TriplebitBF | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | FDE5E5442A24CCD4FA6F1ABC6771139ECD9543D5 | lox | obfs4 | 
