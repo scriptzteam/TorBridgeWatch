@@ -1,3 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|ETREL | no@email.com | F1F4EAEC50CD300574B7421D842C4CF95295BAFD | false | V2Dir, Valid | 2026-06-28 07:45:42 | 2026-06-28 05:15:42 | 2026-06-28 04:59:32 | 94208 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.153.148.131:64028 | obfs4 | |
+|PxBridge45198 | N/A | 37D3C6C6B6162A2D5B12D7A9B4D4715083087B1F | true | Running, V2Dir, Valid | 2026-06-28 09:45:42 | 2026-06-28 09:45:42 | 2026-06-28 09:25:42 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.38.220.220:62062 | obfs4 | |
+|RadusCloud | admin@radus.cloud | E167ECDE568AA87EEA7DCEE35204C3FD09087605 | true | Running, V2Dir, Valid | 2026-06-28 09:45:42 | 2026-06-28 08:45:42 | 2026-06-28 08:34:45 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.102.85.183:62659 | obfs4 | |
+|ETREL | no@email.com | F1F4EAEC50CD300574B7421D842C4CF95295BAFD | false | V2Dir, Valid | 2026-06-28 09:45:42 | 2026-06-28 05:15:42 | 2026-06-28 04:59:32 | 94208 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.153.148.131:64028 | obfs4 | |
