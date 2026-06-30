@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | watching.earpiece195@aleeas.com | 8FE77D16A082EC4324A22CDC0ABDB882EA4C205F | true | Running, V2Dir, Valid | 2026-06-30 05:53:30 | 2026-06-30 02:23:30 | 2026-06-30 02:25:23 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.133.165.79:55745 | obfs4 | |
