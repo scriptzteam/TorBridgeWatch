@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|agent0torobfs4 | abuse@aabizri.xyz | 3E80AA2AF369024D6422F048AE97EA594B79F831 | true | Running, Valid | 2026-07-01 03:53:32 | 2026-07-01 01:23:32 | 2026-07-01 00:00:00 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.201.44.124:55147 | obfs4 | |
+|romulus | kevinmloeffler@gmail.com | 9E1ED76007067B323F7E8808820BD05237BF485E | false | Valid | 2026-07-01 03:53:32 | 2026-07-01 01:23:32 | 2026-06-30 23:59:59 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.255.182.7:64583 | obfs4 | |
+|WTBrCUvxq0AsSB | classroom@chromodynamical.com | D29BB9F5434DE565E6F212C63D88274CF77AC613 | true | Running, Valid | 2026-07-01 03:53:32 | 2026-07-01 00:23:32 | 2026-07-01 00:00:00 | 176 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | N/A | 10.66.180.84:57275 | webtunnel | |
