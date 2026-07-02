@@ -1153,7 +1153,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | telegram | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 5480CEB859412DF164A75CE65917B651A25124F7 | none | obfs4 | 
-flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey10 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | 
 Sr2Bridge4584 | hello from onionland | 5492DD136C172E15318940EDDD8F79C8B634EA67 | N/A | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 54ADB64FED7094054D663C31F593A2B0D17F1760 | N/A | obfs4 | 
@@ -3030,7 +3030,7 @@ DockerObfs4Bridge | N/A | DF89494D6FDB989B4155A7EDBF19EA95EA9D51AD | settings | 
 BebousFreedomNode | admin@bebous.fr | DF91759C2901462E34A2F4F500D1319183EA73BF | https | obfs4 | 
 Sr2Bridge4583 | hello from onionland | DF9E6FAF90FB458C2615F807CE2269A960D40BE7 | none | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS161 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS71 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 Unnamed | eatme@bitemy.org | DFE37B383D565246327FE689D161140E870CF6AA | N/A |  | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
 DockerObfs4Bridge | Quartet2201@proton.me | E01A2182184427A99D4DD597217D5AB7BABC2FF9 | settings | obfs4 | 
@@ -3243,7 +3243,7 @@ Byby | 8753pJudAz7fQabzu6eTtrYv4JubiWCKoaD4iybdujz58HbWfJhoShkfTHxxieTzJH86cun1H
 alice | N/A | EFE26FC6E06177F8EE4CDDFFD2A8FE4AAF0F343B | settings | obfs4 | 
 bridge10 | Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 | EFEE5EDB52A0E6B9C268B21A258734EFDE6B52DD | https | obfs4 | 
 Unnamed | N/A | EFF0E1E6813896B50952A7C53DD40D198D63F1D9 | settings | obfs4 | 
-KotoseWebTunnel | email:minaseseina[]tutanota.de url:paperbunny.asia proof:dns-rsa abuse:minaseseina[]tutanota.de pgp:3806FF9127C6836D17BDF35BD1F1161482F089F4 mastodon:@paperiori@misskeytsf.love matrix:@minaseseina:catgirl.cloud memory:2048 cpu:E5V4 virtualization:Xen offlinemasterkey:n sandbox:n aesni:y autoupdate:y | EFF6C750247308B26E26559A586FF121B9E325FF | telegram |  | 
+KotoseWebTunnel | email:minaseseina[]tutanota.de url:paperbunny.asia proof:dns-rsa abuse:minaseseina[]tutanota.de pgp:3806FF9127C6836D17BDF35BD1F1161482F089F4 mastodon:@paperiori@misskeytsf.love matrix:@minaseseina:catgirl.cloud memory:2048 cpu:E5V4 virtualization:Xen offlinemasterkey:n sandbox:n aesni:y autoupdate:y | EFF6C750247308B26E26559A586FF121B9E325FF | telegram | webtunnel | 
 Unnamed | admin <nobody AT example dot com> | EFF833983BE090EB83012D53837E14E80DDB7A7B | reserved |  | 
 WTBr3ec052ca | relay@v530097.hosted-by-vdsina.com | F05D81B09644BA1706067CD8D8E22575346EAC31 | email | webtunnel | 
 DockerObfs4Bridge | tormaster@tebibyte.org | F062DD62C28C5DE4E82754ADB20BF04D1EF8E0E0 | settings | obfs4 | 
