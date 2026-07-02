@@ -1151,7 +1151,7 @@ anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net>
 hallomail | N/A | 544DD3B235D9AA784FD7EEBAC6ACD23D84981A89 | email | obfs4 | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | telegram | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 5480CEB859412DF164A75CE65917B651A25124F7 | none | obfs4 | 
-flakey8 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey10 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | 
 Sr2Bridge4584 | hello from onionland | 5492DD136C172E15318940EDDD8F79C8B634EA67 | N/A | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 54ADB64FED7094054D663C31F593A2B0D17F1760 | N/A | obfs4 | 
@@ -1528,7 +1528,6 @@ apatca | write to cock dot li, username 'wypifra' | 732FF7C29BC1A7B8352AC36F2EC4
 dUHpIkrj | mail@example.org | 73397992158AE73D8D3413C3117487280AD93F43 | settings | webtunnel | 
 Bridge | tor@ybti.net | 7341DC47DFAA046E3FEB9A4C81C6C2A4B9A9E12D | telegram | webtunnel | 
 MyWebtunnel | N/A | 7354985D151E1241D533419D2328443FE6AAE68B | none | webtunnel | 
-ThomasBernhardsHose | <flockmock@gmail.com> | 736A8C27544BFE0AE5FE94EF77AE85B32779A947 | N/A |  | 
 Sr2Bridge4584 | hello from onionland | 73835EB26AFD9863ED98EE2FE8485876510384C8 | N/A | obfs4 | 
 FreedomBridge | <rllmt AT proton dot (normal end to proton mails)> | 738AD020A578C3C197350E258AC3EB323BED7E24 | settings | obfs4 | 
 encroach7001 | config@hasbeen.edited | 739FDB0FD748DA1BF4AC47CB377F53D2A9762F96 | none | obfs4 | 
@@ -2038,7 +2037,7 @@ NickPicked | mj_gill_89@hotmail.com | 99431CB7DAC229BF993BE69B0554C1A96C5956A5 |
 Torware | nobody@example.com | 995E4CDA5A6B9B062D7CAE92B81752CCB67FC565 | settings |  | 
 dktoke | abuse@toke.dk | 997B6FEB5A02B1F08A36CECCE9B5B3997C0A4680 | none | obfs4 | distributed=false
 ca01 | esteban@estebansuarez.com | 999D95919930F841EA16809E0268FC7D60983BF0 | email | obfs4 | 
-ChipsAhoy | <address@email.invalid> | 99B4245BF789AC28EE26A3A6937DC094816C7016 | reserved |  | 
+ChipsAhoy | <address@email.invalid> | 99B4245BF789AC28EE26A3A6937DC094816C7016 | reserved | webtunnel | 
 Unnamed | N/A | 99BDE3F2590B7D42683C23EFFC4B4BDB9C9647F8 | https | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 99D7DAAA7FF6095C3AEEB731A007BFDCEEA69E67 | none | obfs4 | 
 Sr2Bridge4584 | hello from onionland | 99DD3C301D688328890F282465EE45456A023999 | N/A | obfs4 | 
@@ -2571,6 +2570,7 @@ newhelp14 | jingojngo at gmail.com 0xF8A61A2F | BEEDDE35395813163270292CD30D6E12
 Sr2Bridge4584 | hello from onionland | BF0C8D1E96553BF4646A90D54D38696AC9582D57 | none | obfs4 | 
 Unnamed | Random Person lsd.tor@mailnull.com | BF109575AA5A03772835C74B018E1C130E23105C | settings | obfs4 | distributed=false
 Sr2Bridge4584 | hello from onionland | BF11BFE707FA22A1FAC63DF502B86C83C346AF94 | N/A | obfs4 | 
+Unnamed | eatme@bitemy.org | BF134B35A1B4BA9CC0E78E55E69375B258ACCC18 | N/A |  | 
 TriplebitAX | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | BF32B9C30DFE5D142D909A5367E72AE715BAC628 | moat | webtunnel | 
 y8s2v9an00brdg | your-email<at>example<dot>com | BF373E047725AB41562B9919580B10AA7C2818F3 | N/A | obfs4, webtunnel | 
 SillyWebTunnelMiau | <me AT k4m1 DOT net> | BF42907DC03C36B949523308B1B23B2519BE2728 | settings | webtunnel | 
@@ -3040,6 +3040,7 @@ TheGatesOfDuat | kharonsboat@tutamail.com | E08D3492156724D4671ED36EB6CE0FCCDCF3
 Sr2Bridge4582 | hello from onionland | E092AD7BB21012ADB5A9DFC96DDC11A67B2E0861 | N/A | obfs4 | 
 Sr2Bridge4569 | hello from onionland | E0960DE7DDA0E935291B76AC30AA13EEAC46BF0D | none | obfs4 | 
 MicheleTor | micheletor@canarduck.com | E09B6150A8EEB5EA7F36636EABBD48C22FB41698 | settings | obfs4 | 
+PickANickname | <address@email.com> | E0A6BD588C930BB531A34A80445E817F8E7C6398 | N/A |  | 
 RandomDude | operator.octane196@passinbox.com | E0CC61B69ECAAF4D3306342AFDE6B9919CF19BF5 | settings | obfs4 | 
 stronghold | torop@resline.org | E0D1BB9F525C0184D7DD7C808D3DE7B7C61D8C5C | email | obfs4 | 
 warrepobridge | warrepo@localhost | E0D8DC7498C444D29E616B7BA7D8FCAD9867C6B2 | N/A | obfs4 | 
