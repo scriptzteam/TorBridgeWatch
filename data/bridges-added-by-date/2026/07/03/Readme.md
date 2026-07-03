@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | ADDEABB10D0C95E260445CB04BF0FC2EF7D49C38 | true | Running, V2Dir, Valid | 2026-07-03 01:53:37 | 2026-07-03 00:23:37 | 2026-07-02 23:58:53 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.247.233.59:56076, [fd9f:2e19:3bcf::72:2bfb]:56076 | obfs4 | |
+|WTBrrjoTaTcl2R | N/A | F3397BF946D5A85BEED9F3294D2B79BA064537E8 | true | Running, V2Dir, Valid | 2026-07-03 01:53:37 | 2026-07-03 00:53:37 | 2026-07-03 00:41:04 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.23.11.123:54241 | webtunnel | |
