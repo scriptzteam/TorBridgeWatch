@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|RedbitBridge | N/A | F95DE0E9759255F6CE57451CF59218CD0E61485B | true | Running, V2Dir, Valid | 2026-07-04 01:53:39 | 2026-07-04 00:23:37 | 2026-07-04 00:02:55 | 55296 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.43.208.104:60470 | obfs4 | |
+|Unnamed | eatme@bitemy.org | 197F04A50CD90BAF938C54BAF07B28A8E2339EB1 | true | Running, V2Dir, Valid | 2026-07-04 04:53:39 | 2026-07-04 03:23:39 | 2026-07-04 02:56:40 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.241.119.60:59466, [fd9f:2e19:3bcf::90:ec5d]:59466 |  | |
+|RedbitBridge | N/A | F95DE0E9759255F6CE57451CF59218CD0E61485B | false | V2Dir, Valid | 2026-07-04 04:53:39 | 2026-07-04 00:23:37 | 2026-07-04 01:02:23 | 55296 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.43.208.104:60470 | obfs4 | |
