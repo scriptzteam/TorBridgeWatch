@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|BananaBoat35 | verticalpresto@gmail.com | 63B0A04C9F15701C6C34319BA9271AD82F70F402 | true | Running, V2Dir, Valid | 2026-07-07 00:53:44 | 2026-07-07 00:23:44 | 2026-07-06 01:17:00 | 66560 | Tor 0.4.8.21 on Linux | 0.4.8.21 | obsolete | false | N/A | 10.187.114.199:61580 | obfs4 | |
