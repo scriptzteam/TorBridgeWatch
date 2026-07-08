@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|kostya | example@example.com | 64B48A69F432DCAB00388538BC983F9C485D0255 | true | Running, V2Dir, Valid | 2026-07-08 08:53:46 | 2026-07-08 07:53:46 | 2026-07-08 07:24:14 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.120.212.73:56559 |  | |
+|PickANickname | <address@email.com> | E199E66799C3B29E5380AACB88D750CD5B28CCC0 | true | Running, V2Dir, Valid | 2026-07-08 08:53:46 | 2026-07-08 08:23:46 | 2026-07-08 08:08:52 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | obsolete | false | N/A | 10.226.181.163:50694, [fd9f:2e19:3bcf::4b:e5d5]:50694 | obfs4 | |
