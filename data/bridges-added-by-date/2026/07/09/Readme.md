@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MyWatchBegins | mywatchbegins@atomicmail.io | 895BAE05720C229D753D248705E57751F4D8211D | true | Running, V2Dir, Valid | 2026-07-09 02:53:47 | 2026-07-09 01:53:47 | 2026-07-09 01:29:18 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.17.225.203:56430, [fd9f:2e19:3bcf::51:e9f2]:56430 | obfs4 | |
