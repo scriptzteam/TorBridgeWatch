@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|YourBridgeName | your_email@example.com | AC38BC45844B73ACD0E68162414CD7497D780FC7 | true | Running, V2Dir, Valid | 2026-07-10 00:53:47 | 2026-07-10 00:53:47 | 2026-07-10 00:34:37 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.222.2.145:64705 | obfs4 | |
+|nxr | N/A | F2DD435FD909A308CE3A4E9D24231E4D22CC59A8 | true | Running, V2Dir, Valid | 2026-07-10 00:53:47 | 2026-07-10 00:53:47 | 2026-07-10 00:36:24 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.239.131.102:53644, [fd9f:2e19:3bcf::3d:d6da]:53644 |  | |
