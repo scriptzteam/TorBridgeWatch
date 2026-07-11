@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | your_email@example.com | ABF59BC26001D0C58849B07FDB9E287931D061CC | true | Running, V2Dir, Valid | 2026-07-11 03:23:48 | 2026-07-11 00:53:47 | 2026-07-10 23:31:18 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.132.219.76:60174 | obfs4 | |
