@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|freedomsentinel | superadmin@nigge.rs | 6FBFE34DC11D3F3A93268F550B74E6DBABF62D64 | false | Running, V2Dir, Valid | 2026-07-14 00:53:50 | 2026-07-14 00:53:50 | 2026-07-14 00:36:21 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.255.219.35:58913, [fd9f:2e19:3bcf::45:5655]:58913 |  | |
+|Nihilist | nihilist@nowhere.moe | DCA569DA8546F655F2C88962700BA61E66E03D20 | true | Running, V2Dir, Valid | 2026-07-14 02:53:51 | 2026-07-14 01:53:51 | 2026-07-14 01:08:46 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.24.230.226:57240 | obfs4 | |
+|Unnamed | N/A | EE3DD8A150FDBAF41ED42DCC56843384968D930C | true | Running, V2Dir, Valid | 2026-07-14 02:53:51 | 2026-07-14 00:23:50 | 2026-07-13 23:45:20 | 36864 | Tor 0.4.9.11 on Darwin | 0.4.9.11 | recommended | true | N/A | 10.169.208.14:50288 | obfs4 | |
