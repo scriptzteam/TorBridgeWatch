@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Labrelay | N/A | 3322488603CBE37E363225D78F8F754FD3921942 | true | Running, V2Dir, Valid | 2026-07-16 02:44:00 | 2026-07-16 02:14:00 | 2026-06-26 09:01:56 | 546982 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.93.101.205:59576 | obfs4 | |
+|Riehley | znapop@posteo.de | 83C66C2695FCA6BFFE33E19439E570170F6A6D9D | false | V2Dir, Valid | 2026-07-16 02:44:00 | 2026-07-16 01:14:00 | 2026-07-16 00:50:47 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.55.25.203:55305, [fd9f:2e19:3bcf::5a:a1d7]:55305 | obfs4 | |
+|Starlink | torbridge@starlink.ovh | F4D954BF4DE3E73456E074F834BC6C5A18BC6E42 | true | Running, V2Dir, Valid | 2026-07-16 02:44:00 | 2026-07-16 00:44:00 | 2026-07-16 00:30:05 | 72704 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.96.130.37:54898 | obfs4 | |
