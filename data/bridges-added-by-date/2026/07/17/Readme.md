@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|smobfs4c | N/A | CD2B929443FAFDDE253E44CBAA8BC92004B89FC5 | true | Running, V2Dir, Valid | 2026-07-17 09:44:09 | 2026-07-17 09:14:09 | 2026-07-17 09:08:02 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.109.223.16:52366 |  | |
+|RelayNode7f3a | wl73erssib@proton.me | C34CEBBF0F2B12FB3DC435626DD2C6E7F8EE1364 | true | Running, V2Dir, Valid | 2026-07-17 11:44:09 | 2026-07-17 11:44:09 | 2026-07-17 11:28:29 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.90.84.239:55376, [fd9f:2e19:3bcf::28:6277]:55376 | obfs4 | |
+|smobfs4c | N/A | CD2B929443FAFDDE253E44CBAA8BC92004B89FC5 | true | Running, V2Dir, Valid | 2026-07-17 11:44:09 | 2026-07-17 09:14:09 | 2026-07-17 09:08:02 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.109.223.16:52366 |  | |
