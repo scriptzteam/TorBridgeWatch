@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | 5B39ADE97B23AF1D1CC12B8C4E110B28146A1A18 | true | Running, V2Dir, Valid | 2026-07-19 03:44:18 | 2026-07-19 01:44:18 | 2026-07-19 01:21:34 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.228.167.208:54547, [fd9f:2e19:3bcf::bf:56e1]:54547 |  | |
+|TroubledWaters | lordbanquo@tutamail.com | E70FDF61F84099532898710D268C904CCA53AB8C | true | Running, V2Dir, Valid | 2026-07-19 03:44:18 | 2026-07-19 01:14:18 | 2026-07-19 00:54:16 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.237.168.211:58357 |  | |
