@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | HooN2Kat@laposte.net | 0D9A92DF0FA0CFFA0F81F12F76E860C9D7780171 | true | Running, V2Dir, Valid | 2026-07-20 04:44:18 | 2026-07-20 01:44:18 | 2026-07-20 01:42:08 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.98.189.231:52967 | obfs4 | |
