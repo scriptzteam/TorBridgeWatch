@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|pbridge57913457190 | N/A | 098F55C0C34D761E2C319D9513D898CDC09C6EC2 | true | Running, V2Dir, Valid | 2026-07-22 03:44:20 | 2026-07-22 03:44:20 | 2026-07-22 03:18:41 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.21.93.169:61467 | obfs4 | |
+|Schalotte | Administrator <admin at bitte dot jetzt> | 692713FF6CEB04E708F5F152022201F443766A33 | true | Running, V2Dir, Valid | 2026-07-22 03:44:20 | 2026-07-22 00:44:20 | 2026-07-22 00:01:57 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.88.162.16:65438 | obfs4 | |
