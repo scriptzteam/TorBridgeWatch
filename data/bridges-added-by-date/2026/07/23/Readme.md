@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|UnknowBridge02 | syedt2002@gmail.com | 166987B63503ACE13E8E3EAA74140CFEB3C83044 | true | Running, V2Dir, Valid | 2026-07-23 00:44:20 | 2026-07-23 00:14:20 | 2026-07-22 23:58:39 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.159.252.165:55896, [fd9f:2e19:3bcf::80:b759]:55896 | obfs4 | |
