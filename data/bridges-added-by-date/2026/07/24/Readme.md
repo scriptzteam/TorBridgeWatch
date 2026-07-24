@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | Wangzyfirst [@] [NO-SPAM] proton[.]me (please remove brackets and NO-SPAM) | 24C51027E9830C12341948CC87E338A05996EE47 | true | Running, Valid | 2026-07-24 03:14:23 | 2026-07-24 00:44:22 | 2026-07-24 00:15:33 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.220.210.184:52819 | obfs4 | |
