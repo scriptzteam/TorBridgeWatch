@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|bridge | none | 5C1C9D84C6777B163EC0059CC82ABA1FBB196084 | true | Running, V2Dir, Valid | 2026-07-27 04:44:25 | 2026-07-27 01:14:25 | 2026-07-27 04:23:18 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.112.127.10:52184 |  | |
+|thessaloniki | thessaloniki.7cm62@aleeas.com | 9CC5CC9851353B91CAC892CBD8A4F8F32333E330 | true | Running, V2Dir, Valid | 2026-07-27 04:44:25 | 2026-07-27 04:44:25 | 2026-07-27 04:19:14 | 0 | Tor 0.4.9.11 on OpenBSD | 0.4.9.11 | recommended | true | N/A | 10.94.36.18:62274 | obfs4 | |
+|Unnamed | N/A | AE5FA2ED3E3FCB454C699732526317F764F15AB6 | true | Running, V2Dir, Valid | 2026-07-27 04:44:25 | 2026-07-27 01:44:25 | 2026-07-27 01:07:26 | 0 | Tor 0.4.9.10 on Linux | 0.4.9.10 | recommended | true | N/A | 10.144.28.10:52855 | obfs4 | |
