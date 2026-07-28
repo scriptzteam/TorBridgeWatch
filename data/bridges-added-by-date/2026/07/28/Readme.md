@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|SECURITYOPS | security ops | 35ED214470E9FBA7E24664E5F7D046A3F73FB209 | false | Valid | 2026-07-28 03:44:26 | 2026-07-28 00:44:26 | 2026-07-28 00:07:28 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.117.104.121:60835 | obfs4 | |
+|BridgetJones | wantan@duck.com | 62F67B2672CE6510ABBC7E3634D6C9632EEFB94B | true | Running, V2Dir, Valid | 2026-07-28 03:44:26 | 2026-07-28 02:14:26 | 2026-07-28 00:58:00 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.230.111.82:53773 | obfs4 | |
