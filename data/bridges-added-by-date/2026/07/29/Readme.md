@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|peaceful | <alexusono@proton.me> | 437D8B7F98AA26CEBBE7FF966FF9D1EF60D47F0C | true | Running, V2Dir, Valid | 2026-07-29 03:14:27 | 2026-07-29 02:44:27 | 2026-07-29 00:44:00 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.89.75.171:54130 | webtunnel | |
+|iextremetor1 | IEXTREME NOC <noc@iextreme.org> | FF9507E67BAEB45927C2994C8FFDE102FCAF56AC | true | Running, V2Dir, Valid | 2026-07-29 03:14:27 | 2026-07-29 02:14:27 | 2026-07-29 01:38:26 | 4524032 | Tor 0.4.8.12 on Linux | 0.4.8.12 | obsolete | false | N/A | 10.131.243.97:65021 |  | |
