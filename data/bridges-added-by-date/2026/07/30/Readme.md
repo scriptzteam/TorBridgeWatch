@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|qkxlj | N/A | 65724337248A7E1E09AB795002EBE5A70AE7D509 | true | Running, V2Dir, Valid | 2026-07-30 17:44:28 | 2026-07-30 11:44:28 | 2026-07-30 11:28:47 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.164.148.198:53985, [fd9f:2e19:3bcf::b5:a05c]:53985 | obfs4 | |
+|qkxlj | N/A | 65724337248A7E1E09AB795002EBE5A70AE7D509 | true | Running, V2Dir, Valid | 2026-07-30 18:44:28 | 2026-07-30 11:44:28 | 2026-07-30 11:28:47 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.164.148.198:53985, [fd9f:2e19:3bcf::b5:a05c]:53985 | obfs4 | |
