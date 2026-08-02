@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|relay | none | 79D1288498DA2098000CBD8F5477270582387177 | true | Running, V2Dir, Valid | 2026-08-02 03:44:31 | 2026-08-02 01:14:31 | 2026-08-02 00:59:46 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.123.24.15:53748, [fd9f:2e19:3bcf::71:5d70]:53748 | obfs4 | |
+|WUGBridge | N/A | 7ED6D39ADDFA58F14B905760533630A3B8862E83 | true | Running, V2Dir, Valid | 2026-08-02 03:44:31 | 2026-08-02 03:14:31 | 2026-08-02 02:31:22 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.160.28.55:56785, [fd9f:2e19:3bcf::0c:62fd]:56785 |  | |
