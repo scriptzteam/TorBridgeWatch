@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|WTBrmTJVGFW4Dl | diracdeltain73@gmail.com | 6C33FCE53BEF59C1A6C2F162D5655ACB96477E21 | true | Running, V2Dir, Valid | 2026-08-05 00:44:32 | 2026-08-05 00:14:33 | 2026-08-05 00:08:51 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.141.187.117:56019, [fd9f:2e19:3bcf::49:b667]:56019 | webtunnel | |
+|WTBrmTJVGFW4Dl | diracdeltain73@gmail.com | 6C33FCE53BEF59C1A6C2F162D5655ACB96477E21 | false | V2Dir, Valid | 2026-08-05 03:44:33 | 2026-08-05 00:14:33 | 2026-08-05 00:08:51 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.141.187.117:56019, [fd9f:2e19:3bcf::49:b667]:56019 | webtunnel | |
