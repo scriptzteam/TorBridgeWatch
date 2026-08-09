@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|shopnode | none | 91590A4EB5CDDCAFA9B0A81F3D60681A02D8375D | true | Running, V2Dir, Valid | 2026-08-09 04:44:36 | 2026-08-09 03:44:36 | 2026-08-09 03:28:16 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.201.40.126:49756 | webtunnel | |
+|shopnode | none | 91590A4EB5CDDCAFA9B0A81F3D60681A02D8375D | true | Running, V2Dir, Valid | 2026-08-09 05:44:36 | 2026-08-09 03:44:36 | 2026-08-09 03:28:16 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.201.40.126:49756 | webtunnel | |
+|SH22 | tom070175 at gmail dot com | FB1495B9B787E5ADC836503CE8BA5E82AD2756DD | true | Running, V2Dir, Valid | 2026-08-09 05:44:36 | 2026-08-09 05:14:36 | 2026-08-09 04:20:11 | 0 | Tor 0.4.8.13 on Windows 8 [or later] | 0.4.8.13 | obsolete | false | N/A | 10.30.68.167:52922 | obfs4 | |
