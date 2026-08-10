@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Cesario | i@vzstless.moe | B44A30772DF0371204C9A86DC1EA680A42982E2D | true | Running, V2Dir, Valid | 2026-08-10 05:44:36 | 2026-08-10 02:44:36 | 2026-08-10 02:35:29 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.132.11.30:60776, [fd9f:2e19:3bcf::80:c5a3]:60776 | obfs4 | |
+|Cesario | i@vzstless.moe | B44A30772DF0371204C9A86DC1EA680A42982E2D | true | Running, V2Dir, Valid | 2026-08-10 07:44:36 | 2026-08-10 02:44:36 | 2026-08-10 02:35:29 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.132.11.30:60776, [fd9f:2e19:3bcf::80:c5a3]:60776 | obfs4 | |
