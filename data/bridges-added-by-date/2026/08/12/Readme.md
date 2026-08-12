@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | eatme@bitemy.org | 3D8461F3D773110CDDFC9FEFD1D747F60B38F1CA | true | Running, V2Dir, Valid | 2026-08-12 01:56:18 | 2026-08-12 00:26:18 | 2026-08-12 00:07:02 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.181.219.91:60448, [fd9f:2e19:3bcf::d4:df4b]:60448 |  | |
+|Pi5SnowflakeBridge | abuse@jvguidi.com.br | CEABD7911C250EF4B8637013856B2EA62DF61134 | true | Running, V2Dir, Valid | 2026-08-12 01:56:18 | 2026-08-12 00:56:18 | 2026-08-12 00:34:19 | 153600 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.33.250.84:55384 | obfs4 | |
