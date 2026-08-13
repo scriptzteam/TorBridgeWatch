@@ -545,7 +545,6 @@ Sr2Bridge4583 | hello from onionland | 2959B879697AD38DA802F889204A476C78B1E0CE 
 Sr2Bridge4584 | hello from onionland | 296145228AB78182AD0D7CD81B8C7832B59E19FC | N/A | obfs4 | 
 Unnamed | N/A | 29A62EEFF8720369D4ECEC79854E96060C40F9DD | settings | obfs4 | 
 pinguela4 | gus@riseup.net | 29C3AF545D00A8A32ED17E511FC7F8E0EDE09FD2 | settings | obfs4 | 
-poppintags | N/A | 29C988D1B69362755403AE2BB89B54F6BF2B8FC6 | N/A | obfs4 | 
 FletcherBlueBridge | tor@fletch.blue | 29CDEA4784C0B3A21AA9EED2EBC857121A7987E1 | email | obfs4 | 
 C3L | 0x02225522 Frenn vun der Enn (FVDE) <info AT enn DOT lu> | 29D51C1B539CBF593785D75418B14E266B5934AD | settings | obfs4 | ru
 CSGuardTorBridge | 0320c8867fccd45d6a6f7a577ed09773f8929a6e CSGuard <admin AT csguard DOT eu> | 29E1F1FFBC4F4B306F3E3FFB52F58757620EA34C | https | obfs4 | 
@@ -1977,7 +1976,7 @@ MyPrivateBridge | your@email.example | 93C0556C9D47F6B387A432F93FB54B869CE02C01 
 Baerchen4 | jke-webtunnel[at]tutamail[dot]com | 93C5A5B9C46D9CC8B80487226D103EC5E20E44C8 | https | webtunnel | 
 TriplebitBH | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 93F2E5F6647E5C1DFB5639FBDD37698D7CE176D7 | https | obfs4 | 
 cursus2 | mail@reconditus.de | 93F52704E5B25FF4D1ECBF0636B3620A8E7DF033 | moat | obfs4 | 
-meowingmonster | tor@meowing.monster | 9409E6F2253C0BF9795B1F681EBFADB56CDB7EA1 | settings | obfs4 | 
+meowingmonster | tor -at- meowing -dot- monster | 9409E6F2253C0BF9795B1F681EBFADB56CDB7EA1 | settings | obfs4 | 
 LeRoiDeLaMoutarde | tor-node@ferreira.ovh | 940DC9DE0419592BCE2816260D6E206315CCB403 | email | obfs4 | 
 Sr2Bridge4585 | hello from onionland | 942AB30DD36C1EBC9AAD081A3479F4A45F090A43 | N/A | obfs4 | 
 mischief | <mischief@offblast.org> | 94485C78D9732C5FDD44F1BBFE544EA59F41A89B | https | webtunnel | 
@@ -2065,13 +2064,13 @@ BigKahunaBurger | N/A | 9A3C5AAC82EEB69BB4E1C169AE9D7614A12FFF11 | none | obfs4 
 MyPrivateBridge | nobody@nowhere.tld | 9A71A157698A2CAD502E33976DBC6A812F3956D1 | none | obfs4 | 
 BunWebTunnel | <alexusono@proton.me> | 9A71D60FDF252F36E3BFECC78576306167083278 | https | webtunnel | 
 Sr2Bridge4584 | hello from onionland | 9A8B1F2DCC8474F56F877058070E7B1DF4B03268 | N/A | obfs4 | 
-Torware | nobody@example.com | 9AA9B196F0D16E2D534186D9C6C6AAEAE0196009 | N/A | obfs4 | 
 Sr2Bridge4583 | hello from onionland | 9AB3B2D0E1EB0AAC0D505C27AC28C4B6E2265EAE | N/A | obfs4 | 
 Quetzalcoatl5 | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh ciissversion:2 | 9AD591B488278A8884C7155508ED132AE27F5A10 | https | obfs4 | 
 Unnamed | N/A | 9AD66B55AC4EC534542CDE24068C5358D89DC1F1 | none | obfs4 | 
 OverTroubledWaters1 | N/A | 9B31B27C77098BDB8CB9DB26C9613C6B97F809C0 | settings | obfs4 | 
 Sr2Bridge4584 | hello from onionland | 9B370656B58CE7A20882EA7D83D467F25FC768AE | N/A | obfs4 | 
 Pusit | tor@pusit.ph | 9B38F351D752EC2DBB59AB414F17F3D5E40C0EBA | settings | obfs4 | 
+DockerObfs4Bridge | thegeeking01@protonmail.com | 9B4574CB7C772B4296C6DBEF364AB4EB35C94695 | N/A | obfs4 | 
 WTBrAsusmSGOnMLPZ4 | tor@anistratov.net | 9B5F208A0F4315E371664A9AC2DE63896EBEDE25 | settings | webtunnel | 
 ki | N/A | 9B93BB21C7A62E5DCC01BEC7FA9BD41FE4C8B6EE | email |  | 
 Sr2Bridge4585 | hello from onionland | 9BA198186B4FC6D1C3C95C2DA971B8ECE9F1C4EB | N/A | obfs4 | 
@@ -2363,7 +2362,7 @@ Sr2Bridge4585 | hello from onionland | B10D040BDF3FABCF8D38B855A0988BD41B75CB36 
 marimwt01 | mateusmarim@trainwithmeapp.com | B11172FA7EB2B0F63760416D30B00389F8D352F9 | email | webtunnel | 
 Unnamed | N/A | B134839CAE435B836308BDAFF528F5BA8E2DAED2 | telegram | obfs4 | 
 sh97BROBNLAMSDH | stealthprivacy.eu | B1355E5B0629CE30C39802295EE22E5A51A62706 | telegram | obfs4 | 
-as215248bridge09 | Bastiaan Brink <b@stiaanbr.ink> | B1588FFF4A7A428884454E85BDD7544BFF161E00 | https | obfs4 | 
+as215248bridge08 | Bastiaan Brink <b@stiaanbr.ink> | B1588FFF4A7A428884454E85BDD7544BFF161E00 | https | obfs4 | 
 valis3 | gus@riseup.net | B1748725325887BF14815D7067BF49038D400753 | none | obfs4 | 
 WTBr4E0FNcV8Rz | admin@cringe-studios.com | B177A008B673CD5F7E5A3D2B6E13FAC064FD2EB1 | settings | webtunnel | 
 Rick | xbwo.obsessed789@silomails.com | B18B0C548F5E2140B9DAA0CD45389E04A038B635 | settings | obfs4 | 
