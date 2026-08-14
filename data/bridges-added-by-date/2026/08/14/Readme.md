@@ -1,4 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Hanaysha | N/A | 1D3F535BF71BE5DC2FFA53E54247BA4D1020471E | true | Running, V2Dir, Valid | 2026-08-14 01:56:21 | 2026-08-14 01:56:21 | 2026-08-14 01:23:57 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.126.105.148:62663 |  | |
-|Unnamed | N/A | 3AF39CE2A711DA3D40B1FB6570CF7A304D1D065B | true | Running, V2Dir, Valid | 2026-08-14 01:56:21 | 2026-08-14 01:26:21 | 2026-08-14 00:49:18 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.245.103.103:64399 | obfs3, obfs4 | |
+|Hanaysha | N/A | 1D3F535BF71BE5DC2FFA53E54247BA4D1020471E | true | Running, V2Dir, Valid | 2026-08-14 03:56:21 | 2026-08-14 01:56:21 | 2026-08-14 01:23:57 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | 10.126.105.148:62663 |  | |
+|Unnamed | N/A | 3AF39CE2A711DA3D40B1FB6570CF7A304D1D065B | true | Running, V2Dir, Valid | 2026-08-14 03:56:21 | 2026-08-14 01:26:21 | 2026-08-14 00:49:18 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.245.103.103:64399 | obfs3, obfs4 | |
