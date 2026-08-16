@@ -1154,7 +1154,7 @@ Sr2Bridge4585 | hello from onionland | 542E16A01F3B70F8192EDB17E0A9B0E1E1D6995B 
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | telegram | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 5480CEB859412DF164A75CE65917B651A25124F7 | none | obfs4 | 
-flakey9 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey1 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | 
 Sr2Bridge4584 | hello from onionland | 5492DD136C172E15318940EDDD8F79C8B634EA67 | N/A | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 54ADB64FED7094054D663C31F593A2B0D17F1760 | N/A | obfs4 | 
@@ -1292,6 +1292,7 @@ DockerObfs4Bridge | contact@cybersholt.com | 5FC2BED5356EB3E7005F6D4B37B96262FE3
 DockerObfs4Bridge | torbridge.outweigh171@passmail.net | 5FEFBB2211A7F7FE3EB36197341BC1F380BCE6AA | telegram | obfs4 | 
 myAwesomeBridge | torbridgecontact.yso38w@simplelogin.co | 600BA279093A5CA88A9EB6B26293D1E6BA6B2C68 | https | obfs4 | 
 SKEx86ns | skemedia@mail.ru | 6026887602C89A316AA908FCDD3D1FB073A78A90 | none | obfs4 | 
+Unnamed | eatme@bitemy.org | 603BE434EADC2BBB9ED79F5C708766CC7FB10B9F | N/A |  | 
 Sr2Bridge4524 | this used to be sanitised and I did not write the code to populate it yet | 60498D361E03108A984D850D342B1B0A9E5522A5 | N/A | obfs4 | 
 MyWatchBegins | mywatchbegins@atomicmail.io | 607114A5A9F94442944B49A65E5757678BC83C7B | settings | obfs4 | 
 dimsum2 | gus@riseup.net | 60DE913C42B8D7BB34148092B5879374D9F409EA | settings | obfs4 | 
@@ -1771,7 +1772,6 @@ Sr2Bridge4583 | hello from onionland | 84538B9E7BF370B397CA76C513E42CC55E03654E 
 democratia | democratia <democratia.gjnna@8shield.net> | 8455D1131DC49B48FE3894FF5306DC52DBB50EF4 | settings | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 8467D3B0B749FBFB4B310D85292AC2F1E1D370B9 | N/A | obfs4 | 
 TorBridge2025 | gizmos-dipoles1x@icloud.com | 847AD7C41AF67F430DD7A0C6990E118EB8145DF4 | https | obfs4 | 
-lfg03 | gus@riseup.net | 847F05282A644779EC902BEF2FE2CF723403A6A7 | N/A | obfs4 | 
 Luttor | 0x82A9F369F3F3A95D06CDF6B635EB19FFFD22C9D1 edn0308 AT web dot de | 8484BE7B0444069B488D0CC5DDC5F757CF51AE9D | settings | obfs4 | 
 Hardin1 | <1@1.com> | 84A22FC516D5192B8D85DCF3AFD27766C37651B4 | email |  | 
 Sr2Bridge4583 | hello from onionland | 84C7B57068EF0A6798B3719FDC672C0EAE49D713 | N/A | obfs4 | 
@@ -2371,7 +2371,7 @@ Sr2Bridge4585 | hello from onionland | B10D040BDF3FABCF8D38B855A0988BD41B75CB36 
 marimwt01 | mateusmarim@trainwithmeapp.com | B11172FA7EB2B0F63760416D30B00389F8D352F9 | email | webtunnel | 
 Unnamed | N/A | B134839CAE435B836308BDAFF528F5BA8E2DAED2 | telegram | obfs4 | 
 sh97BROBNLAMSDH | stealthprivacy.eu | B1355E5B0629CE30C39802295EE22E5A51A62706 | telegram | obfs4 | 
-as215248bridge09 | Bastiaan Brink <b@stiaanbr.ink> | B1588FFF4A7A428884454E85BDD7544BFF161E00 | https | obfs4 | 
+as215248bridge08 | Bastiaan Brink <b@stiaanbr.ink> | B1588FFF4A7A428884454E85BDD7544BFF161E00 | https | obfs4 | 
 valis3 | gus@riseup.net | B1748725325887BF14815D7067BF49038D400753 | none | obfs4 | 
 WTBr4E0FNcV8Rz | admin@cringe-studios.com | B177A008B673CD5F7E5A3D2B6E13FAC064FD2EB1 | settings | webtunnel | 
 Rick | xbwo.obsessed789@silomails.com | B18B0C548F5E2140B9DAA0CD45389E04A038B635 | settings | obfs4 | 
@@ -3010,7 +3010,6 @@ a | a@a.com | DDE792021990E7DA750D6A512B263971A9BFABBB | telegram | obfs4 |
 Heisenberg5 | Heisenberg@example.com | DE025061468C8A0053B8CFF605349F478C5C5A8D | settings | obfs4 | 
 GCBridge | GCRlay@proton.me | DE042679314AD7572D8C9E81A2DA3058DD511559 | settings | webtunnel | 
 Quetzalcoatl20Sean | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh ciissversion:2 | DE17F9DA69508C8653B54DDCF5D1A262D7FD0E42 | settings | obfs4 | 
-DockerObfs4Bridge | ere@.te.com | DE1B6C6B7D5746022923CC6B1F78763E4EA0BF8C | N/A | obfs4 | 
 DockerObfs4Bridge | boyan@naspoint.eu | DE267F91788F813C0E56F321DE6A8264A6C4E145 | settings | obfs4 | 
 anon2 | jens@anonymitaet-im-inter.net | DE3455CE3A97579C45C2DA86AEAE31CE8695AFE7 | telegram | obfs4 | 
 Unnamed | N/A | DE3FDF3BD59A055469D4F0768D87D182567C9027 | reserved |  | 
