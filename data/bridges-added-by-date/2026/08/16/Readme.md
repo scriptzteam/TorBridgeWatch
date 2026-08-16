@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DockerObfs4Bridge | hsdfwp@gmail.com | C3874C3CBB8A9220014DA91B6CBFBB6D0590A460 | true | Running, V2Dir, Valid | 2026-08-16 04:59:32 | 2026-08-16 04:59:32 | 2026-08-16 04:45:25 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.16.157.155:53875 | obfs4 | |
+|expectingunexpected | Random Person <nobody at example dot com> | 624C1D46EF37C0952C7EB5E798DB6B577ECF3A96 | true | Running, V2Dir, Valid | 2026-08-16 05:59:32 | 2026-08-16 05:29:32 | 2026-08-16 03:23:14 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.89.91.62:51746 |  | |
+|DockerObfs4Bridge | hsdfwp@gmail.com | C3874C3CBB8A9220014DA91B6CBFBB6D0590A460 | true | Running, V2Dir, Valid | 2026-08-16 05:59:32 | 2026-08-16 04:59:32 | 2026-08-16 04:45:25 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.16.157.155:53875 | obfs4 | |
