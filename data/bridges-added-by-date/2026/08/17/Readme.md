@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | 155990314B5EDF54B8CEB1B0BBB5D3A40AA3137C | true | Running, V2Dir, Valid | 2026-08-17 00:42:28 | 2026-08-17 00:12:28 | 2026-08-17 00:06:58 | 87040 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | 10.169.143.208:53837, [fd9f:2e19:3bcf::ad:3d6c]:53837 |  | |
+|Unnamed | eatme@bitemy.org | D5C0FF0DCF6ECE0A5F428DDC1247BD57E7443693 | true | Running, V2Dir, Valid | 2026-08-17 00:42:28 | 2026-08-17 00:42:28 | 2026-08-17 00:37:04 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.132.133.19:62899, [fd9f:2e19:3bcf::48:55c9]:62899 |  | |
