@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|NetMonNetworksBR2 | netmonnetwokrs@gmail.com | 74E9C8C70D7D1D650E8FD9DF129EC28A6268ECDC | true | Running, V2Dir, Valid | 2026-08-18 00:50:54 | 2026-08-18 00:20:53 | 2026-08-17 23:45:47 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.251.136.66:60488 | obfs4 | |
+|engagingaugmented | dellhplaptop@pm.me | 2FB87F5291EC59F8AF728A656E02A792885D7554 | true | Running, V2Dir, Valid | 2026-08-18 01:50:54 | 2026-08-18 01:50:54 | 2026-08-18 01:56:32 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.131.222.176:61867 | obfs4 | |
+|NetMonNetworksBR2 | netmonnetwokrs@gmail.com | 74E9C8C70D7D1D650E8FD9DF129EC28A6268ECDC | true | Running, V2Dir, Valid | 2026-08-18 01:50:54 | 2026-08-18 00:20:53 | 2026-08-17 23:45:47 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.251.136.66:60488 | obfs4 | |
