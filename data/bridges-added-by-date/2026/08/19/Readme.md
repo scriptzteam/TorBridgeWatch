@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DockerObfs4Bridge | thecubic@thecubic.net | F95840640D75337E48DD9FAEF6D1DB0849C18919 | true | Running, V2Dir, Valid | 2026-08-19 05:42:03 | 2026-08-19 05:42:03 | 2026-08-19 03:34:16 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.230.157.241:58166 | obfs4 | |
+|CityOfGlass2 | peterstillman@mail.i2p | 2181E0FE9011500003152BB0A036922682B2E895 | true | Running, V2Dir, Valid | 2026-08-19 06:42:03 | 2026-08-19 06:42:03 | 2026-07-11 21:10:23 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.9.213.76:61470 | obfs4 | |
+|DockerObfs4Bridge | thecubic@thecubic.net | F95840640D75337E48DD9FAEF6D1DB0849C18919 | true | Running, V2Dir, Valid | 2026-08-19 06:42:03 | 2026-08-19 05:42:03 | 2026-08-19 03:34:16 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.230.157.241:58166 | obfs4 | |
