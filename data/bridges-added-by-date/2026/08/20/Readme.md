@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|PickAGarden | corporategrayson@pm.me | B1A69C3AAB7EEEBB115B9B9D1F7899F699C013A0 | true | Running, V2Dir, Valid | 2026-08-20 04:51:39 | 2026-08-20 02:51:38 | 2026-08-20 02:49:06 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.121.21.251:54760 | obfs4 | |
+|Yasur | <hjb@hjbaader.de> | 31CB18F1F46F652CE3D2DB5F526933A9A4AFBE22 | true | Running, V2Dir, Valid | 2026-08-20 05:51:39 | 2026-08-20 05:51:39 | 2026-08-20 05:45:31 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | obsolete | false | N/A | 10.219.233.139:51344, [fd9f:2e19:3bcf::ba:7a30]:51344 | obfs4 | |
+|PickAGarden | corporategrayson@pm.me | B1A69C3AAB7EEEBB115B9B9D1F7899F699C013A0 | true | Running, V2Dir, Valid | 2026-08-20 05:51:39 | 2026-08-20 02:51:38 | 2026-08-20 02:49:06 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.121.21.251:54760 | obfs4 | |
