@@ -1147,7 +1147,7 @@ Sr2Bridge4585 | hello from onionland | 542E16A01F3B70F8192EDB17E0A9B0E1E1D6995B 
 anduinRelay01 | 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> | 543C423A2B33B771005EC95C9B1E8AA0654B28DD | settings |  | 
 idletor | idlecode@proton.me | 5468244F7C0925DFB53BDBC04DB032697CC6D3E9 | telegram | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 5480CEB859412DF164A75CE65917B651A25124F7 | none | obfs4 | 
-flakey11 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
+flakey1 | N/A | 5481936581E23D2D178105D44DB6915AB06BFB7F | N/A | snowflake | 
 IowaNode | N/A | 548DB979B671552F2E54B324669844A084AEF368 | email |  | 
 Sr2Bridge4584 | hello from onionland | 5492DD136C172E15318940EDDD8F79C8B634EA67 | N/A | obfs4 | 
 Sr2Bridge4582 | hello from onionland | 54ADB64FED7094054D663C31F593A2B0D17F1760 | N/A | obfs4 | 
@@ -2805,7 +2805,6 @@ ElfBarKonsument | elfbarkonsument@proton.me | D1B2ADB942E7C17B225E5CB0FE74B8FBBC
 exbCA | tor(at)0x2142(dot)net - bitcoin:BC1QS45FKEUNQWZUK9WTPZYVETE2JMVXPUM2ZCARCT - bitcoin:BC1P90V5HKL4U4DK8T5RFDVT445C2VLQE85RHWNDTJYK6YNJY7DFQQTSHJZCHC - litecoin:LTC1QTV0TQYRADJZ53PQM928S6FVGG0KDK07MKGQRKJ | D1B755AA37218883E16F38902B982393B8A06C5C | settings | obfs4 | 
 Sr2Bridge4583 | hello from onionland | D1C81E552CF23F42513EAD15451AED8A9F9CECFB | N/A | obfs4 | 
 S2cSpzuzxl | jan-tor-webtunnel-bridge@kantert.net | D1CA9DE86CB53B77C2E8ECFE9184F752E4FE916A | settings | webtunnel | 
-UnredactedWT2AMS | admin[@]unredacted.org | D1CE4A92315A7D2C94D37BC577798A83F14F0FE7 | N/A | webtunnel | 
 NotriddleWebtunnelF | <notriddle@protonmail.com> | D1F36ABDB72A4DF2C032660022C586A58BA1ABED | none | webtunnel | 
 Florence | p6wjszbqc@mozmail.com | D1FEEE6A4340A1C2EF0745E5965DD8D6CA311189 | settings | obfs4 | 
 Sr2Bridge4584 | hello from onionland | D209A2A0C0C67ADA85037B32D392F1FC9D96CA62 | N/A | obfs4 | 
@@ -2882,6 +2881,7 @@ ForPrivacyNETbr66 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rs
 Sr2Bridge4584 | hello from onionland | D654DEA06C1F37DD2A141362CFF154EDAABAE490 | none | obfs4 | 
 mwctunnel | no-contact@mwc.mw | D66DF920017F4E1F0D24100B2E548089EDDB09EC | none | webtunnel | 
 zmicier | N/A | D67AA0D6FD730F131CBC4D00306198CD5DA343AE | telegram | obfs4 | 
+rpibridge | tor@dada.is | D681B652CE07676F0A1B0D0ACE30C70F4520E4DF | N/A | obfs4 | 
 MPNBridge1 | Neel Chauhan <neel AT neelc DOT org> | D68328A07CD61E9D673630FBE555E9D40E56A664 | https | obfs4 | 
 VoidlyBridge01 | voidly-bridge <admin@voidly.ai> | D693D8A3BFF03198931A80960BF6AFE29F22E219 | settings | obfs4 | 
 Sr2Bridge4582 | hello from onionland | D6950548EB865C5C52FA0719E1BAD02C6A5B23BE | N/A | obfs4 | 
@@ -3018,7 +3018,7 @@ Sr2Bridge4585 | hello from onionland | DF669CCFB7AFE0C7A7CBBBC234D132990FA038B1 
 BebousFreedomNode | admin@bebous.fr | DF91759C2901462E34A2F4F500D1319183EA73BF | https | obfs4 | 
 Sr2Bridge4583 | hello from onionland | DF9E6FAF90FB458C2615F807CE2269A960D40BE7 | none | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS161 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS61 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
 DockerObfs4Bridge | Quartet2201@proton.me | E01A2182184427A99D4DD597217D5AB7BABC2FF9 | settings | obfs4 | 
 Lugabe | <tor-relays@lists.torproject.org> | E01E95EAA90172BED465E909858630F762733CB9 | telegram | webtunnel | 
@@ -3260,7 +3260,6 @@ WTBr0NSvJNqdpx | gus@riseup.net | F29B9932657BEFDFFB7CAE8BA6B6357BB77E4611 | tel
 OnionPie | grafanorak@gmail.com | F2A42C4B69D6CA6755F99B27DB0F6AAE85809AF4 | telegram | obfs4 | 
 GaleosWT | victor@example.invalid | F2BD37260934B1B615FFCCE9223AA973E3C60189 | none | webtunnel | 
 EksisPriva | EksisRelay <relay@eksis.one> | F2C1B3D7702CCB86A76670F38B43953936C9C8C4 | settings | obfs4 | 
-NoTrollBridge | <tor.bridge@diektronics.com> | F2C773CCCA9A795F500529F8EE81A22FE1A3D269 | N/A | obfs4 | 
 NexarRelay | N/A | F2DD435FD909A308CE3A4E9D24231E4D22CC59A8 | https |  | 
 Unnamed | N/A | F31F405D67A92692930DAC40F43A315DE7260030 | email | obfs4 | 
 hellowebtun4 | iliketorrelays@protonmail.ch url:pub-be6c349657984fa18e793514ebe2d7a8.r2.dev proof:uri-rsa ciissversion:2 | F32CC32B0EEC1DD4A307AA45E9ECB45B767B76F5 | https | obfs4 | 
