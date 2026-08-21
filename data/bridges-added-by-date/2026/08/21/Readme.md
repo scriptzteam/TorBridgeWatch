@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Bridge | N/A | 263B97A19C640BEC1CC773DD6360445628373EAC | true | Running, Valid | 2026-08-21 06:51:40 | 2026-08-21 01:21:40 | 2026-08-21 01:19:46 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.223.78.213:63164, [fd9f:2e19:3bcf::f2:c4c8]:63164 | obfs4 | |
+|Bridge | N/A | 263B97A19C640BEC1CC773DD6360445628373EAC | true | Running, Valid | 2026-08-21 07:51:40 | 2026-08-21 01:21:40 | 2026-08-21 01:19:46 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.223.78.213:63164, [fd9f:2e19:3bcf::f2:c4c8]:63164 | obfs4 | |
+|DockerObfs4Bridge | 9cfdtzee4@mozmail.com | F9B2CC1AADCEA740769D039AA94934CDF2720646 | true | Running, V2Dir, Valid | 2026-08-21 07:51:40 | 2026-08-21 07:21:40 | 2026-08-21 06:19:06 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.47.225.255:49491 | obfs4 | |
