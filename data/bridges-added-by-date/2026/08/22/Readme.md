@@ -1,4 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Unnamed | N/A | 2BDA6E41646AA280562C53099D7801550FBE6E85 | true | Running, V2Dir, Valid | 2026-08-22 03:59:01 | 2026-08-22 02:59:01 | 2026-08-22 02:45:07 | 0 | Tor 0.4.9.11 on FreeBSD | 0.4.9.11 | recommended | true | N/A | 10.229.141.232:58343 |  | |
-|MyBridge | your@email.com | 5D6C2E99D2548CBBA4A6BE3103D0F3ADDA04318B | true | Running, V2Dir, Valid | 2026-08-22 03:59:01 | 2026-08-22 02:29:00 | 2026-08-22 01:38:01 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.55.149.46:52296 | obfs4 | |
+|Unnamed | N/A | 2BDA6E41646AA280562C53099D7801550FBE6E85 | true | Running, V2Dir, Valid | 2026-08-22 04:59:01 | 2026-08-22 02:59:01 | 2026-08-22 03:15:07 | 0 | Tor 0.4.9.11 on FreeBSD | 0.4.9.11 | recommended | true | N/A | 10.229.141.232:58343 |  | |
+|MyBridge | your@email.com | 5D6C2E99D2548CBBA4A6BE3103D0F3ADDA04318B | false | V2Dir, Valid | 2026-08-22 04:59:01 | 2026-08-22 02:29:00 | 2026-08-22 01:38:01 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.55.149.46:52296 | obfs4 | |
