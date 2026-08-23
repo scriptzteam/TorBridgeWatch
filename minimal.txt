@@ -1439,6 +1439,7 @@ KrnlHK | <nt@krnl32.win> | 6B14BBCFEE5E051C5807E73FC1CA8DC164453956 | email | ob
 eldiablo1971 | Random Person eldiablo1971@tutamail.com | 6B52256FEE4F9814057280E82BFB16F87C342078 | settings |  | 
 zeng | nobody@example.com | 6B68DA366817B4685BA0D62B568D3757E7D2EA17 | https | obfs4 | 
 DXV7520WebTunnel | admin@caspervk.net | 6B6F1416AD7E4ECD29176133C3E032CF20E810AC | settings | webtunnel | 
+Yasur | <hjb@hjbaader.de> | 6B8692E846B2AEDE66F951B6CF22E1171C5D2616 | N/A | obfs4 | 
 NetDevPX | <tor@netdev.cloud> | 6B9BB427AADF96F4C0012BC47950D0642F757E49 | settings |  | 
 Sr2Bridge4583 | hello from onionland | 6BA6BEC79187960B48934B2F6FD6B77BD0FAB6F9 | N/A | obfs4 | 
 NAME | <address@email.com> | 6BBA08F73FCBA916CDD2AB8E0B54379F837210D7 | https |  | 
@@ -2781,6 +2782,7 @@ Bridge001 | your@email.com（随便写或留空） | CF1DF4218D58016CD3E9A8E9D68
 SomeOnesWebTunnel | abuse@example.com | CF2F8A82D853A26FC18D09FF99A1685F081EB888 | https | webtunnel | 
 Sr2Bridge4583 | hello from onionland | CF3ADA1F67575DE9580BBD24D44E6EF4E18CFF7D | N/A | obfs4 | 
 Sr2Bridge4584 | hello from onionland | CF50EED88832B5549F78E6EFF755789B30D41CA0 | N/A | obfs4 | 
+illuminatus | N/A | CF5364F1ACEAF4690E871D99FD1C9F2B66E767A7 | N/A |  | 
 bzlvbridge | admin@bp.bzlv.bar | CF5564D86AD713CC2E6C5AF042EA46C625946E91 | telegram | obfs4 | 
 Unnamed | N/A | CF57EE70B4F2B1D7AEAEF2406B340CD767028C93 | email |  | 
 DockerObfs4Bridge | andres.morales@web.de | CF67F79BF7CB98D61D1B204F4F5A5F85CFE9B07C | email | obfs4 | 
@@ -3027,7 +3029,7 @@ Sr2Bridge4585 | hello from onionland | DF669CCFB7AFE0C7A7CBBBC234D132990FA038B1 
 BebousFreedomNode | admin@bebous.fr | DF91759C2901462E34A2F4F500D1319183EA73BF | https | obfs4 | 
 Sr2Bridge4583 | hello from onionland | DF9E6FAF90FB458C2615F807CE2269A960D40BE7 | none | obfs4 | 
 ForPrivacyNETbr11 | email:admin@for-privacy.net identity:https://keyoxide.org/admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 | DFC38229E99F7F8700F575C8220A4EAD93C4A312 | settings | obfs4 | 
-ASUSMerlinOBFS51 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
+ASUSMerlinOBFS61 | tor-operator@domain.tld | DFCB235CC4C119A9271A10FCC1ACF1A480CB912F | settings | obfs4 | 
 lonecandle | <alexusono@proton.me> | DFECFFDB53231C751121D5C043E9AB0D5C94D3FC | settings | webtunnel | 
 DockerObfs4Bridge | Quartet2201@proton.me | E01A2182184427A99D4DD597217D5AB7BABC2FF9 | settings | obfs4 | 
 Lugabe | <tor-relays@lists.torproject.org> | E01E95EAA90172BED465E909858630F762733CB9 | telegram | webtunnel | 
@@ -3188,6 +3190,7 @@ PeelWTsfo302 | peelonion-research@example.invalid | EBBBEC62A777890DADD55EFFFA46
 NTH1B8 | N/A | EBCCC7B609A99355EC9E62E5592A6E72FAF07EDE | settings | obfs4 | 
 private | a@private.st | EBFDFB4966112EF168BF1F598CDA60701AD57BD5 | N/A | webtunnel | 
 PickANickname | contact@jakerulezall.net | EC13E13B18FD3F808EF2C84FA1991AFACAA45A1F | settings | obfs4 | 
+massiveDrelay | Random Person <tor.contact.me.rand@proton.me> | EC537977BB760EF28A332E119D751416295C624A | N/A | obfs4 | 
 Anonymous | Anonymous | EC55647607B263094A6EBE01A3415C8A950018E6 | settings | obfs4 | 
 obfs4Bridgeg1T0G2ZG | letsexbro@gmail.com | EC749AE998AD26D7FB9A4DA1A9760DBBCDA8C634 | none | obfs4 | 
 Unnamed | N/A | EC793E431C001BD7841ECE3FC829A78032A750BA | settings | obfs4 | 
@@ -3270,7 +3273,6 @@ NexarRelay | N/A | F2DD435FD909A308CE3A4E9D24231E4D22CC59A8 | https |  |
 Unnamed | N/A | F31F405D67A92692930DAC40F43A315DE7260030 | email | obfs4 | 
 hellowebtun4 | iliketorrelays@protonmail.ch url:pub-be6c349657984fa18e793514ebe2d7a8.r2.dev proof:uri-rsa ciissversion:2 | F32CC32B0EEC1DD4A307AA45E9ECB45B767B76F5 | https | obfs4 | 
 Carola | <goepfert-paul@proton.me> | F3331F1D0CFCB85614F539449DC6193B3287B67B | https | obfs4 | 
-Yasur | <hjb@hjbaader.de> | F3361912F437FCEAF790243CD276B30FD7839E7B | N/A | obfs4 | 
 430edc7cc90ccdba25 | N/A | F338AB5DECB854572EA572EB67980721DE00BAA3 | settings |  | 
 Puppet01 | 0xa1@mailbox.org | F366E3045FC9376F3993E87FAEC6B9F7E2780E64 | telegram | webtunnel | 
 coatidko | Alex Look <wikiwiki@offshore.rocks> | F3767099617DE5E0407681AA503ED0503219B2CA | telegram | obfs4 | 
