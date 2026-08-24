@@ -1,3 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|fourwinds03b | cvjoint73@protonmail.com | 139DADD6868AB487762A55E09874C91292721040 | true | Running, V2Dir, Valid | 2026-08-24 01:59:27 | 2026-08-24 00:59:27 | 2026-08-24 02:00:34 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.89.191.168:54471, [fd9f:2e19:3bcf::15:163b]:54471 | obfs4 | |
+|fourwinds03b | cvjoint73@protonmail.com | 139DADD6868AB487762A55E09874C91292721040 | true | Running, V2Dir, Valid | 2026-08-24 02:59:27 | 2026-08-24 00:59:27 | 2026-08-24 02:00:34 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.89.191.168:54471, [fd9f:2e19:3bcf::15:163b]:54471 | obfs4 | |
