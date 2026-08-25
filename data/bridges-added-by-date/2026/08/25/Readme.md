@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|LoedgreemB3 | loedgreem AT proton DOT me | 5C23B265D0ECE1EDAB3BE52CDE3D55D80DE86D0F | true | Running, V2Dir, Valid | 2026-08-25 00:59:28 | 2026-08-25 00:29:28 | 2026-08-24 04:59:38 | 8192 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.51.207.48:50112 | obfs4 | |
+|chickensons | chickensons@protonmail.com | D64A560E294B7208CDB7AF818D14134E09AB8B76 | true | Running, V2Dir, Valid | 2026-08-25 00:59:28 | 2026-08-25 00:59:28 | 2026-08-25 00:46:20 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.44.250.169:56230 |  | |
