@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|bridge5144176162 | admin@localhost | 747A6A8F6FF5481B92CED48405529EAC98D44A14 | true | Running, V2Dir, Valid | 2026-08-26 00:59:34 | 2026-08-26 00:29:34 | 2026-08-26 00:28:41 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | 10.255.187.8:51634, [fd9f:2e19:3bcf::de:bdd5]:51634 |  | |
