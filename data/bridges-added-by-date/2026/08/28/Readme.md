@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|dysnomia | <fa-torbridge@haktar.org> | C37CF936B499FCDC263A1C218C7FC04635C8196C | true | Running, V2Dir, Valid | 2026-08-28 06:59:37 | 2026-08-28 04:59:37 | 2026-08-28 04:40:28 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.15.180.239:56188, [fd9f:2e19:3bcf::be:9b75]:56188 |  | |
+|sysheap | tor@sysheap.com | F44DBB5BB2A805AFACEFF685C9E8E3B85BBBFE06 | true | Running, V2Dir, Valid | 2026-08-28 06:59:37 | 2026-08-28 06:59:37 | 2026-08-28 06:40:17 | 863232 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.143.247.249:62294, [fd9f:2e19:3bcf::bb:7a66]:62294 | obfs4 | |
