@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|elementz | admin@htmlelements.dev | 2FF2AFCE0DB115B6C71170149F815496CE929DD2 | true | Running, V2Dir, Valid | 2026-08-29 07:59:38 | 2026-08-29 05:29:38 | 2026-08-29 05:15:24 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.92.233.249:63918 | webtunnel | |
+|DockerObfs4Bridge | your_email@example.com | 986AAF34A980ED178003FA567D229944C8858471 | true | Running, V2Dir, Valid | 2026-08-29 07:59:38 | 2026-08-29 07:29:38 | 2026-08-29 06:59:30 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.100.250.97:64792 | obfs4 | |
