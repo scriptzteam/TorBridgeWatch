@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Bridge2M | torrelaysaregreat@gmail.com xmr:84czj1u2Q4dJ7bzf41TyDFS1i1GPKX5DQGgqZFg85LFge7LLUpCvEMyfjDfAnsZv291gtyMqUsTmxZojB7cRVckyUuih9ar | C1CCF5A5121D5F5750AA77F6B359B43FBECC4D6C | true | Running, Valid | 2026-08-30 12:59:43 | 2026-08-30 12:59:43 | 2026-08-30 12:38:36 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.133.2.223:63732, [fd9f:2e19:3bcf::d5:7fec]:63732 | obfs4 | |
