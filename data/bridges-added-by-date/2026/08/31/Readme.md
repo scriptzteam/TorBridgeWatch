@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|BlackSightBridge | black-sight@proton.me | 3F0EDDA238631831B96DCEE089E117298063E76C | false | V2Dir, Valid | 2026-08-31 05:00:56 | 2026-08-31 00:00:49 | 2026-08-30 23:36:06 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.18.22.212:52111 | obfs4 | |
+|plausiblyDeniable | N/A | 46BBE1E599879AED35A13E2443444EDB9947BF83 | true | Running, V2Dir, Valid | 2026-08-31 05:00:56 | 2026-08-31 01:00:49 | 2026-08-31 00:19:21 | 0 | Tor 0.4.8.25 on OpenBSD | 0.4.8.25 | obsolete | false | N/A | 10.74.190.88:57724 | obfs4 | |
