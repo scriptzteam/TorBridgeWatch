@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|KIT | SCC-TOR-Relay <tor@scc.kit.edu> | 61D72E68CABC7CF80EBD5CEC63F87795639AA905 | true | Running, V2Dir, Valid | 2026-09-03 00:59:30 | 2026-09-03 00:59:30 | 2026-09-03 00:46:30 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.210.160.255:60699, [fd9f:2e19:3bcf::8e:fedf]:60699 | obfs4 | |
