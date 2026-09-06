@@ -574,6 +574,7 @@ rodinux | rodinux07@rodinux.fr | 2AD46EA00473876C16D14A064F85EE64694396CF | tele
 Sr2Bridge4585 | hello from onionland | 2AE09D60137577F1A4345DFA627161256CCE9F70 | N/A | obfs4 | 
 Stockholm | service@tacsik.hu | 2AF81CAE518FD02D7CC45E2012754D55B5145A67 | reserved | obfs4 | 
 DockerObfs4Bridge | admin@example.com | 2AFBB91333E67BF1F8AE41DB4B7704D4D075781B | settings | obfs4 | 
+freedomcry | <address@email.com> | 2B072C0B56DA976ED89801FB4A12CA3485D28CE6 | N/A | obfs4 | 
 Sr2Bridge4583 | hello from onionland | 2B393984B074C4133FD32E34EF207FD6FF89B5C4 | N/A | obfs4 | 
 ParadiseTorBridge4 | Dave Null <dave@null.net> url:flashdance.cx proof:dns | 2B461E67DC57D4B888D2627BAAE6FB5EF27ED9BC | https |  | 
 aiurxBridge | josh@aiurx.com | 2B5187A585AFE7CF28827E3273F9B16130AE4116 | N/A | obfs4 | 
@@ -1450,7 +1451,6 @@ NCBridge336 | liberty336@protonmail.com | 69FE7AE162B8EDAE5AAFDD1C865F8CA0FDCE01
 Unnamed | N/A | 6A002F598AA11CD5D0F101A1B64FE3A6EBA49076 | N/A | obfs4 | 
 Unnamed | jordonxbc@gmail.com | 6A2CF5C3FA77700C945DE267AB0755B44F1F7EBD | N/A | obfs4 | 
 cryzbridge02 | avaet1iriejai9duv6aj(at)gmail(dot)com [tor-relay.co] | 6A438770B6A025F3ECFC20BACAFBD04C71AC5203 | email | obfs4 | guessed=true
-Unnamed | N/A | 6A43FD6CD17725841A31016BD7578F4A6205F661 | N/A |  | 
 TriplebitAN | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | 6A778974D471BE64BEB4FBC78E8936A1E33C992A | telegram | webtunnel | 
 tttTOR | <20nmn02@gmail.com> | 6A9E4D752DAD47931FE375606AC80A85A34852EF | none | webtunnel | 
 TunnelToFreedomZ | admin@tor.utilizer.cloud (Visit http://tor.via.i2p/ on I2P Network to get access to Tor Network via I2P. No bridges needed!) | 6AA19E6C1954CD03208978B8AA58F1D3894330C6 | telegram | webtunnel | 
@@ -2658,7 +2658,6 @@ kropotkin1 | gus@riseup.net | C3E30588ACEE0476A3D5053EEB4B4D9B593B0735 | setting
 Sr2Bridge4583 | hello from onionland | C3E932C4E666046C34C127379AD6E60A4EBF1D17 | N/A | obfs4 | 
 Sr2Bridge4585 | hello from onionland | C41CD5A3EEF64848D42C887C0EE37723EFAE72F6 | N/A | obfs4 | 
 JazperObfs4Bridge | Supertcm4 (AT) gmail (DOT) com | C42000EF31B0C94BFFE6E3C8E1E2F552C6914BE3 | settings | obfs4 | 
-NotABridge | m4ch3t3.jd@gmail.com | C4204AA44685FF7E115379B93D72735D70F6FDF3 | N/A | obfs4 | 
 SquirrelBridge | <tor-relay@facha.dev> | C447E634C955EBEFED5A1ED2A634E213F1FEBA20 | email | obfs4 | 
 TriplebitAD | url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered proof:uri-rsa ciissversion:2 | C4611E6CBF9C100FBA59888C8DE29E57CE78B58A | https | webtunnel | 
 Sr2Bridge4582 | hello from onionland | C46FC67106944BF7C41BFA2985154969A9E7437F | N/A | obfs4 | 
@@ -2850,7 +2849,7 @@ TriplebitAW | url:https://www.triplebit.org mastodon:https://mstdn.plus/@tripleb
 bolarbridge | bolar@live.no | D3768FD7F933A4939A14CD172ED979F19606A958 | moat | obfs4 | 
 BridgeRelay | bridgesysadmin@protonmail.com | D3845F238B38C4C2B7D9A527F8886336D2BA91DD | telegram | obfs4 | 
 debiantor3bridge | N/A | D39346FF8A1EC64964DF906168625ED1EDDD3EA5 | none | obfs4 | 
-aBitOfHelp | jingojngo at gmail.com 0xF8A61A2F | D3AA5560B98FC2464BEB0A4435CC62FAAD8BB2BA | telegram |  | 
+aBitOfHelp | jingojngo at gmail.com 0xF8A61A2F | D3AA5560B98FC2464BEB0A4435CC62FAAD8BB2BA | telegram | obfs4 | 
 rondieBridge15 | tor@rondie.nl | D3C83A4199923F3E2D2603CD5B273076CDE7E1EC | https | obfs4 | 
 Ashitaka | benoitgeslain@gmail.com | D3D25D16252FE08AD460FCD60763C177D9DED4FB | email | obfs4 | 
 newbox | 0xF1ADC390 Random Tor Node Operator <tor at unterderbruecke (dot) de> bitcoin:15xmQjbQNQpwYLbVCUMdPL2ies4S8kmXNm | D3D4E1EC95568C0D0D9EA180CDCBD0E4E6C1935C | settings |  | 
