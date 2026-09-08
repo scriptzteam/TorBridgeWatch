@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | tor@galetas.net | 1AC1BDDD45CCC176BD700394C88CCD95326BC281 | true | Running, V2Dir, Valid | 2026-09-08 10:59:59 | 2026-09-08 07:59:59 | 2026-09-08 06:57:11 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | N/A | 10.217.69.181:51308 | obfs4 | |
+|Unnamed | N/A | 3CB01A8B5A82F1D1A4AC2561A009FABF5D345D72 | true | Running, V2Dir, Valid | 2026-09-08 10:59:59 | 2026-09-08 07:59:59 | 2026-09-08 07:58:39 | 148480 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | 10.10.150.143:57805, [fd9f:2e19:3bcf::61:36bb]:57805 | obfs4 | |
