@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|coolranch01br | webgod@coolranch.net | 0C26986ECAAECC6B26F7B53B596F7AE7FF1A0FF1 | true | Running, V2Dir, Valid | 2026-09-11 04:02:26 | 2026-09-11 04:02:26 | 2026-09-11 02:08:33 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.26.112.21:55695 | obfs4 | |
+|NoneOfYourBiz | nobody AT example dot com | 225BC89E3CFD650413877353F7F810A974C713A9 | true | Running, V2Dir, Valid | 2026-09-11 04:02:26 | 2026-09-11 03:32:26 | 2026-09-11 03:41:39 | 0 | Tor 0.4.9.12 on Linux | 0.4.9.12 | recommended | true | N/A | 10.102.252.99:58388, [fd9f:2e19:3bcf::d8:e535]:58388 | obfs4 | |
+|coolranch01br | webgod@coolranch.net | D0239D92F087F524B56AB4AF14B0F286DF7A3A3C | false | V2Dir, Valid | 2026-09-11 04:02:26 | 2026-09-11 01:32:26 | 2026-09-10 23:48:09 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.39.138.81:49294 | obfs4 | |
