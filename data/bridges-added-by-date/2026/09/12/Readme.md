@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|torbirdowl | torbird.mail@gmail.com | 2ED910AD7C5F69D9FFBFDEC623BAB8FF84063D23 | true | Running, V2Dir, Valid | 2026-09-12 05:46:32 | 2026-09-12 04:16:31 | 2026-09-12 03:54:45 | 0 | Tor 0.4.9.12 on Linux | 0.4.9.12 | recommended | true | N/A | 10.90.101.78:52558 | obfs4 | |
+|TbOsRl | <abc54321xyz@pm.me> | A845C179EADD9304A65E253F009569A2434DAE2B | true | Running, V2Dir, Valid | 2026-09-12 05:46:32 | 2026-09-12 05:46:32 | 2026-09-12 05:20:37 | 0 | Tor 0.4.9.12 on Linux | 0.4.9.12 | recommended | true | N/A | 10.120.127.194:59622 | obfs4 | |
