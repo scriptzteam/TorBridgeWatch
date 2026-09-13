@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | obfuscated@keemail.me | C8564794D6EA4CB2B5B7C1FC7DF92BF4D220EE23 | false | V2Dir, Valid | 2026-09-13 03:46:34 | 2026-09-13 00:46:34 | 2026-09-13 00:27:09 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.156.43.149:59289 | obfs4 | |
+|Unnamed | N/A | CA32C965ACE651EE5992E6034C29D57107B4CD66 | true | Running, V2Dir, Valid | 2026-09-13 03:46:34 | 2026-09-13 03:16:34 | 2026-09-13 02:49:54 | 0 | Tor 0.4.9.12 on Linux | 0.4.9.12 | recommended | true | N/A | 10.37.213.81:60032 | meek | |
