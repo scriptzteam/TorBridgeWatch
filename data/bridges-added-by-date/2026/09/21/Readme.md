@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|glittershy | TOR Administrator <tor AT glittershy dot net> | 6257E7AF8761C97910D766AE8455E98A93F16CAF | true | Running, V2Dir, Valid | 2026-09-21 03:42:56 | 2026-09-21 03:42:56 | 2026-09-21 03:24:35 | 72704 | Tor 0.4.9.12 on FreeBSD | 0.4.9.12 | recommended | true | N/A | 10.204.115.8:50473, [fd9f:2e19:3bcf::53:675a]:50473 | obfs4 | |
