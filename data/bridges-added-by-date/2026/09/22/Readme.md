@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|usabcdefg | goodluck@dev.null | 005F44D111B690420CA70B0815C7C4870A2128CD | true | Running, V2Dir, Valid | 2026-09-22 03:42:57 | 2026-09-22 01:42:57 | 2026-09-21 23:30:06 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.12.104.39:61764 | obfs4 | |
+|runner | edonrot [aŧ] mynacol [dòt] xyz | 334F007E47C51AF221AEEA82A3E8A2E535B86D83 | false | V2Dir, Valid | 2026-09-22 03:42:57 | 2026-09-22 01:42:57 | 2026-09-20 05:49:08 | 0 | Tor 0.4.9.12 on Linux | 0.4.9.12 | recommended | true | N/A | 10.121.92.210:54561, [fd9f:2e19:3bcf::c9:6029]:54561 | obfs4 | |
