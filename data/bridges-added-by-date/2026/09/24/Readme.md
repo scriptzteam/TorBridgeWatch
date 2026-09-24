@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Kestrel | N/A | 245964D735488DF4521227CCFEF87B0C49A8065A | true | Running, V2Dir, Valid | 2026-09-24 03:45:14 | 2026-09-24 00:15:14 | 2026-09-24 00:11:15 | 0 | Tor 0.4.9.12 on Linux | 0.4.9.12 | recommended | true | N/A | 10.56.180.1:63137 | webtunnel | |
+|Quetzalcoatl46Zen | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh ciissversion:2 | F60BD849DBBB53C8A2A049D4AC238047698DA4CD | true | Running, V2Dir, Valid | 2026-09-24 03:45:14 | 2026-09-24 01:15:14 | 2026-09-24 01:11:14 | 0 | Tor 0.4.9.13 on Linux | 0.4.9.13 | recommended | true | N/A | 10.140.248.2:61256, [fd9f:2e19:3bcf::e9:37e0]:61256 | obfs4 | |
