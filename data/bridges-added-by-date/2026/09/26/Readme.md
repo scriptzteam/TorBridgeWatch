@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Filoubumbum | Random Person <neviodata AT gmal dot com> | 048BF98A10117E60AF27965EB4285D22870DE12A | true | Running, V2Dir, Valid | 2026-09-26 00:45:21 | 2026-09-26 00:15:21 | 2026-09-25 23:58:45 | 0 | Tor 0.4.9.13 on Linux | 0.4.9.13 | recommended | true | N/A | 10.16.1.225:55630 | obfs4 | |
