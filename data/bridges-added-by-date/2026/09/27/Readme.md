@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | N/A | ADDEABB10D0C95E260445CB04BF0FC2EF7D49C38 | true | Running, V2Dir, Valid | 2026-09-27 00:45:22 | 2026-09-27 00:15:22 | 2026-09-27 00:08:30 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.48.10.205:64769, [fd9f:2e19:3bcf::5d:8f10]:64769 | obfs4 | |
