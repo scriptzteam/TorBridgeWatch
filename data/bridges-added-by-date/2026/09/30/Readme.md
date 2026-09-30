@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WTBrCpgPMNhj7I | zhanw@microsoft.com | 13FC9298EF1ACD6CA6C03317C55CA8C04C686108 | true | Running, V2Dir, Valid | 2026-09-30 08:45:25 | 2026-09-30 05:45:25 | 2026-09-30 05:50:20 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.116.236.123:60383 | webtunnel | |
+|JASBridge | alt.ju-9on2i2es@yopmail.com | C7715A1C9CA3A38036EAE6B077B414FC8C639688 | true | Running, V2Dir, Valid | 2026-09-30 08:45:25 | 2026-09-30 04:15:25 | 2026-09-24 16:28:22 | 467179 | Tor 0.4.9.13 on Linux | 0.4.9.13 | recommended | true | N/A | 10.83.101.9:57180 | webtunnel | |
