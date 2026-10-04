@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|SDFJ45kfk3 | N/A | 42C346BE62B6580A1864C653C5B59A36C8461BE2 | true | Running, V2Dir, Valid | 2026-10-04 00:54:22 | 2026-10-04 00:24:22 | 2026-10-04 00:10:43 | 0 | Tor 0.4.9.13 on Windows Server 2012 [or later] | 0.4.9.13 | recommended | true | N/A | 10.164.136.140:55549 | obfs4 | |
+|OttawaBridge | sorry@but.no | DE5ADD4869FF882AD0B62C448EA2AEAE2CA8235A | true | Running, V2Dir, Valid | 2026-10-04 00:54:22 | 2026-10-04 00:24:22 | 2026-10-03 23:49:34 | 0 | Tor 0.4.9.13 on Linux | 0.4.9.13 | recommended | true | N/A | 10.98.99.23:50577 | obfs4 | |
