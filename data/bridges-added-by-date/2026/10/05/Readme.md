@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Jimbothee | jimothylemon67@gmail.com | 18CEBCBC059157BE633B5978E2004AB75763936D | true | Running, V2Dir, Valid | 2026-10-05 05:54:23 | 2026-10-05 01:24:22 | 2026-10-05 03:53:34 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | obsolete | false | N/A | 10.51.121.252:53026 | obfs4 | |
+|zkb7k2x91 | noreply@example.com | 4B14824D78F7F98E3C86CC2DF0F37C56D0C6EE23 | true | Running, V2Dir, Valid | 2026-10-05 05:54:23 | 2026-10-05 03:24:22 | 2026-10-05 03:09:20 | 0 | Tor 0.4.9.13 on Linux | 0.4.9.13 | recommended | true | N/A | 10.140.82.128:62211 |  | |
