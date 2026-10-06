@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|vitriolbridge | Vitriol Moonlight <vitriolmoonlight AT proton DOT me> | 304BD6B9D16F70EC0FE978E8E03FC484F4D9B57A | true | Running, V2Dir, Valid | 2026-10-06 02:54:23 | 2026-10-06 02:54:23 | 2026-10-06 02:42:03 | 0 | Tor 0.4.9.13 on Linux | 0.4.9.13 | recommended | true | N/A | 10.137.165.239:64185 | obfs4 | |
+|Ashanti | 8duk85lbd@mozmail.com | E71D6D7D168BD7A49E41897AEE423132F2F2B666 | true | Running, V2Dir, Valid | 2026-10-06 02:54:23 | 2026-10-06 00:24:23 | 2026-10-06 02:22:24 | 0 | Tor 0.4.9.13 on Linux | 0.4.9.13 | recommended | true | N/A | 10.84.213.41:52721 | obfs4 | |
