@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ifuckedtheconfig1 | A1832FA4DA93F93025D9FC5B802AFB2263B96487 Admin admin@puppygirl.best | 733579A77B9A7E50011F0F7D18116B1A0C4AD37A | true | Running, V2Dir, Valid | 2026-10-07 06:54:24 | 2026-10-07 00:24:24 | 2026-10-06 23:40:37 | 16384 | Tor 0.4.9.11 on FreeBSD | 0.4.9.11 | obsolete | false | N/A | 10.252.196.96:51029 |  | |
+|ARNBridge | arn-bridge <at> alexsemenovru.cloud-ip.cc | EBBF6BDBC14247B145A4A86E551C71B22B16AB6E | true | Running, V2Dir, Valid | 2026-10-07 06:54:24 | 2026-10-07 00:24:24 | 2026-10-07 00:10:28 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.178.136.5:64832, [fd9f:2e19:3bcf::cc:3b32]:64832 | obfs4 | |
