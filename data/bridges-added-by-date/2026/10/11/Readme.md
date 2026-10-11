@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|kallio | rsa4096/A1F1E776E110F29C "6A39 0014 3004 84B5 67ED  F7F5 A1F1 E776 E110 F29C" | 42EE7999FB1F28B6F0292E6E29256FAD09E58EF6 | true | Running, V2Dir, Valid | 2026-10-11 06:55:24 | 2026-10-11 02:55:24 | 2026-10-11 01:18:15 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.178.180.159:65422, [fd9f:2e19:3bcf::07:74da]:65422 |  | |
+|fjzf | N/A | E57EB2913120618F6F89000916CD5A8AE92E8D7A | false | V2Dir, Valid | 2026-10-11 05:55:24 | 2026-10-11 02:55:24 | 2026-10-11 02:51:16 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.79.121.114:51115 | webtunnel | |
