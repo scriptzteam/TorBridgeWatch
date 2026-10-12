@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Bridge | enrico@h3rmt.zip | A64019B2379B3D0EBC48C24E57742B0C4CE180A1 | true | Running, V2Dir, Valid | 2026-10-12 01:55:25 | 2026-10-12 00:55:25 | 2026-10-12 00:32:39 | 5425152 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.200.250.232:53583, [fd9f:2e19:3bcf::e6:7306]:53583 |  | |
+|DockerObfs4Bridge | ericb@ericbarch.com | D1C4687F28B07F63F8DD0F41696287FEE78DC508 | true | Running, V2Dir, Valid | 2026-10-12 01:55:25 | 2026-10-12 01:55:25 | 2026-10-12 01:42:13 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.249.109.182:53147 | obfs4 | |
