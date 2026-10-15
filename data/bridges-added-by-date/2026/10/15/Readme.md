@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|testexample | your-email@example.com | 7AAE3D5282ED5413158C9DC550A349E3E8241338 | true | Running, V2Dir, Valid | 2026-10-15 03:55:28 | 2026-10-15 02:55:28 | 2026-10-15 02:30:00 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.4.169.212:49923, [fd9f:2e19:3bcf::40:14e3]:49923 | obfs4 | |
