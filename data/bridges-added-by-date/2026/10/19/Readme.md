@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|FoxyFOSS | v3k4dpje6@mozmail.com | 208E32F7BF6E97724E10214C6609AD62A2AF5B3C | false | V2Dir, Valid | 2026-10-19 03:55:30 | 2026-10-19 01:25:30 | 2026-10-19 01:01:56 | 0 | Tor 0.4.9.13 on FreeBSD | 0.4.9.13 | recommended | true | N/A | 10.191.110.153:53767, [fd9f:2e19:3bcf::a6:d9da]:53767 | obfs4 | |
+|FoxyFOSS | v3k4dpje6@mozmail.com | 9A9A504BEAE111D507BBB95F5C5947F6CB3F29DF | true | Running, V2Dir, Valid | 2026-10-19 03:55:30 | 2026-10-19 01:55:30 | 2026-10-19 02:30:04 | 0 | Tor 0.4.9.13 on FreeBSD | 0.4.9.13 | recommended | true | N/A | 10.199.101.207:63093, [fd9f:2e19:3bcf::8a:cfe3]:63093 | obfs4 | |
