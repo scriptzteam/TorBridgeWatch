@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PickANickname | lpryszcz@tuta.io | 08C8C7BA6547550DEBCB5BEF2244298334CB61D1 | true | Running, V2Dir, Valid | 2026-10-21 08:44:00 | 2026-10-21 08:14:00 | 2026-10-21 08:05:26 | 48128 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.24.237.187:58525 | obfs4 | |
+|feeble | feeble@tuta.com | 387026E5CF0E012AEDC22C60034AA02250F3E605 | true | Running, V2Dir, Valid | 2026-10-21 08:44:00 | 2026-10-21 04:14:00 | 2026-10-21 03:47:50 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.212.146.10:60704 | obfs4 | |
