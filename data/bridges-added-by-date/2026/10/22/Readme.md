@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|BrookRameev8W | brookrameev@pm.me | 4F2B533C1E25C45236723818EEB84044DB3DBDFC | true | Running, V2Dir, Valid | 2026-10-22 00:03:10 | 2026-10-22 00:03:10 | 2026-08-21 06:13:54 | 7142 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.239.68.236:64986, [fd9f:2e19:3bcf::55:31d1]:64827 | webtunnel | |
