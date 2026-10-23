@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|phoenix | ContactInfo tor-relay AT kodashouse DOT com | A186061874C824113D31396D68A084EE7524A0C8 | true | Running, Valid | 2026-10-23 04:03:16 | 2026-10-23 00:03:16 | 2026-10-23 00:23:15 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.206.177.202:55712 | webtunnel | |
+|Unnamed | N/A | AE5FA2ED3E3FCB454C699732526317F764F15AB6 | true | Running, V2Dir, Valid | 2026-10-23 04:03:16 | 2026-10-23 04:03:16 | 2026-10-23 03:20:41 | 0 | Tor 0.4.9.10 on Linux | 0.4.9.10 | obsolete | false | N/A | 10.246.120.198:60835 | obfs4 | |
+|NextServBridge | NextServ NOC <noc@nextserv.eu> | BDD34E411548A8C2F76FE0D0918B199A9D7BD9CA | true | Running, V2Dir, Valid | 2026-10-23 04:03:16 | 2026-10-23 01:03:16 | 2026-10-23 00:37:34 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.120.42.228:65086 | obfs4 | |
