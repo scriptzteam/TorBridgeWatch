@@ -1,3 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DockerObfs4Bridge | laurenz.coellen@gmail.com | AE82376A55B098F7593C67D4CDBEC1307B87E915 | true | Running, V2Dir, Valid | 2026-10-24 00:03:16 | 2026-10-24 00:03:16 | 2026-10-23 22:36:02 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.23.64.93:60765 | obfs4 | |
+|Lomana | figment_lavish366@passfwd.com | 2C09A75C5CF8100F566B6EDD2511C34A6D9D2188 | true | Running, V2Dir, Valid | 2026-10-24 05:03:16 | 2026-10-24 01:33:16 | 2026-10-24 01:23:09 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.241.114.226:59033 | obfs4 | |
+|DockerObfs4Bridge | laurenz.coellen@gmail.com | AE82376A55B098F7593C67D4CDBEC1307B87E915 | true | Running, V2Dir, Valid | 2026-10-24 05:03:16 | 2026-10-24 00:03:16 | 2026-10-23 22:36:02 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | 10.23.64.93:60765 | obfs4 | |
