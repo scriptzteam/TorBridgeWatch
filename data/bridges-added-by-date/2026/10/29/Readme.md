@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ESSABridge | essa-bridge <at> arn-essa.cloud-ip.cc | 47E444741DB35AD1CE7CDCF42B475A36B3BE40AD | true | Running, V2Dir, Valid | 2026-10-29 01:41:16 | 2026-10-29 00:11:16 | 2026-10-28 23:41:08 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | obsolete | false | N/A | 10.88.65.72:57262, [fd9f:2e19:3bcf::a7:ae8d]:57262 | obfs4 | |
+|ki | N/A | F70F8EB345B25094FAE7AFE8A41DA9C97DEF6A4F | true | Running, V2Dir, Valid | 2026-10-29 01:41:16 | 2026-10-29 00:11:16 | 2026-10-28 23:41:27 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | obsolete | false | N/A | 10.93.147.254:57367 |  | |
