@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WTBrGlemmen | hexahigh0@gmail.com | 03087645AA39FB3ACC52C102BA557C3E242A2B27 | true | Running, V2Dir, Valid | 2026-10-31 05:41:23 | 2026-10-31 02:41:23 | 2026-10-29 19:29:08 | 18432 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.182.40.65:54927 | webtunnel | |
+|DockerObfs4Bridge | fitful_bikers.6o@icloud.com | 2642B3B85836876F03D0B14A0DC28F7E9F7977DA | true | Running, V2Dir, Valid | 2026-10-31 05:41:23 | 2026-10-31 00:41:23 | 2026-10-30 23:06:50 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.40.64.112:63751 | obfs4 | |
