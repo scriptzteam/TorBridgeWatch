@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ki | N/A | 2CDA34BD7C51E3F516AEC71EE4275F25577DBF16 | true | Running, V2Dir, Valid | 2026-11-03 05:42:19 | 2026-11-03 00:08:50 | 2026-11-02 23:42:15 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | obsolete | false | N/A | 10.103.68.231:60297 |  | |
+|ki | N/A | 8E80230C40179B022D7034EE2FBD2028F65AD532 | true | Running, V2Dir, Valid | 2026-11-03 05:42:19 | 2026-11-03 00:08:50 | 2026-11-02 23:42:01 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | obsolete | false | N/A | 10.237.122.142:53282 |  | |
+|DockerObfs4Bridge | webmaster@stuehler.net | C36FF96D4DFEC0EDFE48EE177104435D044A17C8 | true | Running, V2Dir, Valid | 2026-11-03 05:42:19 | 2026-11-03 04:12:19 | 2026-11-03 02:50:40 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.232.143.198:50234, [fd9f:2e19:3bcf::d0:bf30]:50234 | obfs4 | |
