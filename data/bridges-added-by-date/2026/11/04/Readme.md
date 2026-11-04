@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ki | N/A | 0136E7C95B25850B631AC85D87A666F89CEEBE46 | true | Running, V2Dir, Valid | 2026-11-04 06:42:22 | 2026-11-04 00:12:22 | 2026-11-03 23:42:36 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | obsolete | false | N/A | 10.233.159.218:62532 |  | |
+|Macroslop | satyan@microsoft.com | 3095FB59D62509C07A355A615C92A466353116E6 | true | Running, V2Dir, Valid | 2026-11-04 06:42:22 | 2026-11-04 01:42:22 | 2026-11-04 01:25:10 | 0 | Tor 0.4.9.15 on OpenBSD | 0.4.9.15 | recommended | true | N/A | 10.215.217.14:52711, [fd9f:2e19:3bcf::4b:c870]:52711 | obfs4 | |
+|incognitaSouthKor3 | contact-incognita@protonmail.com | 412901147581B820F797ACC3D10A4D3387CD3F50 | true | Running, Valid | 2026-11-04 06:42:22 | 2026-11-04 02:12:22 | 2026-11-04 01:57:26 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.98.86.84:56772 | obfs4 | |
