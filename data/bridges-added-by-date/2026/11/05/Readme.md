@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|NeelTorBridge2 | Neel Chauhan <neel AT neelc DOT org> | AEEFBFD365E6C6FDE29D328A0C34DC602D47C290 | true | Running, V2Dir, Valid | 2026-11-05 00:55:39 | 2026-11-05 00:55:39 | 2026-11-05 00:39:02 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.101.10.132:53148, [fd9f:2e19:3bcf::eb:ea72]:53148 |  | |
