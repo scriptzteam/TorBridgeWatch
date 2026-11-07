@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | private-obfs4-bridge | 9336C3698F925B0BD6956A7A05FAB3705D74E048 | false | V2Dir, Valid | 2026-11-07 09:55:46 | 2026-11-07 06:25:46 | 2026-11-07 06:00:05 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.224.66.6:56406 | obfs4 | |
+|SatoshiNakamoto | tick0918ww@gmail.com | C994BFBDFC45117C671D501218F54CB8C0C807F2 | true | Running, V2Dir, Valid | 2026-11-07 09:55:46 | 2026-11-07 03:25:46 | 2026-11-07 04:05:49 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.98.223.144:63350 | obfs4 | |
