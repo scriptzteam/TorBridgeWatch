@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|pienidatakeskus | admin@vartiovaara.fi | 0AF352CC5481C7210DD93F43364E0224C5F51F57 | true | Running, V2Dir | 2026-11-08 04:55:47 | 2026-11-08 02:55:47 | 2026-11-07 16:05:02 | 8157184 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.210.246.43:62943 |  | |
+|DockerObfs4Bridge | tor1.sogo9@8shield.net | 21EB32C95EF7478592E3FA141CCE530FADA9D7DE | true | Running, V2Dir, Valid | 2026-11-08 04:55:47 | 2026-11-08 00:55:47 | 2026-11-07 22:40:58 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.193.7.100:49378 | obfs4 | |
+|doprovod01 | tor [at] jonahtreiber [dot] com | 5746EA9561B53A4C2127B31C3878C5BE8DA4C785 | true | Running, V2Dir, Valid | 2026-11-08 04:55:47 | 2026-11-08 04:55:47 | 2026-11-08 04:46:29 | 0 | Tor 0.4.9.16 on Linux | 0.4.9.16 | recommended | true | N/A | 10.218.80.150:59999 | webtunnel | |
