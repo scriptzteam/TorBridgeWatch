@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MyObfs4Bridge | support@kddi.cc | 167444A600F8846EF6466BC84B010CC356B41FC2 | true | Running, V2Dir, Valid | 2026-11-10 03:55:48 | 2026-11-10 02:55:48 | 2026-11-10 02:37:06 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.114.38.155:57363 | obfs4 | |
+|elbrujo | webmaster@elhacker.net | FFC2DAD52683D5EA55F527AD4D2439DB151A92A5 | true | Running, V2Dir, Valid | 2026-11-10 03:55:48 | 2026-11-10 00:25:48 | 2026-11-09 23:36:58 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.237.204.126:64326 | webtunnel | |
