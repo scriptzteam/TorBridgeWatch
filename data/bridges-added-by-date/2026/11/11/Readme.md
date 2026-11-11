@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PayaBridge01 | CHANGE-ME <operator AT example DOT com> | D300F31EFB947902B54C3EA12D1FBB54A341FD63 | true | Running, V2Dir, Valid | 2026-11-11 06:55:49 | 2026-11-11 02:25:49 | 2026-11-11 02:15:37 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.152.241.89:63421 | obfs4 | |
+|iextremetor1 | IEXTREME NOC <noc@iextreme.org> | FF9507E67BAEB45927C2994C8FFDE102FCAF56AC | true | Running, V2Dir, Valid | 2026-11-11 06:55:49 | 2026-11-11 02:55:49 | 2026-11-11 02:40:14 | 2296832 | Tor 0.4.9.14 on Linux | 0.4.9.14 | obsolete | false | N/A | 10.135.144.101:55166 |  | |
