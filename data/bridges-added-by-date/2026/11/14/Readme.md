@@ -1,2 +1,4 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | 4eganhouse+tor@gmail.com | 316974D15767B767C1B30E7DE9DCFDAEA6AA2494 | true | Running, V2Dir, Valid | 2026-11-14 05:47:47 | 2026-11-14 05:17:47 | 2026-11-14 04:52:39 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.90.187.9:54509 | obfs4 | |
+|bisKoito001 | PleaseDontTalkAnymore | 81A2D9E95FFA06E14EEEFE74D01DA0780AC6962E | false | V2Dir, Valid | 2026-11-14 05:47:47 | 2026-11-14 03:17:46 | 2026-11-13 16:00:59 | 39936 | Tor 0.4.9.15 on FreeBSD | 0.4.9.15 | recommended | true | N/A | 10.136.58.242:55891 |  | |
