@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|obviousRecourse | <nwk3nj5x@anonaddy.com> | 0579FF6515EECA553CB77AF4D42B1BE877D9EB0C | true | Running, V2Dir, Valid | 2026-11-15 02:47:47 | 2026-11-15 00:17:47 | 2026-11-15 02:28:17 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.142.116.224:60169 | obfs4 | |
