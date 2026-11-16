@@ -1,0 +1,3 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WTBrV9SZFrTlix | nwk3nj5x@anonaddy.com | 14660FC31881480E95C7700E6C4D5AEC87E191A4 | true | Running, V2Dir, Valid | 2026-11-16 02:14:05 | 2026-11-16 01:44:04 | 2026-11-16 01:26:24 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.215.160.189:51147 | webtunnel | |
