@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DockerObfs4Bridge | tor.bridge@miningtcup.me | 58771D1E1BE1725389B31DB842A305E2D47E4EC0 | true | Running, V2Dir, Valid | 2026-11-17 03:50:41 | 2026-11-17 00:50:40 | 2026-11-17 03:10:08 | 82944 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.205.185.138:54120 | obfs4 | |
+|DarkWebBridge | N/A | 77E83A64E9AA6BCACD22280264A6740CD3E9603D | true | Running, V2Dir, Valid | 2026-11-17 03:50:41 | 2026-11-17 00:20:41 | 2026-11-16 20:59:11 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | 10.53.25.13:49496 | obfs4 | |
