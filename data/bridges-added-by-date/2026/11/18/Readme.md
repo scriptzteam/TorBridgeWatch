@@ -1,0 +1,4 @@
+| Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|omniverity | ominuous.tvmq8@passmail.com | 0D1B5CE236F5620E7D30401B91F1C75D408F47E0 | true | Running, V2Dir, Valid | 2026-11-18 03:47:44 | 2026-11-18 03:17:44 | 2026-11-18 03:06:38 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.206.226.189:50776 | obfs4 | |
+|Ubuntu24Bridge | bridgeadmin@example.com | 365F1D3F8752BBED2613B28AA98A366133D470AA | true | Running, V2Dir, Valid | 2026-11-18 03:47:44 | 2026-11-18 03:47:44 | 2026-11-18 03:05:06 | 0 | Tor 0.4.9.17 on Linux | 0.4.9.17 | recommended | true | N/A | 10.60.45.215:56904 | obfs4 | |
