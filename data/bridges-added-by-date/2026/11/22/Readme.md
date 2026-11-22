@@ -1,2 +1,3 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Quetzalcoatl35Tara | Quetzalcoatl_relays@proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh ciissversion:2 | 64466FF257DFA0AB1432BBFFB0C6CCB180C110F0 | true | Running, V2Dir, Valid | 2026-11-22 07:46:46 | 2026-11-22 00:46:45 | 2026-11-22 00:16:51 | 0 | Tor 0.4.9.17 on Linux | 0.4.9.17 | recommended | true | N/A | 10.239.124.12:59289, [fd9f:2e19:3bcf::fe:e587]:59289 | obfs4 | |
