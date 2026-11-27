@@ -1,2 +1,5 @@
 | Nickname |  Contact | Hashed Fingerprint	| Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | BridgeDB Distributor | OR Addresses | Transports | BlockList |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|jSFBay | jeffatoday AT gmail DOT com | 399A9EBE8B5101186DBCD2FF464D12FB649A7570 | false | V2Dir, Valid | 2026-11-27 09:43:48 | 2026-11-27 06:43:48 | 2026-11-27 06:13:23 | 36864 | Tor 0.4.9.17 on Darwin | 0.4.9.17 | recommended | true | N/A | 10.43.205.190:49306 | obfs4 | |
+|debbridge | N/A | A9FCDC3BFB4E40DC365A97900E9D4EE6CD2B3F75 | true | Running, Valid | 2026-11-27 09:43:48 | 2026-11-27 08:43:48 | 2026-11-27 08:33:08 | 0 | Tor 0.4.9.15 on Linux | 0.4.9.15 | recommended | true | N/A | 10.21.32.238:55005, [fd9f:2e19:3bcf::f4:2d4a]:55005 | obfs4 | |
+|Unnamed | N/A | FFEA71FF6AC1E076DE499B2DA2E28050BD665265 | true | Running, V2Dir, Valid | 2026-11-27 09:43:48 | 2026-11-27 07:43:48 | 2026-11-27 07:25:09 | 0 | Tor 0.4.9.17 on Linux | 0.4.9.17 | recommended | true | N/A | 10.247.254.10:52779, [fd9f:2e19:3bcf::f3:2c28]:52779 | obfs4 | |
